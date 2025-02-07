@@ -1,8 +1,9 @@
 ---
 title: "Processo Constitucional"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
 site: distill::distill_website
+bibliography: bibliografia.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -13,4 +14,56 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Hello world!
+Bem vindos/as!
+
+Este é o site do curso de de processo constitucional para o 6º semestre da Faculdade de Direito da Universidade Zumbi dos Palmares.
+
+# Informações básicas
+
+- **Período:** primeiro semestre, 2025
+- **Sala:** a definir
+- **Horários:**
+  - segundas, 21h00-22h35
+  - quartas, 19h00-20h40
+- **Professor:** Luccas Gissoni
+
+# Apresentação
+
+Todos nós conhecemos o direito constitucional: ele abriga os direitos fundamentais, a organização do Estado e a regulação da atividade econômica. Na intersecção dessas três áreas, está o programa de construção do Estado de bem estar social em nosso país. Contudo, como todo direito, não basta ao constitucional a positivação na lei: para ser efetivo, é necessária a previsão de ações judiciais que façam cumprir o direito.
+Assim, além de direitos subjetivos materiais, a Constituição da República prevê uma série de possibilidades de provocação do Poder Judiciário cujo objetico é fazer valer os preceitos constitucionais. Ao conjunto desses direito de ação e ao procedimento judicial específico que eles conformam, chamamos **processo constitucional**.
+O objetivo deste curso é entender esse processo. Mas, de início, iremos discutir o que é "processo", antes de adentrar o terreno do processo especificamente constitucional. O foco desta primeira parte do curso será teórico e histórico. Na segunda parte, apresentaremos procedimentos constitucionais especiais e praticaremos a redação de suas peças profissionais conforme as regras do Exame de Ordem da OAB.
+
+# Bibliografia básica
+
+@dimoulis_curso_2016
+
+# Estrutura do curso
+
+## Aulas, leituras e materiais
+
+Teremos momentos de aulas expositivo-dialogadas em que discutiremos a bibliografia do curso. Neste site, também estarão disponíveis as notas de aula, elaboradas pelo professor, que servirão de material de apoio. A leitura de ambos os materiais é obigatória.
+
+## Avaliação
+
+A avaliação será dividida em dois bimestres, cada um dos quais contará com três PAP, cada uma valendo 1 ponto e uma PAT, valendo 7 pontos. A nota final será a média dos dois bimestres e haverá possibilidade de realização de exame. 
+
+### PAP
+
+Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda parte, elas serão constituídas pela prática de redação das peças profissionais do processo constitucional conforme o Exame de Ordem. As PAP serão realizadas em sala ou em casa, conforme o caso.
+
+### PAT
+
+As PAT serão constituídas por dez questões objetivas valendo 5 pontos e uma ou duas questões dissertativas valendo 2 pontos. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.
+
+# Sobre o professor
+
+Possui graduação em Direito pela Universidade de São Paulo (2015), graduação em Filosofia pela Pontifícia Universidade Católica de São Paulo (2012) e mestrado em Economia Política Mundial pela Universidade Federal do ABC (2020). No momento, está no doutorado também por este mesmo programa. É pós-graduado em Processo Civil pela Fundação Getulio Vargas (2019). Atualmente é Professor de Direito na Universidade Zumbi dos Palmares, Analista de Políticas Públicas e Gestão Governamental na Secretaria Municipal de Mobilidade Urbana e Trânsito da Prefeitura de São Paulo e professor voluntário na Uneafro. Constrói o projeto "Novo Bandung: grupo de estudos sobre descolonização e emergência do Sul: África, Ásia e América Latina" na UFABC, bem como a Agrarian South Network, em Harare, Zimbábue, desenvolvendo pesquisa sobre a formação econômica e social do Brasil e da China. Foi coordenador de direito econômico e economia política da Comissão de Graduação, Pós-Graduação e Pesquisa da OAB/SP. Tem experiência nas áreas de Economia Política Mundial, Planejamento de Transportes, Filosofia e Direito, atuando principalmente nos seguintes temas: história econômica, teoria geral do direito, formação econômica e social do Brasil, história da África, desenvolvimento econômico e geopolítica na Ásia, segurança viária e planejamento cicloviário. Advogado em São Paulo.
+
+
+![](images/favicon_lattes.png){ width=3% } Lattes 
+Orcid
+Research Gate
+Academia.edu
+Twitter
+
+# Referências bibliográficas
