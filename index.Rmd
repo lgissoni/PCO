@@ -1,7 +1,7 @@
 ---
 title: "Processo Constitucional"
 description: |
-  Site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
+  Bacharelado em direito - Faculdade Zumbi dos Palmares
 site: distill::distill_website
 bibliography: bibliografia.bib
 ---
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Bem vindos/as!
 
-Este é o site do curso de de processo constitucional para o 6º semestre da Faculdade de Direito da Universidade Zumbi dos Palmares.
+Este é o site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
 
 # Informações básicas
 
@@ -33,9 +33,25 @@ Todos nós conhecemos o direito constitucional: ele abriga os direitos fundament
 Assim, além de direitos subjetivos materiais, a Constituição da República prevê uma série de possibilidades de provocação do Poder Judiciário cujo objetico é fazer valer os preceitos constitucionais. Ao conjunto desses direito de ação e ao procedimento judicial específico que eles conformam, chamamos **processo constitucional**.
 O objetivo deste curso é entender esse processo. Mas, de início, iremos discutir o que é "processo", antes de adentrar o terreno do processo especificamente constitucional. O foco desta primeira parte do curso será teórico e histórico. Na segunda parte, apresentaremos procedimentos constitucionais especiais e praticaremos a redação de suas peças profissionais conforme as regras do Exame de Ordem da OAB.
 
-# Bibliografia básica
+# Bibliografia
+
+```{r}
+#biblio <- bibtex::read.bib("biliografia.bib")
+#utilizar abaoxo
+#`r capture.output(print(biblio["brasil_constituicao_1988"]))`
+```
+
+
+## Bibliografgia básica
+
 
 @dimoulis_curso_2016
+
+## Bibliografia complementar
+
+@mendes_curso_2024
+@moraes_direito_2023
+@padilha_como_2014
 
 # Estrutura do curso
 
