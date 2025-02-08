@@ -1,7 +1,7 @@
 ---
 title: "Progama da disciplina"
 description: |
-  Processo constitucional, 1º semestre 2025
+  1º semestre 2025
 output: distill::distill_article
 bibliography: bibliografia.bib
 ---
@@ -10,17 +10,30 @@ bibliography: bibliografia.bib
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Aula 1
+# Semana 1
 
-Aula 2
+## Aula 1.1 - 12/02
 
-Aula 3
+Apresentação do curso
+Leitura do programa
 
-Aula 4
+# Semana 2
 
-Aula 5
+## Aula 2.1 - 17/02
 
-Aula 6
+O conceito de processo
+
+## Aula 2.2
+
+**19/02** - Processo legal
+
+# Aula 4 
+
+24/02 - Apresentação do curso
+
+## Aula 5
+
+# Aula 6
 
 Aula 7
 
