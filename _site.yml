@@ -1,5 +1,5 @@
 name: "PCO"
-title: "Processo Constitucional"
+title: "PCO"
 description: |
   Site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
 output_dir: "_site"
@@ -12,4 +12,8 @@ navbar:
       href: index.html
     - text: "Programa"
       href: programa.html
-output: distill::distill_article
+output:
+  distill::distill_article:
+    toc: TRUE
+    toc_float: TRUE
+theme: theme.css
