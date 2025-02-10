@@ -21,7 +21,7 @@
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -32,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -86,6 +86,27 @@ code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
+<style>
+  div.csl-bib-body { }
+  div.csl-entry {
+    clear: both;
+    }
+  .hanging div.csl-entry {
+    margin-left:2em;
+    text-indent:-2em;
+  }
+  div.csl-left-margin {
+    min-width:2em;
+    float:left;
+  }
+  div.csl-right-inline {
+    margin-left:2em;
+    padding-left:1em;
+  }
+  div.csl-indent {
+    margin-left: 2em;
+  }
+</style>
 
   <!--radix_placeholder_meta_tags-->
   <title>PCO: Progama da disciplina</title>
@@ -108,6 +129,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   <!--/radix_placeholder_meta_tags-->
   
+  <meta name="citation_reference" content="citation_title=Curso de processo constitucional: Controle de constitucionalidade e remédios constitucionais;citation_publisher=Atlas;citation_author=Dimitri Dimoulis;citation_author=Soraya Lunardi"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
@@ -459,8 +481,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
   <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
@@ -2509,7 +2531,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2569,58 +2591,178 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <ul>
 <li><a href="#semana-1" id="toc-semana-1">Semana 1</a>
 <ul>
-<li><a href="#aula-1.1---1202" id="toc-aula-1.1---1202">Aula 1.1 - 12/02</a></li>
+<li><a href="#aula-1.1-introdução" id="toc-aula-1.1-introdução">12/02 - aula 1.1: introdução</a></li>
 </ul></li>
 <li><a href="#semana-2" id="toc-semana-2">Semana 2</a>
 <ul>
-<li><a href="#aula-2.1---1702" id="toc-aula-2.1---1702">Aula 2.1 - 17/02</a></li>
-<li><a href="#aula-2.2" id="toc-aula-2.2">Aula 2.2</a></li>
+<li><a href="#aula-2.1-processo-legal-e-processo-judicial" id="toc-aula-2.1-processo-legal-e-processo-judicial">17/02 - aula 2.1: processo legal e processo judicial</a></li>
+<li><a href="#aula-2.2-processo-constitucional" id="toc-aula-2.2-processo-constitucional">19/02 - aula 2.2: processo constitucional</a></li>
 </ul></li>
-<li><a href="#aula-4" id="toc-aula-4">Aula 4</a>
+<li><a href="#semana-3" id="toc-semana-3">Semana 3</a>
 <ul>
-<li><a href="#aula-5" id="toc-aula-5">Aula 5</a></li>
+<li><a href="#aula-3.1" id="toc-aula-3.1">24/02 - aula 3.1</a></li>
+<li><a href="#aula-3.2" id="toc-aula-3.2">26/02 - aula 3.2</a></li>
 </ul></li>
-<li><a href="#aula-6" id="toc-aula-6">Aula 6</a></li>
+<li><a href="#semana-4" id="toc-semana-4">Semana 4</a>
+<ul>
+<li><a href="#aula-4.1" id="toc-aula-4.1">24/02 - aula 4.1</a></li>
+<li><a href="#aula-4.2" id="toc-aula-4.2">26/02 - aula 4.2</a></li>
+</ul></li>
+<li><a href="#semana-carnaval" id="toc-semana-carnaval">Semana carnaval</a></li>
+<li><a href="#semana-5" id="toc-semana-5">Semana 5</a>
+<ul>
+<li><a href="#aula-5.1" id="toc-aula-5.1">10/03 - aula 5.1</a></li>
+<li><a href="#aula-5.2" id="toc-aula-5.2">12/03 - aula 5.2</a></li>
+</ul></li>
+<li><a href="#semana-6" id="toc-semana-6">Semana 6</a>
+<ul>
+<li><a href="#aula-6.1" id="toc-aula-6.1">17/03 - aula 6.1</a></li>
+<li><a href="#aula-6.2" id="toc-aula-6.2">19/03 - aula 6.2</a></li>
+</ul></li>
+<li><a href="#semana-7" id="toc-semana-7">Semana 7</a>
+<ul>
+<li><a href="#aula-7.1" id="toc-aula-7.1">24/03 - aula 7.1</a></li>
+<li><a href="#aula-7.2" id="toc-aula-7.2">26/03 - aula 7.2</a></li>
+</ul></li>
+<li><a href="#semana-8" id="toc-semana-8">Semana 8</a></li>
+<li><a href="#semana-9" id="toc-semana-9">Semana 9</a>
+<ul>
+<li><a href="#aula-9.1" id="toc-aula-9.1">07/04 - aula 9.1</a></li>
+<li><a href="#aula-9.2" id="toc-aula-9.2">09/04 - aula 9.2</a></li>
+</ul></li>
+<li><a href="#semana-10" id="toc-semana-10">Semana 10</a>
+<ul>
+<li><a href="#aula-10.1" id="toc-aula-10.1">14/04 - aula 10.1</a></li>
+<li><a href="#aula-10.2" id="toc-aula-10.2">16/04 - aula 10.2</a></li>
+</ul></li>
+<li><a href="#semana-11" id="toc-semana-11">Semana 11</a>
+<ul>
+<li><a href="#aula-11.1" id="toc-aula-11.1">23/04 - aula 11.1</a></li>
+</ul></li>
+<li><a href="#semana-12" id="toc-semana-12">Semana 12</a>
+<ul>
+<li><a href="#aula-12.1" id="toc-aula-12.1">28/04 - aula 12.1</a></li>
+<li><a href="#aula-12.2" id="toc-aula-12.2">30/04 - aula 12.2</a></li>
+</ul></li>
+<li><a href="#semana-13" id="toc-semana-13">Semana 13</a>
+<ul>
+<li><a href="#aula-13.1" id="toc-aula-13.1">05/05 - aula 13.1</a></li>
+<li><a href="#aula-13.2" id="toc-aula-13.2">07/05 - aula 13.2</a></li>
+</ul></li>
+<li><a href="#semana-acadêmica" id="toc-semana-acadêmica">Semana acadêmica</a></li>
+<li><a href="#semana-14" id="toc-semana-14">Semana 14</a>
+<ul>
+<li><a href="#aula-14.1" id="toc-aula-14.1">19/05 - aula 14.1</a></li>
+<li><a href="#aula-14.2" id="toc-aula-14.2">21/05 - aula 14.2</a></li>
+</ul></li>
+<li><a href="#semana-15" id="toc-semana-15">Semana 15</a></li>
+<li><a href="#semana-16" id="toc-semana-16">Semana 16</a></li>
+<li><a href="#semana-17" id="toc-semana-17">Semana 17</a></li>
 </ul>
 </nav>
 </div>
 <h1 id="semana-1">Semana 1</h1>
-<h2 id="aula-1.1---1202">Aula 1.1 - 12/02</h2>
-<p>Apresentação do curso
-Leitura do programa</p>
+<p><strong>Notas de aula</strong><br />
+<strong>Bibliografia:</strong> <span class="citation" data-cites="dimoulis_curso_2016">Dimoulis and Lunardi (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span>, cap. 1</p>
+<h2 id="aula-1.1-introdução">12/02 - aula 1.1: introdução</h2>
+<ol type="1">
+<li>Apresentação do curso</li>
+<li>Leitura do programa</li>
+<li>O conceito de processo
+<ol type="a">
+<li>O processo como abstração de segunda ordem</li>
+<li>Estudo de comportamento x estudo de regras</li>
+</ol></li>
+</ol>
 <h1 id="semana-2">Semana 2</h1>
-<h2 id="aula-2.1---1702">Aula 2.1 - 17/02</h2>
-<p>O conceito de processo</p>
-<h2 id="aula-2.2">Aula 2.2</h2>
-<p><strong>19/02</strong> - Processo legal</p>
-<h1 id="aula-4">Aula 4</h1>
-<p>24/02 - Apresentação do curso</p>
-<h2 id="aula-5">Aula 5</h2>
-<h1 id="aula-6">Aula 6</h1>
-<p>Aula 7</p>
-<p>Aula 8</p>
-<p>Aula 9</p>
-<p>Aula 10</p>
-<p>Aula 11</p>
-<p>Aula 12</p>
-<p>Aula 13</p>
-<p>Aula 14</p>
-<p>Aula 15</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
-<p>Aula</p>
+<p><strong>Notas de aula</strong><br />
+<strong>Bibliografia:</strong> <span class="citation" data-cites="dimoulis_curso_2016">Dimoulis and Lunardi (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span>, cap. 1</p>
+<h2 id="aula-2.1-processo-legal-e-processo-judicial">17/02 - aula 2.1: processo legal e processo judicial</h2>
+<ol type="1">
+<li>Processo legal</li>
+<li>Processo judicial
+<ol type="a">
+<li>Características das decisões judiciais</li>
+<li>Sanções</li>
+<li>O processo judicial e a pacificação de conflitos</li>
+</ol></li>
+</ol>
+<h2 id="aula-2.2-processo-constitucional">19/02 - aula 2.2: processo constitucional</h2>
+<ol type="1">
+<li>Processo constitucional: definições
+<ol type="a">
+<li>Definição restrita</li>
+<li>Definição média</li>
+<li>Definição ampla</li>
+</ol></li>
+<li>O estudo do processo constitucional</li>
+</ol>
+<p>Processo legal</p>
+<h1 id="semana-3">Semana 3</h1>
+<h2 id="aula-3.1">24/02 - aula 3.1</h2>
+<h2 id="aula-3.2">26/02 - aula 3.2</h2>
+<h1 id="semana-4">Semana 4</h1>
+<h2 id="aula-4.1">24/02 - aula 4.1</h2>
+<h2 id="aula-4.2">26/02 - aula 4.2</h2>
+<h1 id="semana-carnaval">Semana carnaval</h1>
+<blockquote>
+<p>03/02 a 05/02 - recesso - carnaval</p>
+</blockquote>
+<h1 id="semana-5">Semana 5</h1>
+<h2 id="aula-5.1">10/03 - aula 5.1</h2>
+<h2 id="aula-5.2">12/03 - aula 5.2</h2>
+<h1 id="semana-6">Semana 6</h1>
+<h2 id="aula-6.1">17/03 - aula 6.1</h2>
+<h2 id="aula-6.2">19/03 - aula 6.2</h2>
+<h1 id="semana-7">Semana 7</h1>
+<h2 id="aula-7.1">24/03 - aula 7.1</h2>
+<h2 id="aula-7.2">26/03 - aula 7.2</h2>
+<h1 id="semana-8">Semana 8</h1>
+<blockquote>
+<p>31/03 a 04/04 - período de realização do processo de avaliação teórico 1 - PAT-1</p>
+</blockquote>
+<h1 id="semana-9">Semana 9</h1>
+<h2 id="aula-9.1">07/04 - aula 9.1</h2>
+<h2 id="aula-9.2">09/04 - aula 9.2</h2>
+<h1 id="semana-10">Semana 10</h1>
+<h2 id="aula-10.1">14/04 - aula 10.1</h2>
+<h2 id="aula-10.2">16/04 - aula 10.2</h2>
+<h1 id="semana-11">Semana 11</h1>
+<blockquote>
+<p>21/04 - feriado - Tiradentes</p>
+</blockquote>
+<h2 id="aula-11.1">23/04 - aula 11.1</h2>
+<h1 id="semana-12">Semana 12</h1>
+<h2 id="aula-12.1">28/04 - aula 12.1</h2>
+<h2 id="aula-12.2">30/04 - aula 12.2</h2>
+<h1 id="semana-13">Semana 13</h1>
+<h2 id="aula-13.1">05/05 - aula 13.1</h2>
+<h2 id="aula-13.2">07/05 - aula 13.2</h2>
+<h1 id="semana-acadêmica">Semana acadêmica</h1>
+<blockquote>
+<p>12/05 a 16/05 - semana acadêmica</p>
+</blockquote>
+<h1 id="semana-14">Semana 14</h1>
+<h2 id="aula-14.1">19/05 - aula 14.1</h2>
+<h2 id="aula-14.2">21/05 - aula 14.2</h2>
+<h1 id="semana-15">Semana 15</h1>
+<blockquote>
+<p>26/05 a 30/05 - período de realização do processo de avaliação teórico 2 - PAT-2</p>
+</blockquote>
+<h1 id="semana-16">Semana 16</h1>
+<blockquote>
+<p>02/06 a 06/06 - período de realização de avaliações substitutivas</p>
+</blockquote>
+<h1 id="semana-17">Semana 17</h1>
+<blockquote>
+<p>09/06 a 13/06 - período de realização da avaliação final - exame</p>
+</blockquote>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-dimoulis_curso_2016" class="csl-entry" role="listitem">
+Dimoulis, Dimitri, and Soraya Lunardi. 2016. <em>Curso de Processo Constitucional: Controle de Constitucionalidade e Remédios Constitucionais</em>. Atlas. <a href="https://integrada.minhabiblioteca.com.br/#/books/9788597006056/">https://integrada.minhabiblioteca.com.br/#/books/9788597006056/</a>.
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

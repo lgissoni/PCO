@@ -12,78 +12,127 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 1
 
-## Aula 1.1 - 12/02
+**Notas de aula**  
+**Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-Apresentação do curso
-Leitura do programa
+## 12/02 - aula 1.1: introdução
+
+  1. Apresentação do curso
+  1. Leitura do programa
+  1. O conceito de processo
+      a. O processo como abstração de segunda ordem
+      a. Estudo de comportamento x estudo de regras
+  
 
 # Semana 2
 
-## Aula 2.1 - 17/02
+**Notas de aula**  
+**Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-O conceito de processo
+## 17/02 - aula 2.1: processo legal e processo judicial
 
-## Aula 2.2
+  1. Processo legal
+  1. Processo judicial
+      a. Características das decisões judiciais
+      a. Sanções
+      a. O processo judicial e a pacificação de conflitos
 
-**19/02** - Processo legal
+## 19/02 - aula 2.2: processo constitucional
 
-# Aula 4 
+  1. Processo constitucional: definições
+      a. Definição restrita
+      a. Definição média
+      a. Definição ampla
+  1. O estudo do processo constitucional
 
-24/02 - Apresentação do curso
+Processo legal
 
-## Aula 5
+# Semana 3 
 
-# Aula 6
+## 24/02 - aula 3.1
 
-Aula 7
+## 26/02 - aula 3.2
 
-Aula 8
+# Semana 4
 
-Aula 9
+## 24/02 - aula 4.1
 
-Aula 10
+## 26/02 - aula 4.2
 
-Aula 11
+# Semana carnaval
 
-Aula 12
+> 03/02 a 05/02 - recesso - carnaval
 
-Aula 13
+# Semana 5
 
-Aula 14
+## 10/03 - aula 5.1
 
-Aula 15
+## 12/03 - aula 5.2
 
-Aula 
+# Semana 6
 
-Aula 
+## 17/03 - aula 6.1
 
-Aula 
+## 19/03 - aula 6.2
 
-Aula 
+# Semana 7
 
-Aula 
+## 24/03 - aula 7.1
 
-Aula 
+## 26/03 - aula 7.2
 
-Aula 
+# Semana 8
 
-Aula 
+> 31/03 a 04/04 - período de realização do processo de avaliação teórico 1 - PAT-1
 
-Aula 
+# Semana 9
 
-Aula 
+## 07/04 - aula 9.1
 
-Aula 
+## 09/04 - aula 9.2
 
-Aula 
+# Semana 10
 
-Aula 
+## 14/04 - aula 10.1
 
-Aula 
+## 16/04 - aula 10.2
 
+# Semana 11
 
+> 21/04 - feriado - Tiradentes
 
+## 23/04 - aula 11.1
 
+# Semana 12
 
+## 28/04 - aula 12.1
 
+## 30/04 - aula 12.2
 
+# Semana 13
+
+## 05/05 - aula 13.1
+
+## 07/05 - aula 13.2
+
+# Semana acadêmica
+
+> 12/05 a 16/05 - semana acadêmica
+
+# Semana 14
+
+## 19/05 - aula 14.1
+
+## 21/05 - aula 14.2
+
+# Semana 15
+
+> 26/05 a 30/05 - período de realização do processo de avaliação teórico 2 - PAT-2
+
+# Semana 16
+
+> 02/06 a 06/06 - período de realização de avaliações substitutivas
+
+# Semana 17
+
+> 09/06 a 13/06 - período de realização da avaliação final - exame
