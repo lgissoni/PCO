@@ -37,7 +37,22 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Sanções
       a. O processo judicial e a pacificação de conflitos
 
-## 19/02 - aula 2.2: processo constitucional
+## 19/02 - aula 2.2: direito processual
+
+  1. Normas processuais civis
+      a. Eficácia da norma processual
+      a. Interpretação da norma processual
+  1. Função jurisdicional
+      a. Jurisdição
+      a. Ação
+      a. Competência
+
+# Semana 3
+
+**Notas de aula**  
+**Bibliografia:** @dimoulis_curso_2016, cap. 1
+
+## 24/02 - aula 3.1: teoria geral do processo constitucional
 
   1. Processo constitucional: definições
       a. Definição restrita
@@ -45,19 +60,52 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Definição ampla
   1. O estudo do processo constitucional
 
-Processo legal
+## 26/02 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade
 
-# Semana 3 
-
-## 24/02 - aula 3.1
-
-## 26/02 - aula 3.2
+  1. Definição
+      a. Conteúdo
+      a. Forma
+      a. Razão
+  1. Quem deve garantir a supremacia da constituição?
+      a. O Poder Legislativo
+      a. O Poder Executivo
+      a. O Poder Judiciário
+          i. Controle difuso de constitucionalidade
+          i. Controle concentrado de constitucionalidade
+          
+**PAP 1.1:** Marbury vs. Madison e a emergência do controle de constitucionalidade  
+**Prazo:** 24/02
 
 # Semana 4
 
-## 24/02 - aula 4.1
+**Notas de aula**  
+**Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## 26/02 - aula 4.2
+## 24/02 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
+
+  1. Modelos de controle de constitucionalidade
+      a. Quanto ao npumero de fiscais da constitucionalidade
+          i. Sistema difuso (universal)
+          i. Sistema concentrado
+          i. Sistemas mistos?
+      a. Quanto ao tipo de fiscalização
+          i. Concreto
+          i. Abstrato
+  1. Formas de inconstitucionalidade
+      a. Quanto à natureza da norma violada
+          i. Inconstitucionalidade formal
+          i. Inconstitucionalidade material
+      a. Quanto ao momento de ocorrência da inconstitucionalidade
+          i. Inconstitucionalidade originária
+          i. Inconstitucionalidade superveniente
+      
+
+## 26/02 - aula 4.2: ações de controle abstrato de constitucionalidade no direito brasileiro
+
+  1. Ação direta de inconstitucionalidade e efeitos
+  1. Ação direta de inconstitucionalidade por omissão e efeitos
+  1. Ação declaratória de constitucionalidade e efeitos
+  1. Arguição de Descumprimento de Preceito Fundamental e efeitos
 
 # Semana carnaval
 
@@ -65,21 +113,27 @@ Processo legal
 
 # Semana 5
 
-## 10/03 - aula 5.1
+## 10/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
 
-## 12/03 - aula 5.2
+## 12/03 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
+
+**PAP 1.2:** ADIn - oficina de peça profissional
 
 # Semana 6
 
-## 17/03 - aula 6.1
+## 17/03 - aula 6.1: ação declaratória de constitucionalidade
 
-## 19/03 - aula 6.2
+## 19/03 - aula 6.2: ação declaratória de constitucionalidade
+
+**PAP 1.3:** ADC - oficina de peça profissional
 
 # Semana 7
 
-## 24/03 - aula 7.1
+## 24/03 - aula 7.1: arguição de Descumprimento de Preceito Fundamental
 
-## 26/03 - aula 7.2
+## 26/03 - aula 7.2: arguição de Descumprimento de Preceito Fundamental
+
+**PAP 1.4:** ADPF - oficina de peça profissional
 
 # Semana 8
 
@@ -87,33 +141,41 @@ Processo legal
 
 # Semana 9
 
-## 07/04 - aula 9.1
+## 07/04 - aula 9.1: métodos de interpretação constitucional
+
+  1. Controle de constitucionalidade incidental
 
 ## 09/04 - aula 9.2
 
 # Semana 10
 
-## 14/04 - aula 10.1
+## 14/04 - aula 10.1: reclamação constitucional e súmula vinculante
 
-## 16/04 - aula 10.2
+## 16/04 - aula 10.2: reclamação constitucional e súmula vinculante
+
+**PAP 2.1:** RC - oficina de peça profissional
 
 # Semana 11
 
 > 21/04 - feriado - Tiradentes
 
-## 23/04 - aula 11.1
+## 23/04 - aula 11.1: remédios constitucionais
 
 # Semana 12
 
-## 28/04 - aula 12.1
+## 28/04 - aula 12.1: *habeas corpus*
 
-## 30/04 - aula 12.2
+## 30/04 - aula 12.2: *habeas corpus*
+
+**PAP 2.2:** HC - oficina de peça profissional
 
 # Semana 13
 
-## 05/05 - aula 13.1
+## 05/05 - aula 13.1: mandado de segurança
 
-## 07/05 - aula 13.2
+## 07/05 - aula 13.2: mandado de segurança
+
+**PAP 2.3:** MS - oficina de peça profissional
 
 # Semana acadêmica
 
@@ -121,9 +183,11 @@ Processo legal
 
 # Semana 14
 
-## 19/05 - aula 14.1
+## 19/05 - aula 14.1: ação popular
 
-## 21/05 - aula 14.2
+## 21/05 - aula 14.2: ação popular
+
+**PAP 2.4:** AP - oficina de peça profissional
 
 # Semana 15
 
