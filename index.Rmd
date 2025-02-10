@@ -42,7 +42,7 @@ O objetivo deste curso é entender esse processo. Mas, de início, iremos discut
 ```
 
 
-## Bibliografgia básica
+## Bibliografia básica
 
 
 @dimoulis_curso_2016
