@@ -1,7 +1,7 @@
 ---
 title: "Processo Constitucional"
 description: |
-  Bacharelado em direito - Faculdade Zumbi dos Palmares
+  Bacharelado em direito - Universidade Zumbi dos Palmares
 site: distill::distill_website
 bibliography: bibliografia.bib
 ---
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Bem vindos/as!
 
-Este é o site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
+Este é o site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Universidade Zumbi dos Palmares
 
 # Informações básicas
 
@@ -65,6 +65,8 @@ A avaliação será dividida em dois bimestres, cada um dos quais contará com t
 
 ### PAP
 
+As PAP constituirão atividades ou trabalhos escritos individuais, valendo 1 ponto cada. Serão 4 PAP por bimestre, mas só as 3 maiores notas serão consideradas; a menor nota será descartada.  
+As PAP serão realizadas em casa. Em geral, o prazo de entrega da atividade será no domingo seguinte à sua explicação em sala. Os textos devem ser obrigatoriamente digitados e entregues (em pdf, odt ou doc) no email luccas.gissoni@gmail.com, com assunto "PCO - PAP x.y - NOME DO/A ESTUDANTE", onde "x.y" é a numeração da PAP.  
 Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda parte, elas serão constituídas pela prática de redação das peças profissionais do processo constitucional conforme o Exame de Ordem. As PAP serão realizadas em sala ou em casa, conforme o caso.
 
 ### PAT
