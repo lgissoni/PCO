@@ -1,0 +1,215 @@
+---
+title: "Notas de Aula 2"
+description: "Processo legal e direito processual"
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Processo legal
+
+No direito, "processo\" é uma sequência de atos que, aplicando normas
+jurídicas existentes, visa produzir novas normas jurídicas.
+
+::: {#tab:tipos_de_processo_legal}
+  ---------------------- --------------------------- --------------------
+   **Tipo de processo**     **Normas a aplicar**      **Normas criadas**
+     Pr. Legislativo      CF/88 e Regimento Interno          Leis
+    Pr. Administrativo              Leis              Normas individuais
+       Pr. Judicial                 Leis              Normas individuais
+  ---------------------- --------------------------- --------------------
+
+  : Tipos de processo legal
+:::
+
+Independentemente da natureza do processo legal considerado (se
+legislativo, administrativo ou judicial - Tabela
+[1](#tab:tipos_de_processo_legal){reference-type="ref"
+reference="tab:tipos_de_processo_legal"}), ele obedecerá à mesma
+estrutura abstrata que transforma *inputs* em *outputs*, conforme
+mostrado na Figura [1](#exemplo_de_processo){reference-type="ref"
+reference="exemplo_de_processo"}. Assim, o processo judicial, por
+exemplo, aplica as leis, "transformando-as\" em normas individuais:
+sentenças, acórdãos etc.
+
+<figure id="exemplo_de_processo">
+
+<figcaption>Estrutura abstrata do processo</figcaption>
+</figure>
+
+O mesmo ocorre com o processo legislativo e o administrativo. Assim, por
+exemplo, o legislador aplica a Constituição para criar Leis de trânsito,
+por exemplo. O agente de trânsito, por outro lado, ao constatar uma
+infração, aplica a lei e autua o motorista. A autuação cria uma norma
+individual: a obrigação de pagar a multa. As duas normas, a legislativa
+(a lei de trânsito) e a administrativa (a autuação) diferenciamse pelo
+grau de **generalidade** (a primeira vale para todos, ou quase todos, os
+motoristas, e a segunda só para um) e de **liberdade decisória** (a do
+legislador é muito mais ampla que a do agente).
+
+> Os processos devem seguir regras vigentes que objetivam atingir certas
+> finalidades, entre as quais se encontram a publicidade do processo, a
+> solução pacífica dos conflitos, o exercício da ampla defesa, a
+> aceitação da decisão pelas partes, a celeridade e a previsibilidade.
+> Essas regras vinculam as autoridades estatais e os particulares e
+> objetivam garantir o **devido processo legal**. Via de regra, o
+> processo tem natureza dialética, sendo facultados aos interessados
+> apresentar e fundamentar suas pretensões e opiniões [@dimoulis_curso_2016, p. 6].
+
+No caso do processo legal, o termo "processo\" pode ser empregado de
+duas formas:
+
+-   Direito processual: um conjunto de regras
+
+-   Processos concretos regulamentados pelo direito processual
+
+# Processo judicial
+
+Dentre os tipos de processo legal, destaca-se o processo judicial, isto
+é, aqueles realizados pelo Poder Judiciário. Sua finalidade é a
+aplicação de sanções no caso de desrespeito aos imperativos de conduta.
+
+## Características das decisões judiciais
+
+As decisões do Poder Judiciário devem satisfazer a três características:
+
+-   **Formalidade:** devem seguir regras formais, evitando-se a
+    arbitrariedade
+
+-   **Definitividade:** devem ser definitivas, formando-se a *coisa
+    julgada*, para evitar a eternização do conflito
+
+-   **Celeridade:** devem ser céleres, evitando-se prejuízo a quem
+    necessita de resposta em tempo hábil
+
+Nem sempre as decisões contêm as três características, e elas sem sempre
+são compatíveis. Há conflitos internos, opondo especialmente a
+formalidade e a celeridade. De todo modo, elas devem guiar a atuação do
+julgador.
+
+## Sanções
+
+As sanções podem ser dos seguintes tipos:
+
+-   **Compensatórias:** reparam o dano que alguém sofreu
+
+    -   *Compensação direta:* ex.: a pessoa que ofendeu a honra de
+        alguém deve se desculpar
+
+    -   *Compensação indireta:* ex.: indenização
+
+-   **Inibitórias-preventivas:** visam impedir que o oagressor ou outras
+    pessoas tenham no futuro a mesma conduta. Ex.: altas indenizações
+    para não haver repetição do ilícito; penas criminais.
+
+## O processo judicial e a pacificação de conflitos
+
+Por vezes s epensa que o objetivo do processo judicial seja unicamente a
+resolução ou *pacificação* de conflitos.
+
+> Certamente os processos judiciais são os mais litigiosos entre os
+> processos estatais. Procuramos a Justiça quando temos conflitos,
+> quando, em terminologia processual, uma pretensão é resistida: o
+> devedor não paga, o motorista atropela o pedestre e não repara o dano,
+> o empregador atrasa o pagamento do salário, o Estado não concede
+> aposentadoria... [@dimoulis_curso_2016, p. 8].
+
+No entanto, o escopo de atuação da Justiça é mais amplo: ela atua para
+dar publicidade a certos acontecimentos, como o divórcio, ainda que não
+haja litígio entre os cônjuges. Em outras situações, ela age para evitar
+incertezas, ainda que não haja partes conflitantes (ex.: declarar a
+constitucionalidade de uma lei) ou impedir atos ilícitos, antes que
+ocorram (ex.: *habeas corpus* preventivo, que busca impedir a realização
+de uma prisão ilegal. Estes dois últimos exemplos constituem situações
+que interessam ao **processo constitucional**.
+
+# Processo constitucional
+
+## Definições
+
+### Definição restrita
+
+> (Processo constitucional é a) sequência de atos que objetiva permitir
+> uma decisão judicial sobre a constitucionalidade de certas normas ( ).
+> [@dimoulis_curso_2016, p. 9]
+
+Essa definição é considerada indevidamente restritiva porque não
+considera que o processo constitucional não se limita ao processo
+judicial. Os Poderes Executivo e Legislativo também se utilizam de
+processos específicos para verificar a constitucionalidade das normas.
+
+No entanto, com essa consideração, essa definição é a adota por Dimoulis
+e Lunardi para se referir aos "instrumentos legais que objetivam
+garantir a supremacia da Constituição, verificando a regularidade da
+produção de normas infraconstitucionais (processo constitucional no
+sentido estrito)\" (Dimoulis; Lunardi, p. 11).
+
+### Definição média
+
+> (A)lguns autores consideram processo constitucional o conjunto de
+> tipos de processo regulamentados pela Constituição. Nessa perspectiva,
+> se estuda a configuração de vários processos regulamentados na
+> Constituição sob a denominação "processo constitucional" [@dimoulis_curso_2016, p. 9]
+
+Esta definição é criticada porque inclui não um, mas uma multiplicidade
+de processos constitucionais: *habeas corpus*, mandado de segurança,
+ação direta de inconstitucionalidade, procedimento especial do Tribunal
+do Júri, *impeachment* etc.
+
+Contudo, e especialmente no que se refere aos chamados **remédios
+constitucionais**, trata-se de matéria tradicional do processo
+constitucional, e relacionada à tututela dos direitos fundamentais (que,
+por sua vez, é matéria tradicional do direito constitucional).
+
+### Definição ampla
+
+> Segundo outros autores, o processo constitucional consiste no
+> "conjunto de atos mediante os quais o órgão jurisdicional atua
+> conforme a vontade das normas constitucionais" [@dimoulis_curso_2016, pp. 8-9].
+
+Esta definição, que também restringe o processo constitucional ao âmbito
+do processo judicial, é por outro lado excessivamente ampla, uma vez que
+a atuação de acordo com a Constituição é a essência do dever do Estado e
+do cidadão.
+
+## O estudo do processo constitucional
+
+O tema já foi considerado "elitista\", de modo que interessaria apenas
+aos membros dos tribunais superiores e um reduzido número de membros do
+Ministério Público e advogados que atuam junto a esses tribunais. O
+cotidiano da maioria dos operadores do direito estaria distante do
+controle de constitucionalidade.
+
+No entando, essa percepção não corresponde à realidade, haja vista que,
+no Brasil, os três Poderes realizam o controle de constitucionalidade,
+e, sobretudo, o Poder Judiciário o realiza em qualquer grau de
+jurisdição.
+
+> sendo possível o afastamento da norma inconstitucional em qualquer
+> processo, o conhecimento desses mecanismos é importante mesmo para os
+> operadores do direito que, seguramente, depararão em sua prática com
+> problemas de constitucionalidade. Basta pensar na relevância e
+> frequência do Recurso Extraordinário [@dimoulis_curso_2016, p. 13].
+
+A isso vem a somar-se o crescente tema da *judicialização da política* e
+seu correlato, a *politização da justiça*. Sendo cada vez maior o número
+de pessoas que procuram o Judiciário para satisfazer suas pretensões de
+acesso a direitos econÇomicos e sociais previstos na Constituição, o
+conhecimento do processo constitucional vem crecendo em importância e
+passa a ser de conhecimento fundamental a qualquer operador do direito.
+
+> O processo constitucional será objeto de crescente interesse da
+> doutrina nacional após a promulgação da CF de 1988. Nos últimos anos
+> temos profundos estudos sobre a legitimidade do controle judicial,
+> assim como análises técnicas da estrutura do processo constitucional.
+> Em paralelo, cresce o interesse dos estudiosos e dos operadores do
+> direito pela análise do conteúdo e do impacto político-social das
+> decisões da jurisdição constitucional, em particular do STF, adotando
+> uma abordagem jus-sociológica. Finalmente, a disciplina já integra o
+> currículo de alguns cursos de graduação em direito, aumentando também
+> os cursos de pós-graduação e as pesquisas sobre o tema [@dimoulis_curso_2016, p. 15].

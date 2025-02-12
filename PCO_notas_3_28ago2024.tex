@@ -1,0 +1,215 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{hyperref}
+\usepackage[brazilian]{babel}
+\usepackage{tikz, amsmath}
+\usetikzlibrary{shapes.geometric, arrows}
+\usepackage[paperheight=6.5in,paperwidth=4.8in,margin=0.1in]{geometry}
+\tikzstyle{process} = [rectangle, minimum width=3em, minimum height=2em, text centered, draw=blue, fill=gray!10]
+\tikzstyle{startend} = [ellipse, minimum width=2em, minimum height=1em, text centered, draw=red, fill=gray!10]
+
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\pagestyle{plain}
+
+\title{%
+ Processo Constitucional \\
+  \Large Notas de Aula 3 \\}
+\author{Luccas Gissoni}
+\date{28 de agosto 2024}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Introdução: o conceito de ``processo''}
+
+\begin{quote}
+    Utilizado no vocabulário científico, o termo processo indica uma sequência de atos e acontecimentos que estão relacionados e levam a algum resultado. É “uma ação que consideramos como sequência de ações parciais e constitutivas” (Dimoulis; Lunardi, 2016, p. 1).
+\end{quote}
+
+\begin{itemize}
+    \item \textbf{``Processo":} do latim \textit{procedere} (avançar, proceder) - significa progresso, transcurso, desenvolvimento
+    \item \textbf{Meio empresarial:} processo de produção, processo de compras, processo de controle de qualidade etc.
+    \item \textbf{Meio cultural:} processo de criação de um romance, de uma música etc.
+\end{itemize}
+
+\subsection{O processo como abstração de segunda ordem}
+
+\begin{itemize}
+    \item Os atos existem na realidade concreta
+    \item Quem considera que certo ato faz parte de uma sequência processual é o observador
+\end{itemize}
+
+\begin{quote}
+    Isso indica que o “processo” é uma criação do nosso espírito. Pretendemos relacionar certos acontecimentos, indicando as finalidades em comum e as regras que se aplicam na sua sucessão. O processo é uma construção teórica que nos permite melhor entender o mundo (...). Se o processo é uma construção teórica, baseada na observação da realidade e na extração de seus elementos típicos e marcantes, os teóricos dos sistemas acrescentam que o termo processo é uma \textbf{abstração de segunda ordem}, pois é utilizado para indicar \textbf{vários tipos de processos que são fundamentalmente diferentes entre si}. Por isso é necessário especificar a que tipo de processo nos referimos. (Dimoulis; Lunardi, 2016, p. 1, grifos meus).
+\end{quote}
+
+\subsection{Estudo de comportamentos x estudo de regras}
+
+\begin{itemize}
+    \item Forma de analisar o processo
+    \item Centrar a análise nas pessoas envolvidas no processo x na sequência de seus atos
+\end{itemize}
+
+\subsubsection{Estudo de comportamentos}
+
+\begin{itemize}
+    \item Análise psicológica, antropológica ou sociológica
+    \item Entender como e por que as pessoas colaboram, entram em conflito, tomam certa decisão, fazem e desfazem organizações etc.
+    \item Predominante na teoria da administração: análise do comportamento das pessoas no âmbito de grupos organizados
+    \item Regras são flexíveis e podem mudar conforme decisões dos grupos dirigentes
+\end{itemize}
+
+\subsubsection{Estudo de regras}
+
+\begin{itemize}
+    \item \textbf{Predominante no direito}
+    \item Análise da sequência de atos, independentemente da vontade e da conduta dos atores do processo
+    \item \textbf{Finalidade:} garantir a segurança jurídica com base em regras rígidas
+    \item Prevalece o \textbf{formalismo processual:} as possibilidades de atuação processual, as consequências de cada ato, os prazos, as competências e os demais elementos são predeterminados por regras jurídicas que compõem o direito processual. Essas regras prevalecem sobre a vontade e o interesse dos indivíduos.
+\end{itemize}
+
+\paragraph{Críticas}
+
+\begin{quote}
+    O formalismo é criticado como postura que ignora a substância dos conflitos jurídicos. Se alguém é inocente, não deixa de sê-lo porque no dia da audiência não compareceu a testemunha que comprovaria sua inocência. Também não parece correto alguém perder um processo porque o estagiário do escritório de advocacia não conseguiu protocolar um recurso dentro do prazo!\\
+    O formalismo é também considerado postura que cria obstáculos desnecessários ao processo. Por que atrasar o processo em razão da falta de uma procuração ou permitir que sejam apresentados infinitos recursos quando a verdade já é conhecida?\\
+    As críticas ao formalismo não podem ser aceitas por duas razões: primeiro, o conteúdo das regras processuais é, em certa medida, aleatório. Não há explicação racional para a fixação de certo prazo em cinco e não em seis dias nem para a diferença das normas que regulamentam a independência dos juízes em cada país. Mas a existência de tais normas é necessária, pois desempenha uma função social crucial e expressa valores. O prazo poderia ser maior ou menor, mas o cumprimento do prazo preestabelecido é fundamental, sob pena de transformarmos o processo em uma discussão infinita e caótica. Justamente nisso reside o valor das regras.\\
+    Segundo: o cumprimento das regras pode prejudicar uma parte do processo, por exemplo, aquele que perdeu o prazo por negligência do estagiário. Mas a tentativa de “reparar” o dano flexibilizando as regras processuais prejudicará a outra parte que cumpriu as regras. Aqui também percebemos que o formalismo preserva relevantes interesses sociais (Dimoulis; Lunardi, 2016, pp. 3-4).
+\end{quote}
+
+\section{Processo legal}
+
+No direito, ``processo" é uma sequência de atos que, aplicando normas jurídicas existentes, visa produzir novas normas jurídicas.
+
+\begin{table}[]
+    \centering
+    \begin{tabular}{ccc}
+         \textbf{Tipo de processo} & \textbf{Normas a aplicar} & \textbf{Normas criadas} \\
+        Pr. Legislativo & CF/88 e Regimento Interno & Leis\\
+        Pr. Administrativo & Leis & Normas individuais\\
+        Pr. Judicial & Leis & Normas individuais\\
+    \end{tabular}
+    \caption{Tipos de processo legal}
+    \label{tab:tipos_de_processo_legal}
+\end{table}
+
+Independentemente da natureza do processo legal considerado (se legislativo, administrativo ou judicial - Tabela \ref{tab:tipos_de_processo_legal}), ele obedecerá à mesma estrutura abstrata que transforma \textit{inputs} em \textit{outputs}, conforme mostrado na Figura \ref{exemplo_de_processo}. Assim, o processo judicial, por exemplo, aplica as leis, ``transformando-as" em normas individuais: sentenças, acórdãos etc.
+
+\begin{figure}
+\begin{tikzpicture}
+    \draw (0, 0) node[circle, draw](a1){INPUTS}
+    \draw (4.5, 0) node[rectangle, draw](a2){PROCESSO}
+    \draw (9, 0) node[circle, draw](a3){OUTPUTS}
+    \draw[->][red] (a1) -- (a2)
+    \draw[->][red] (a2) -- (a3)
+\end{tikzpicture}
+\caption{Estrutura abstrata do processo}\label{exemplo_de_processo}
+\end{figure}
+
+O mesmo ocorre com o processo legislativo e o administrativo. Assim, por exemplo, o legislador aplica a Constituição para criar Leis de trânsito, por exemplo. O agente de trânsito, por outro lado, ao constatar uma infração, aplica a lei e autua o motorista. A autuação cria uma norma individual: a obrigação de pagar a multa. As duas normas, a legislativa (a lei de trânsito) e a administrativa (a autuação) diferenciamse pelo grau de \textbf{generalidade} (a primeira vale para todos, ou quase todos, os motoristas, e a segunda só para um) e de \textbf{liberdade decisória} (a do legislador é muito mais ampla que a do agente).
+
+\begin{quote}
+    Os processos devem seguir regras vigentes que objetivam atingir certas finalidades, entre as quais se encontram a publicidade do processo, a solução pacífica dos conflitos, o exercício da ampla defesa, a aceitação da decisão pelas partes, a celeridade e a previsibilidade. Essas regras vinculam as autoridades estatais e os particulares e objetivam garantir o \textbf{devido processo legal}. Via de regra, o processo tem natureza dialética, sendo facultados aos interessados apresentar e fundamentar suas pretensões e opiniões (Dimoulis; Lunardi, p. 6).
+\end{quote}
+
+No caso do processo legal, o termo ``processo" pode ser empregado de duas formas:
+
+\begin{itemize}
+    \item Direito processual: um conjunto de regras
+    \item Processos concretos regulamentados pelo direito processual
+\end{itemize}
+
+\section{Processo judicial}
+
+Dentre os tipos de processo legal, destaca-se o processo judicial, isto é, aqueles realizados pelo Poder Judiciário. Sua finalidade é a aplicação de sanções no caso de desrespeito aos imperativos de conduta.
+
+\subsection{Características das decisões judiciais}
+
+As decisões do Poder Judiciário devem satisfazer a três características:
+
+\begin{itemize}
+    \item \textbf{Formalidade:} devem seguir regras formais, evitando-se a arbitrariedade
+    \item \textbf{Definitividade:} devem ser definitivas, formando-se a \textit{coisa julgada}, para evitar a eternização do conflito
+    \item \textbf{Celeridade:} devem ser céleres, evitando-se prejuízo a quem necessita de resposta em tempo hábil
+\end{itemize}
+
+Nem sempre as decisões contêm as três características, e elas sem sempre são compatíveis. Há conflitos internos, opondo especialmente a formalidade e a celeridade. De todo modo, elas devem guiar a atuação do julgador.
+
+\subsection{Sanções}
+
+As sanções podem ser dos seguintes tipos:
+
+\begin{itemize}
+    \item \textbf{Compensatórias:} reparam o dano que alguém sofreu
+    \begin{itemize}
+        \item \textit{Compensação direta:} ex.: a pessoa que ofendeu a honra de alguém deve se desculpar
+        \item \textit{Compensação indireta:} ex.: indenização
+    \end{itemize}
+    \item \textbf{Inibitórias-preventivas:} visam impedir que o oagressor ou outras pessoas tenham no futuro a mesma conduta. Ex.: altas indenizações para não haver repetição do ilícito; penas criminais.
+\end{itemize}
+
+\subsection{O processo judicial e a pacificação de conflitos}
+
+Por vezes s epensa que o objetivo do processo judicial seja unicamente a resolução ou \textit{pacificação} de conflitos.
+
+\begin{quote}
+    Certamente os processos judiciais são os mais litigiosos entre os processos estatais. Procuramos a Justiça quando temos conflitos, quando, em terminologia processual, uma pretensão é resistida: o devedor não paga, o motorista atropela o pedestre e não repara o dano, o empregador atrasa o pagamento do salário, o Estado não concede aposentadoria… (Dimoulis; Lunardi, p. 8).
+\end{quote}
+
+No entanto, o escopo de atuação da Justiça é mais amplo: ela atua para dar publicidade a certos acontecimentos, como o divórcio, ainda que não haja litígio entre os cônjuges. Em outras situações, ela age para evitar incertezas, ainda que não haja partes conflitantes (ex.: declarar a constitucionalidade de uma lei) ou impedir atos ilícitos, antes que ocorram (ex.: \textit{habeas corpus} preventivo, que busca impedir a realização de uma prisão ilegal. Estes dois últimos exemplos constituem situações que interessam ao \textbf{processo constitucional}.
+
+\section{Processo constitucional}
+
+\subsection{Definições}
+
+\subsubsection{Definição restrita}
+
+\begin{quote}
+    (Processo constitucional é a) sequência de atos que objetiva permitir uma decisão judicial sobre a constitucionalidade de certas normas ( ). (Dimoulis; Lunardi, p. 9)
+\end{quote}
+
+Essa definição é considerada indevidamente restritiva porque não considera que o processo constitucional não se limita ao processo judicial. Os Poderes Executivo e Legislativo também se utilizam de processos específicos para verificar a constitucionalidade das normas.
+
+No entanto, com essa consideração, essa definição é a adota por Dimoulis e Lunardi para se referir aos ``instrumentos legais que objetivam garantir a supremacia da Constituição, verificando a regularidade da produção de normas infraconstitucionais (processo constitucional no sentido estrito)" (Dimoulis; Lunardi, p. 11).
+
+\subsubsection{Definição média}
+
+\begin{quote}
+    (A)lguns autores consideram processo constitucional o conjunto de tipos de processo regulamentados pela Constituição. Nessa perspectiva, se estuda a configuração de vários processos regulamentados na Constituição sob a denominação “processo constitucional” (Dimoulis; Lunardi, p. 9)
+\end{quote}
+
+Esta definição é criticada porque inclui não um, mas uma multiplicidade de processos constitucionais: \textit{habeas corpus}, mandado de segurança, ação direta de inconstitucionalidade, procedimento especial do Tribunal do Júri, \textit{impeachment} etc.
+
+Contudo, e especialmente no que se refere aos chamados \textbf{remédios constitucionais}, trata-se de matéria tradicional do processo constitucional, e relacionada à tututela dos direitos fundamentais (que, por sua vez, é matéria tradicional do direito constitucional).
+
+\subsubsection{Definição ampla}
+
+\begin{quote}
+    Segundo outros autores, o processo constitucional consiste no “conjunto de atos mediante os quais o órgão jurisdicional atua conforme a vontade das normas constitucionais” (Dimoulis; Lunardi, pp. 8-9).
+\end{quote}
+
+Esta definição, que também restringe o processo constitucional ao âmbito do processo judicial, é por outro lado excessivamente ampla, uma vez que a atuação de acordo com a Constituição é a essência do dever do Estado e do cidadão.
+
+\subsection{O estudo do processo constitucional}
+
+O tema já foi considerado ``elitista", de modo que interessaria apenas aos membros dos tribunais superiores e um reduzido número de membros do Ministério Público e advogados que atuam junto a esses tribunais. O cotidiano da maioria dos operadores do direito estaria distante do controle de constitucionalidade.
+
+No entando, essa percepção não corresponde à realidade, haja vista que, no Brasil, os três Poderes realizam o controle de constitucionalidade, e, sobretudo, o Poder Judiciário o realiza em qualquer grau de jurisdição. 
+
+\begin{quote}
+    sendo possível o afastamento da norma inconstitucional em qualquer processo, o conhecimento desses mecanismos é importante mesmo para os operadores do direito que, seguramente, depararão em sua prática com problemas de constitucionalidade. Basta pensar na relevância e frequência do Recurso Extraordinário (Dimoulis; Lunardi, p. 13).
+\end{quote}
+
+A isso vem a somar-se o crescente tema da \textit{judicialização da política} e seu correlato, a \textit{politização da justiça}. Sendo cada vez maior o número de pessoas que procuram o Judiciário para satisfazer suas pretensões de acesso a direitos econÇomicos e sociais previstos na Constituição, o conhecimento do processo constitucional vem crecendo em importância e passa a ser de conhecimento fundamental a qualquer operador do direito.
+
+\begin{quote}
+    O processo constitucional será objeto de crescente interesse da doutrina nacional após a promulgação da CF de 1988. Nos últimos anos temos profundos estudos sobre a legitimidade do controle judicial, assim como análises técnicas da estrutura do processo constitucional. Em paralelo, cresce o interesse dos estudiosos e dos operadores do direito pela análise do conteúdo e do impacto político-social das decisões da jurisdição constitucional, em particular do STF, adotando uma abordagem jus-sociológica. Finalmente, a disciplina já integra o currículo de alguns cursos de graduação em direito, aumentando também os cursos de pós-graduação e as pesquisas sobre o tema (Dimoulis; Lunardi, p. 15).
+\end{quote}
+
+\section{Bibliografia}
+
+DIMOULIS, Dimitri; LUNARDI, Soraya. \textbf{Curso de Processo Constitucional - Controle de Constitucionalidade e Remédios Constitucionais}, 4ª edição. Rio de Janeiro: Grupo GEN, 2016. E-book. ISBN 9788597006056. Disponível em: \href{https://integrada.minhabiblioteca.com.br/#/books/9788597006056/}{https://integrada.minhabiblioteca.com.br/#/books/9788597006056/}. Acesso em: 28 ago. 2024.
+
+\end{document}

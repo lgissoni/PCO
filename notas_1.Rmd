@@ -1,0 +1,112 @@
+---
+title: "Notas de Aula 1"
+description: "O conceito de processo"
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Introdução"
+
+> Utilizado no vocabulário científico, o termo processo indica uma
+> sequência de atos e acontecimentos que estão relacionados e levam a
+> algum resultado. É "uma ação que consideramos como sequência de ações
+> parciais e constitutivas" [@dimoulis_curso_2016, p. 1].
+
+-   **"Processo\":** do latim *procedere* (avançar, proceder) -
+    significa progresso, transcurso, desenvolvimento
+
+-   **Meio empresarial:** processo de produção, processo de compras,
+    processo de controle de qualidade etc.
+
+-   **Meio cultural:** processo de criação de um romance, de uma música
+    etc.
+
+## O processo como abstração de segunda ordem
+
+-   Os atos existem na realidade concreta
+
+-   Quem considera que certo ato faz parte de uma sequência processual é
+    o observador
+
+> Isso indica que o "processo" é uma criação do nosso espírito.
+> Pretendemos relacionar certos acontecimentos, indicando as finalidades
+> em comum e as regras que se aplicam na sua sucessão. O processo é uma
+> construção teórica que nos permite melhor entender o mundo (\...). Se
+> o processo é uma construção teórica, baseada na observação da
+> realidade e na extração de seus elementos típicos e marcantes, os
+> teóricos dos sistemas acrescentam que o termo processo é uma
+> **abstração de segunda ordem**, pois é utilizado para indicar **vários
+> tipos de processos que são fundamentalmente diferentes entre si**. Por
+> isso é necessário especificar a que tipo de processo nos referimos.
+> [@dimoulis_curso_2016, p. 1].
+
+## Estudo de comportamentos x estudo de regras
+
+-   Forma de analisar o processo
+
+-   Centrar a análise nas pessoas envolvidas no processo x na sequência
+    de seus atos
+
+### Estudo de comportamentos
+
+-   Análise psicológica, antropológica ou sociológica
+
+-   Entender como e por que as pessoas colaboram, entram em conflito,
+    tomam certa decisão, fazem e desfazem organizações etc.
+
+-   Predominante na teoria da administração: análise do comportamento
+    das pessoas no âmbito de grupos organizados
+
+-   Regras são flexíveis e podem mudar conforme decisões dos grupos
+    dirigentes
+
+### Estudo de regras
+
+-   **Predominante no direito**
+
+-   Análise da sequência de atos, independentemente da vontade e da
+    conduta dos atores do processo
+
+-   **Finalidade:** garantir a segurança jurídica com base em regras
+    rígidas
+
+-   Prevalece o **formalismo processual:** as possibilidades de atuação
+    processual, as consequências de cada ato, os prazos, as competências
+    e os demais elementos são predeterminados por regras jurídicas que
+    compõem o direito processual. Essas regras prevalecem sobre a
+    vontade e o interesse dos indivíduos.
+
+#### Críticas
+
+> O formalismo é criticado como postura que ignora a substância dos
+> conflitos jurídicos. Se alguém é inocente, não deixa de sê-lo porque
+> no dia da audiência não compareceu a testemunha que comprovaria sua
+> inocência. Também não parece correto alguém perder um processo porque
+> o estagiário do escritório de advocacia não conseguiu protocolar um
+> recurso dentro do prazo!\
+> O formalismo é também considerado postura que cria obstáculos
+> desnecessários ao processo. Por que atrasar o processo em razão da
+> falta de uma procuração ou permitir que sejam apresentados infinitos
+> recursos quando a verdade já é conhecida?\
+> As críticas ao formalismo não podem ser aceitas por duas razões:
+> primeiro, o conteúdo das regras processuais é, em certa medida,
+> aleatório. Não há explicação racional para a fixação de certo prazo em
+> cinco e não em seis dias nem para a diferença das normas que
+> regulamentam a independência dos juízes em cada país. Mas a existência
+> de tais normas é necessária, pois desempenha uma função social crucial
+> e expressa valores. O prazo poderia ser maior ou menor, mas o
+> cumprimento do prazo preestabelecido é fundamental, sob pena de
+> transformarmos o processo em uma discussão infinita e caótica.
+> Justamente nisso reside o valor das regras.\
+> Segundo: o cumprimento das regras pode prejudicar uma parte do
+> processo, por exemplo, aquele que perdeu o prazo por negligência do
+> estagiário. Mas a tentativa de "reparar" o dano flexibilizando as
+> regras processuais prejudicará a outra parte que cumpriu as regras.
+> Aqui também percebemos que o formalismo preserva relevantes interesses
+> sociais [@dimoulis_curso_2016, pp. 3-4].
