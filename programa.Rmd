@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 1
 
-**Notas de aula**  
+[**Notas de aula**](notas_1.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
 ## 12/02 - aula 1.1: introdução
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 2
 
-**Notas de aula**  
+[**Notas de aula**](notas_2.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
 ## 17/02 - aula 2.1: processo legal e processo judicial

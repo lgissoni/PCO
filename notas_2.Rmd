@@ -213,3 +213,60 @@ passa a ser de conhecimento fundamental a qualquer operador do direito.
 > uma abordagem jus-sociológica. Finalmente, a disciplina já integra o
 > currículo de alguns cursos de graduação em direito, aumentando também
 > os cursos de pós-graduação e as pesquisas sobre o tema [@dimoulis_curso_2016, p. 15].
+
+# Normas Processuais Civis
+
+CivbpnC471H7xUNsVZHrE8akftpRC
+
+## Eficácia da Norma Processual
+
+A eficácia das normas processuais refere-se à sua aplicabilidade no tempo e no espaço. No Brasil, vigora o princípio do **tempus regit actum**, segundo o qual a norma processual nova se aplica imediatamente aos processos em curso, respeitando os atos já praticados (@autor_ano).
+
+## Interpretação da Norma Processual
+
+A interpretação das normas processuais deve seguir os métodos tradicionais de hermenêutica, tais como:
+
+- **Gramatical**: análise do texto normativo.
+- **Sistemática**: interpretação no contexto do ordenamento jurídico.
+- **Teleológica**: consideração da finalidade da norma.
+- **Histórica**: análise do contexto de criação da norma (@autor_ano).
+
+# Função Jurisdicional
+
+## Jurisdição
+
+Jurisdição é a função atribuída a um *terceiro imparcial* de realizar o direito de *modo imperativo* DIÁLOGOS SOBRE 0 CPC Q MOZART BORBA
+julgador se tornará lei entre as partes) e CRIATIVO (Lembre de que
+ainda que haja lacuna na lei, o juiz não pode se eximir de decidir, art.
+140 do CPC/2015), RECONHECENDO, EFETIVANDO e PROTEGENDO si-
+tuaçõesjurídicas concretamente deduzidas (existe um problema con-
+creto para ser resolvido), em decisão insuscetível de controle externo
+e com aptidão para tornar-se indiscutível (a decisão jurisdicional so-
+mente écontrolada pela própria jurisdição e apenas ela pode formar
+a coisa julgada).
+
+A jurisdição é a função estatal de resolver conflitos por meio da aplicação do direito. Suas características incluem:
+
+- **Inércia**: exige provocação da parte interessada.
+- **Definitividade**: suas decisões são vinculantes e fazem coisa julgada.
+- **Substitutividade**: substitui a vontade das partes pela decisão judicial (@autor_ano).
+
+## Ação
+
+O direito de ação é a faculdade de provocar o Judiciário para a solução de um conflito. Ele é regido por condições como:
+
+1. **Legitimidade das partes**
+2. **Interesse processual**
+3. **Possibilidade jurídica do pedido** (@autor_ano).
+
+## Competência
+
+A competência determina qual órgão jurisdicional deve julgar determinada causa. Pode ser:
+
+- **Material**: relativa à matéria do litígio.
+- **Territorial**: relacionada ao local onde deve tramitar o processo.
+- **Funcional**: vinculada à instância competente para decidir (@autor_ano).
+
+---
+
+*Texto adaptado para fins didáticos.*
