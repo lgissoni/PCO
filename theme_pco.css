@@ -99,3 +99,28 @@ d-article a {
 ul > li::marker {
   color: rgb(249, 83, 85);
 }
+
+/*-- Abaixo altero as cores e tamanhos de fonte para os títulos e subtítulos --*/
+
+h1 {
+    color: rgb(185, 13, 40) !important; 
+    font-size: 2em !important;
+}
+
+h2 {
+    color: rgb(220, 38, 38) !important; 
+    font-size: 1.5em !important;
+}
+
+h3 {
+    color: rgb(239, 68, 68) !important; 
+    font-size: 1.2em !important;
+}
+
+
+
+/*-- Abaixo altero a cor dos negritos --*/
+
+strong {
+    color: rgb(249, 83, 85); /* Ou outra cor da sua paleta */
+}

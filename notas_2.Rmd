@@ -214,11 +214,57 @@ passa a ser de conhecimento fundamental a qualquer operador do direito.
 > currículo de alguns cursos de graduação em direito, aumentando também
 > os cursos de pós-graduação e as pesquisas sobre o tema [@dimoulis_curso_2016, p. 15].
 
-# Normas Processuais Civis
+# Direito processual
 
-CivbpnC471H7xUNsVZHrE8akftpRC
+## Introdução
 
-## Eficácia da Norma Processual
+O **direito material** (ou **direito substantivo**) é o conjunto de normas que estabelece os direitos e deveres das pessoas na sociedade. Ele define as relações jurídicas e as consequências jurídicas de determinados fatos, regulando aspectos como propriedade, obrigações, contratos, responsabilidade civil, direitos fundamentais, entre outros.
+
+Em contraste, o **direito processual** estabelece as regras e procedimentos para garantir a aplicação e efetivação do direito material, regulando o funcionamento da justiça e o trâmite das ações judiciais.
+
+**Exemplo:**  
+
+- **Direito material**: O Código Civil prevê que quem causa dano a outra pessoa deve indenizá-la.
+- **Direito processual**: O Código de Processo Civil estabelece as regras para a vítima entrar com uma ação judicial e obter essa indenização.
+
+### Jurisdição, ação e processo
+
+> A jurisdição, a ação e o processo formam a chamada “trilogia estrutural de conceitos básicos do direito processual” – denominação de Ramiro Podetti.
+
+> Pode-se dizer que a jurisdição é uma função estatal – nem todos entendem que essa função é exclusivamente estatal, como veremos – de resolver os conflitos de interesses que lhe são apresentados.
+
+> Já a ação é um direito – ou poder, para alguns – decorrente desse encargo do Estado, mais precisamente o direito de exigir a jurisdição.
+
+> E o processo é o meio (método) pelo qual a jurisdição é prestada, em razão do exercício de uma ação.
+
+> Assim, o direito processual é fundamentalmente o ramo do direito que se propõe a tratar da jurisdição, da ação e do processo, e dos seus variados desdobramentos, como as partes, a petição inicial, a citação, a contestação, a audiência, a sentença, a execução e os recursos [@montans_de_sa_processo_2012, n.p.].
+
+### Espécies de direito processual
+
+O direito processual subdivide-se nas seguintes espécies:
+
+- O **direito processula civil**, ou proecesso civil, destina-se às lides não penais e não trabalhistas. Assim, é definido por exclusão. Atentar que o processo civil não é apenas um instrumento de realização do direito civil, mas de todo direito material, excetuando-se o direito penal e o direito do trabalho.
+
+- O **direito processual penal**, ou processo penal, destina-se às lides penais. É um instrumento de efetivação do direito penal.
+
+- O **direito processual do trabalho**, ou processo do trabalho, destina-se às lides trabalhistas. É um instrumento de efetivação do direito do trabalho [@montans_de_sa_processo_2012, n.p.].
+
+<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Para saber mais: lide</b></p>
+<p style='margin-left:1em;'>
+A <b>lide</b> é o conflito de interesses qualificado por uma pretensão resistida. Em outras palavras, ocorre quando uma pessoa (autor) reivindica um direito e outra (réu) se opõe a essa pretensão. É o núcleo central do processo judicial, pois é a partir dela que o Poder Judiciário é acionado para resolver a controvérsia.<br><br>
+<b>Elementos da lide:</b><br>
+- <b>Sujeitos</b>: autor (quem propõe a ação) e réu (quem resiste à pretensão do autor).<br>
+- <b>Objeto</b>: a pretensão do autor, que pode envolver uma obrigação, um direito ou uma sanção.<br>
+- <b>Resistência</b>: a negativa ou oposição do réu ao pedido do autor.<br>
+
+A teoria da lide foi desenvolvida por <b>Carnelutti**, que a definiu como o confronto entre dois interesses que não podem coexistir pacificamente. No processo, o juiz tem a função de solucionar essa lide aplicando o direito ao caso concreto.
+</p></span>
+</div>
+
+## Eficácia da norma processual
 
 A eficácia das normas processuais refere-se à sua aplicabilidade no tempo e no espaço. No Brasil, vigora o princípio do **tempus regit actum**, segundo o qual a norma processual nova se aplica imediatamente aos processos em curso, respeitando os atos já praticados (@autor_ano).
 
@@ -231,11 +277,13 @@ A interpretação das normas processuais deve seguir os métodos tradicionais de
 - **Teleológica**: consideração da finalidade da norma.
 - **Histórica**: análise do contexto de criação da norma (@autor_ano).
 
-# Função Jurisdicional
+## Função Jurisdicional
 
-## Jurisdição
 
-Jurisdição é a função atribuída a um *terceiro imparcial* de realizar o direito de *modo imperativo* DIÁLOGOS SOBRE 0 CPC Q MOZART BORBA
+
+### Jurisdição
+
+Jurisdição é a função atribuída a um *terceiro imparcial* de realizar o direito de *modo imperativo* 
 julgador se tornará lei entre as partes) e CRIATIVO (Lembre de que
 ainda que haja lacuna na lei, o juiz não pode se eximir de decidir, art.
 140 do CPC/2015), RECONHECENDO, EFETIVANDO e PROTEGENDO si-
@@ -249,9 +297,9 @@ A jurisdição é a função estatal de resolver conflitos por meio da aplicaç�
 
 - **Inércia**: exige provocação da parte interessada.
 - **Definitividade**: suas decisões são vinculantes e fazem coisa julgada.
-- **Substitutividade**: substitui a vontade das partes pela decisão judicial (@autor_ano).
+- **Substitutividade**: substitui a vontade das partes pela decisão judicial.
 
-## Ação
+### Ação
 
 O direito de ação é a faculdade de provocar o Judiciário para a solução de um conflito. Ele é regido por condições como:
 
