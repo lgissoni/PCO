@@ -260,7 +260,7 @@ A <b>lide</b> é o conflito de interesses qualificado por uma pretensão resisti
 - <b>Objeto</b>: a pretensão do autor, que pode envolver uma obrigação, um direito ou uma sanção.<br>
 - <b>Resistência</b>: a negativa ou oposição do réu ao pedido do autor.<br>
 
-A teoria da lide foi desenvolvida por <b>Carnelutti**, que a definiu como o confronto entre dois interesses que não podem coexistir pacificamente. No processo, o juiz tem a função de solucionar essa lide aplicando o direito ao caso concreto.
+A teoria da lide foi desenvolvida por <b>Carnelutti</b>, que a definiu como o confronto entre dois interesses que não podem coexistir pacificamente. No processo, o juiz tem a função de solucionar essa lide aplicando o direito ao caso concreto.
 </p></span>
 </div>
 
@@ -279,11 +279,13 @@ A interpretação das normas processuais deve seguir os métodos tradicionais de
 
 ## Função Jurisdicional
 
-
-
 ### Jurisdição
 
-Jurisdição é a função atribuída a um *terceiro imparcial* de realizar o direito de *modo imperativo* 
+A jurisdição é a função estatal de resolver conflitos por meio da aplicação do direito.
+
+> Segundo Prof. Fredie Didier,JURISDIÇÃO é a FUNÇÃO ATRIBUÍDA
+A TERCEIRO IMPARCIAL (pode ser um juiz ou um árbitro, lembrou?)
+de realizar o direito de modo IMPERATIVO (o que for decidido pelo
 julgador se tornará lei entre as partes) e CRIATIVO (Lembre de que
 ainda que haja lacuna na lei, o juiz não pode se eximir de decidir, art.
 140 do CPC/2015), RECONHECENDO, EFETIVANDO e PROTEGENDO si-
@@ -291,13 +293,82 @@ tuaçõesjurídicas concretamente deduzidas (existe um problema con-
 creto para ser resolvido), em decisão insuscetível de controle externo
 e com aptidão para tornar-se indiscutível (a decisão jurisdicional so-
 mente écontrolada pela própria jurisdição e apenas ela pode formar
-a coisa julgada).
+a coisa julgada) [@borba_dialogos_2020, pp. 853-854].
 
-A jurisdição é a função estatal de resolver conflitos por meio da aplicação do direito. Suas características incluem:
+#### Características
 
-- **Inércia**: exige provocação da parte interessada.
-- **Definitividade**: suas decisões são vinculantes e fazem coisa julgada.
-- **Substitutividade**: substitui a vontade das partes pela decisão judicial.
+##### Inércia
+
+A jurisidição atua por provocação da parte interessada. Deste modo, a jurisdição estatal não age de ofício.
+
+> Art. 2º O processo começa por iniciativa da parte e se desenvolve por impulso oficial, salvo as exceções previstas em lei [@brasil_cpc_2015]. 
+
+Há, no entanto, exceções previstas em lei. Veja, por exemplo:
+
+> Art. 712. Verificado o desaparecimento dos autos, eletrônicos ou não, pode o juiz, de ofício, qualquer das partes ou o Ministério Público, se for o caso, promover-lhes a restauração [@brasil_cpc_2015]. 
+
+##### Imparcialidade
+
+> A atividade jurisdicional tem que ser
+prestada por um órgão julgador imparcial. E é por isso que
+o código prevê o afastamento de um juiz, por exemplo, que
+tenha algum tipo de interesse OBJETIVO (hipóteses de IMPE-
+DIMENTO, art. 144) ou SUBJETIVO (hipóteses de SUSPEIÇÃO,
+art. 145) na solução da controvérsia [@borba_dialogos_2020, p. 855].
+
+##### Substitutividade
+
+A vontade das partes é **substituída** pela decisão judicial, que passa a determinar qual deve ser a solução para o problema apresentado.
+
+##### Definitividade
+
+A decisão jurisdicional é **imutável** e **indiscutível**, em nome de sua segurança e autoridade.
+
+##### Unicidade e indivisibilidade
+
+A jurisdição é **una** e **indivisível**.
+
+#### Princípios
+
+A jurisdição, como função estatal, é regida por princípios fundamentais que garantem sua correta aplicação:
+
+- **Inafastabilidade**: nenhum direito pode ser subtraído da apreciação do Poder Judiciário (art. 5º, XXXV, CF/88).
+- **Indelegabilidade**: 0 poder de decidir não pode ser transferido para outro julgador
+- **Indeclinabilidade**: O juiz não pode se eximir de decidir, ainda que haja lacuna na Lei
+- **Inevitabilidade**: A decisão deve ser cumprida pela parte derrotada. Torna-se lei entre as partes da demanda.
+- **Territorialidade**: 0 órgão julgador exerce poder jurisdicional nos limites da sua área de atuação
+- **Juiz natural**: Ninguém será processado senão pela autoridade competente, sendo proibido juízo ou tribunal de exceção
+
+#### Classificação
+
+##### Contenciosa x voluntária
+
+> A contenciosa é quando
+houver "lide". É o normal. Mas há casos em que não há con-
+flito, mas mesmo assim você se vale da atividade jurisdicio-
+nal. Trata-se da jurisdição voluntária. São os casos da ho-
+mologação de separação e divórcio consensual, interdição,
+etc [@@borba_dialogos_2020, p. 860]
+
+##### Cível x criminal
+
+A jurisdição será cível por exclusão: sempre que não for criminal, será cível.
+
+##### Comum x especial
+
+São jurisdições especiais a:
+
+1. Justiça trabalhista;
+
+2.Justiça eleitoral;
+
+3. Justiça militar.
+
+São jurisdições comuns:
+
+1. Justiça federal;
+
+2. Justiça estadual.
 
 ### Ação
 

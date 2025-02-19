@@ -103,21 +103,31 @@ ul > li::marker {
 /*-- Abaixo altero as cores e tamanhos de fonte para os títulos e subtítulos --*/
 
 h1 {
-    color: rgb(185, 13, 40) !important; 
+    color: rgb(249, 83, 85) !important; 
     font-size: 2em !important;
 }
 
 h2 {
-    color: rgb(220, 38, 38) !important; 
+    color: rgb(249, 83, 85) !important; 
     font-size: 1.5em !important;
 }
 
 h3 {
-    color: rgb(239, 68, 68) !important; 
+    color: rgb(249, 83, 85) !important; 
     font-size: 1.2em !important;
 }
 
+h4 {
+    color: rgb(249, 83, 85) !important; 
+}
 
+h5 {
+    color: rgb(249, 83, 85) !important; 
+}
+
+h6 {
+    color: rgb(249, 83, 85) !important; 
+}
 
 /*-- Abaixo altero a cor dos negritos --*/
 
