@@ -266,7 +266,7 @@ A teoria da lide foi desenvolvida por <b>Carnelutti</b>, que a definiu como o co
 
 ## Eficácia da norma processual
 
-A eficácia das normas processuais refere-se à sua aplicabilidade no tempo e no espaço. No Brasil, vigora o princípio do **tempus regit actum**, segundo o qual a norma processual nova se aplica imediatamente aos processos em curso, respeitando os atos já praticados (@autor_ano).
+A eficácia das normas processuais refere-se à sua aplicabilidade no tempo e no espaço. No Brasil, vigora o princípio do **tempus regit actum**, segundo o qual a norma processual nova se aplica imediatamente aos processos em curso, respeitando os atos já praticados.
 
 ## Interpretação da Norma Processual
 
@@ -360,7 +360,7 @@ São jurisdições especiais a:
 
 1. Justiça trabalhista;
 
-2.Justiça eleitoral;
+2. Justiça eleitoral;
 
 3. Justiça militar.
 
@@ -376,16 +376,12 @@ O direito de ação é a faculdade de provocar o Judiciário para a solução de
 
 1. **Legitimidade das partes**
 2. **Interesse processual**
-3. **Possibilidade jurídica do pedido** (@autor_ano).
+3. **Possibilidade jurídica do pedido**.
 
-## Competência
+### Competência
 
-A competência determina qual órgão jurisdicional deve julgar determinada causa. Pode ser:
+A competência determina qual órgão jurisdicional deve julgar determinada causa. É o limite da jurisdição do juiz. Pode ser:
 
 - **Material**: relativa à matéria do litígio.
 - **Territorial**: relacionada ao local onde deve tramitar o processo.
-- **Funcional**: vinculada à instância competente para decidir (@autor_ano).
-
----
-
-*Texto adaptado para fins didáticos.*
+- **Funcional**: vinculada à instância competente para decidir.
