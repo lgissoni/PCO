@@ -1,0 +1,20 @@
+---
+title: "PAP 1.1"
+description: |
+  Marbury vs. Madison e a emergência do controle de constitucionalidade
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+Leia o texto [*O controle de constitucionalidade pela Suprema Corte dos EUA* [@dimoulis_curso_2016 pp. 54-63]](resources/dimoulis_controleEUA.pdf). Em seguida, responda às seguintes perguntas:
+
+
+
+
+

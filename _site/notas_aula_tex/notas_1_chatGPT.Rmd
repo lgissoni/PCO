@@ -1,0 +1,97 @@
+---
+title: "Processo Constitucional"
+description: "Notas de Aula 3"
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Introdução: o conceito de "processo"
+
+> Utilizado no vocabulário científico, o termo processo indica uma sequência de atos e acontecimentos que estão relacionados e levam a algum resultado. É “uma ação que consideramos como sequência de ações parciais e constitutivas” [@dimoulis_curso_2016, p. 1].
+
+- **"Processo"**: do latim *procedere* (avançar, proceder) - significa progresso, transcurso, desenvolvimento.
+- **Meio empresarial**: processo de produção, processo de compras, processo de controle de qualidade etc.
+- **Meio cultural**: processo de criação de um romance, de uma música etc.
+
+## O processo como abstração de segunda ordem
+
+- Os atos existem na realidade concreta.
+- Quem considera que certo ato faz parte de uma sequência processual é o observador.
+
+> Isso indica que o “processo” é uma criação do nosso espírito. Pretendemos relacionar certos acontecimentos, indicando as finalidades em comum e as regras que se aplicam na sua sucessão. O processo é uma construção teórica que nos permite melhor entender o mundo (...). Se o processo é uma construção teórica, baseada na observação da realidade e na extração de seus elementos típicos e marcantes, os teóricos dos sistemas acrescentam que o termo processo é uma **abstração de segunda ordem**, pois é utilizado para indicar **vários tipos de processos que são fundamentalmente diferentes entre si**. Por isso é necessário especificar a que tipo de processo nos referimos. [@dimoulis_curso_2016, p. 1, suffix = "grifos meus"].
+
+## Estudo de comportamentos x estudo de regras
+
+- Forma de analisar o processo.
+- Centrar a análise nas pessoas envolvidas no processo x na sequência de seus atos.
+
+### Estudo de comportamentos
+
+- Análise psicológica, antropológica ou sociológica.
+- Entender como e por que as pessoas colaboram, entram em conflito, tomam certa decisão, fazem e desfazem organizações etc.
+- Predominante na teoria da administração: análise do comportamento das pessoas no âmbito de grupos organizados.
+- Regras são flexíveis e podem mudar conforme decisões dos grupos dirigentes.
+
+### Estudo de regras
+
+- **Predominante no direito**.
+- Análise da sequência de atos, independentemente da vontade e da conduta dos atores do processo.
+- **Finalidade**: garantir a segurança jurídica com base em regras rígidas.
+- **Formalismo processual**: regras processuais prevalecem sobre a vontade e o interesse dos indivíduos.
+
+#### Críticas
+
+> O formalismo é criticado como postura que ignora a substância dos conflitos jurídicos. Se alguém é inocente, não deixa de sê-lo porque no dia da audiência não compareceu a testemunha que comprovaria sua inocência. Também não parece correto alguém perder um processo porque o estagiário do escritório de advocacia não conseguiu protocolar um recurso dentro do prazo!\
+> O formalismo é também considerado postura que cria obstáculos desnecessários ao processo. Por que atrasar o processo em razão da falta de uma procuração ou permitir que sejam apresentados infinitos recursos quando a verdade já é conhecida?
+
+# Processo legal
+
+No direito, "processo" é uma sequência de atos que, aplicando normas jurídicas existentes, visa produzir novas normas jurídicas.
+
+| **Tipo de processo** | **Normas a aplicar** | **Normas criadas** |
+|---------------------|--------------------|------------------|
+| Pr. Legislativo    | CF/88 e Regimento Interno | Leis |
+| Pr. Administrativo | Leis | Normas individuais |
+| Pr. Judicial      | Leis | Normas individuais |
+
+Independentemente da natureza do processo legal considerado (se legislativo, administrativo ou judicial, conforme tabela acima), ele obedecerá à mesma estrutura abstrata que transforma *inputs* em *outputs*.
+
+# Processo constitucional
+
+## Definições
+
+### Definição restrita
+
+> (Processo constitucional é a) sequência de atos que objetiva permitir uma decisão judicial sobre a constitucionalidade de certas normas (Dimoulis; Lunardi, p. 9).
+
+Essa definição é considerada restritiva pois não inclui os processos nos Poderes Executivo e Legislativo.
+
+### Definição média
+
+> (A)lguns autores consideram processo constitucional o conjunto de tipos de processo regulamentados pela Constituição (Dimoulis; Lunardi, p. 9).
+
+Inclui diversos processos constitucionais: *habeas corpus*, mandado de segurança, ação direta de inconstitucionalidade, *impeachment* etc.
+
+### Definição ampla
+
+> Segundo outros autores, o processo constitucional consiste no “conjunto de atos mediante os quais o órgão jurisdicional atua conforme a vontade das normas constitucionais” (Dimoulis; Lunardi, pp. 8-9).
+
+Esta definição restringe o processo ao âmbito judicial e é excessivamente ampla.
+
+## O estudo do processo constitucional
+
+O tema já foi considerado "elitista", mas essa percepção é equivocada. No Brasil, os três Poderes realizam controle de constitucionalidade, e qualquer juiz pode afastar norma inconstitucional. 
+
+> Sendo possível o afastamento da norma inconstitucional em qualquer processo, o conhecimento desses mecanismos é importante mesmo para os operadores do direito que, seguramente, depararão em sua prática com problemas de constitucionalidade.
+
+> Basta pensar na relevância e frequência do Recurso Extraordinário (Dimoulis; Lunardi, p. 13).
+
+A isso vem a somar-se o crescente tema da *judicialização da política* e seu correlato, a *politização da justiça*. Sendo cada vez maior o número de pessoas que procuram o Judiciário para satisfazer suas pretensões de acesso a direitos econômicos e sociais previstos na Constituição, o conhecimento do processo constitucional vem crescendo em importância e passa a ser de conhecimento fundamental a qualquer operador do direito.
+
+> O processo constitucional será objeto de crescente interesse da doutrina nacional após a promulgação da CF de 1988. Nos últimos anos temos profundos estudos sobre a legitimidade do controle judicial, assim como análises técnicas da estrutura do processo constitucional. Em paralelo, cresce o interesse dos estudiosos e dos operadores do direito pela análise do conteúdo e do impacto político-social das decisões da jurisdição constitucional, em particular do STF, adotando uma abordagem jus-sociológica. Finalmente, a disciplina já integra o currículo de alguns cursos de graduação em direito, aumentando também os cursos de pós-graduação e as pesquisas sobre o tema (Dimoulis; Lunardi, p. 15).

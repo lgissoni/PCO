@@ -36,6 +36,11 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Características das decisões judiciais
       a. Sanções
       a. O processo judicial e a pacificação de conflitos
+  1. Processo constitucional: definições
+      a. Definição restrita
+      a. Definição média
+      a. Definição ampla
+  1. O estudo do processo constitucional
 
 ## 19/02 - aula 2.2: direito processual
 
@@ -49,18 +54,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 3
 
-**Notas de aula**  
+[**Notas de aula**](notas_3.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## 24/02 - aula 3.1: teoria geral do processo constitucional
-
-  1. Processo constitucional: definições
-      a. Definição restrita
-      a. Definição média
-      a. Definição ampla
-  1. O estudo do processo constitucional
-
-## 26/02 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade
+## 24/02 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade
 
   1. Definição
       a. Conteúdo
@@ -72,8 +69,10 @@ knitr::opts_chunk$set(echo = FALSE)
       a. O Poder Judiciário
           i. Controle difuso de constitucionalidade
           i. Controle concentrado de constitucionalidade
+
+## 26/02 - PAP 1.1
           
-**PAP 1.1:** Marbury vs. Madison e a emergência do controle de constitucionalidade  
+[**PAP 1.1:** Marbury vs. Madison e a emergência do controle de constitucionalidade](pap_11.html)  
 **Prazo:** 24/02
 
 # Semana 4
