@@ -12,8 +12,26 @@ bibliography: bibliografia.bib
 csl: abnt.csl
 ---
 
-Leia o texto [*O controle de constitucionalidade pela Suprema Corte dos EUA* [@dimoulis_curso_2016 pp. 54-63]](resources/dimoulis_controleEUA.pdf). Em seguida, responda às seguintes perguntas:
+## Contextualização  
+Em 1803, a Suprema Corte dos EUA, sob a presidência do Chief Justice John Marshall, decidiu o caso *Marbury v. Madison*, estabelecendo um dos princípios fundamentais do direito constitucional: o poder do Judiciário de declarar leis inconstitucionais. Leia o texto [*O controle de constitucionalidade pela Suprema Corte dos EUA* [@dimoulis_curso_2016 pp. 54-63]](resources/dimoulis_controleEUA.pdf). Em seguida, responda às seguintes questões:  
 
+## Questões  
+
+1. **Compreensão do caso:** Explique brevemente o que levou William Marbury a entrar com uma ação na Suprema Corte e qual foi o pedido dele.  
+
+2. **Decisão e Argumentação:**  
+   a) Por que a Suprema Corte decidiu que não poderia conceder o pedido de Marbury?  
+   b) Qual foi a consequência dessa decisão para a relação entre os Poderes Legislativo, Executivo e Judiciário nos EUA?  
+
+3. **Controle de Constitucionalidade:**  
+   a) Segundo *Marbury v. Madison*, por que cabe ao Judiciário interpretar a Constituição?  
+   b) O argumento usado por John Marshall para justificar essa competência foi baseado em qual princípio fundamental do constitucionalismo?  
+
+4. **Efeitos políticos:** Marshall equivocou-se? Explique, com suas palavras, a motivação política para ele tomar a decisão que tomou.  
+
+5. **Reflexão:**  
+   a) Você concorda que o Poder Judiciário deve ter a última palavra na interpretação da Constituição? Justifique sua resposta.  
+   b) Caso essa decisão não tivesse sido tomada em 1803, quais poderiam ter sido as consequências para a separação de poderes nos EUA?  
 
 
 
