@@ -87,6 +87,28 @@ code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
+<style>
+  div.csl-bib-body { }
+  div.csl-entry {
+    clear: both;
+      margin-bottom: 0em;
+    }
+  .hanging div.csl-entry {
+    margin-left:2em;
+    text-indent:-2em;
+  }
+  div.csl-left-margin {
+    min-width:2em;
+    float:left;
+  }
+  div.csl-right-inline {
+    margin-left:2em;
+    padding-left:1em;
+  }
+  div.csl-indent {
+    margin-left: 2em;
+  }
+</style>
 
   <!--radix_placeholder_meta_tags-->
   <title>PCO: Processo Constitucional</title>
@@ -109,6 +131,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   <!--/radix_placeholder_meta_tags-->
   
+  <meta name="citation_reference" content="citation_title=Curso de Direito Constitucional;citation_publisher=Grupo GEN;citation_author=Gilmar Mendes;citation_author=Paulo Gustavo Gonet Branco"/>
+  <meta name="citation_reference" content="citation_title=Curso de processo constitucional: Controle de constitucionalidade e remédios constitucionais;citation_publisher=Atlas;citation_author=Dimitri Dimoulis;citation_author=Soraya Lunardi"/>
+  <meta name="citation_reference" content="citation_title=Direito Constitucional;citation_publisher=Grupo GEN;citation_author=Alexandre Moraes"/>
+  <meta name="citation_reference" content="citation_title=Constituição da República Federativa do Brasil;citation_author=Constituição da República Federativa do Brasil"/>
+  <meta name="citation_reference" content="citation_title=Diálogos sobre o CPC;citation_publisher=Juspodivm;citation_author=Mozart Borba"/>
+  <meta name="citation_reference" content="citation_title=Processo civil I: Teoria geral do processo;citation_publisher=Saraiva;citation_author=Renato Montans de Sá;citation_author=Rodrigo da Cunha Lima Freire"/>
+  <meta name="citation_reference" content="citation_title=Processo civil brasileiro: Parte geral: Fundamentos e distribuição de conflitos;citation_publisher=Revista dos Tribunais;citation_volume=1;citation_author=Araken Assis"/>
+  <meta name="citation_reference" content="citation_title=Lei nº 13.105, de 16 de março de 2015;citation_author=Lei nº 13.105, de 16 de março de 2015"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
@@ -2553,11 +2583,16 @@ PAPs
 <h3>Contents</h3>
 <ul>
 <li><a href="#informações-básicas" id="toc-informações-básicas">Informações básicas</a></li>
-<li><a href="#apresentação" id="toc-apresentação">Apresentação</a></li>
+<li><a href="#apresentação" id="toc-apresentação">Apresentação</a>
+<ul>
+<li><a href="#objetivos" id="toc-objetivos"><strong>Objetivos</strong></a></li>
+<li><a href="#metodologia" id="toc-metodologia">Metodologia</a></li>
 <li><a href="#bibliografia" id="toc-bibliografia">Bibliografia</a>
 <ul>
 <li><a href="#bibliografia-básica" id="toc-bibliografia-básica">Bibliografia básica</a></li>
 <li><a href="#bibliografia-complementar" id="toc-bibliografia-complementar">Bibliografia complementar</a></li>
+</ul></li>
+<li><a href="#referências-adicionais" id="toc-referências-adicionais">Referências adicionais</a></li>
 </ul></li>
 <li><a href="#estrutura-do-curso" id="toc-estrutura-do-curso">Estrutura do curso</a>
 <ul>
@@ -2566,6 +2601,8 @@ PAPs
 <ul>
 <li><a href="#pap" id="toc-pap">PAP</a></li>
 <li><a href="#pat" id="toc-pat">PAT</a></li>
+<li><a href="#critérios-de-avaliação" id="toc-critérios-de-avaliação">Critérios de Avaliação</a></li>
+<li><a href="#critérios-de-avaliação-adicionais" id="toc-critérios-de-avaliação-adicionais"><strong>Critérios de Avaliação Adicionais</strong></a></li>
 </ul></li>
 </ul></li>
 <li><a href="#plágio-e-uso-indevido-de-ia-em-atividades-acadêmicas" id="toc-plágio-e-uso-indevido-de-ia-em-atividades-acadêmicas">Plágio e uso indevido de IA em atividades acadêmicas</a>
@@ -2575,6 +2612,7 @@ PAPs
 <li><a href="#como-garantir-a-originalidade-do-seu-trabalho" id="toc-como-garantir-a-originalidade-do-seu-trabalho">Como garantir a originalidade do seu trabalho?</a></li>
 <li><a href="#conscientização-e-compromisso" id="toc-conscientização-e-compromisso">Conscientização e compromisso</a></li>
 </ul></li>
+<li><a href="#dúvidas-entre-em-contato" id="toc-dúvidas-entre-em-contato">📬 <strong>Dúvidas? Entre em contato!</strong></a></li>
 <li><a href="#sobre-o-professor" id="toc-sobre-o-professor">Sobre o professor</a>
 <ul>
 <li><a href="#perfis-acadêmicos-e-redes-sociais" id="toc-perfis-acadêmicos-e-redes-sociais"><strong>Perfis acadêmicos e redes sociais</strong></a></li>
@@ -2599,16 +2637,38 @@ PAPs
 <p>Todos nós conhecemos o direito constitucional: ele abriga os direitos fundamentais, a organização do Estado e a regulação da atividade econômica. Na intersecção dessas três áreas, está o programa de construção do Estado de bem estar social em nosso país. Contudo, como todo direito, não basta ao constitucional a positivação na lei: para ser efetivo, é necessária a previsão de ações judiciais que façam cumprir o direito.
 Assim, além de direitos subjetivos materiais, a Constituição da República prevê uma série de possibilidades de provocação do Poder Judiciário cujo objetico é fazer valer os preceitos constitucionais. Ao conjunto desses direito de ação e ao procedimento judicial específico que eles conformam, chamamos <strong>processo constitucional</strong>.
 O objetivo deste curso é entender esse processo. Mas, de início, iremos discutir o que é “processo”, antes de adentrar o terreno do processo especificamente constitucional. O foco desta primeira parte do curso será teórico e histórico. Na segunda parte, apresentaremos procedimentos constitucionais especiais e praticaremos a redação de suas peças profissionais conforme as regras do Exame de Ordem da OAB.</p>
-<h1 id="bibliografia">Bibliografia</h1>
+<h2 id="objetivos"><strong>Objetivos</strong></h2>
+<ul>
+<li>Compreender o papel do processo constitucional na efetivação dos direitos e garantias fundamentais previstos na Constituição.</li>
+<li>Desenvolver a capacidade de análise crítica sobre a atuação do Poder Judiciário na concretização das normas constitucionais.</li>
+<li>Estudar os principais instrumentos processuais constitucionais, como mandado de segurança, habeas corpus, mandado de injunção, ação popular, ADI, ADC, ADPF, entre outros.</li>
+<li>Aprimorar a técnica de redação de peças processuais exigidas no <strong>Exame de Ordem</strong>.</li>
+</ul>
+<h2 id="metodologia">Metodologia</h2>
+<p>O curso contará com <strong>aulas expositivas</strong>, momentos de reflexão individual e <strong>produção textual</strong> a partir do material bibliográfico fornecido. Além disso, serão produzidas <strong>peças técnicas</strong> de direito processual constitucional com foco no conteúdo e forma cobrados no <strong>Exame de Ordem</strong>.</p>
+<h2 id="bibliografia">Bibliografia</h2>
 <div class="layout-chunk" data-layout="l-body">
 
 </div>
-<h2 id="bibliografia-básica">Bibliografia básica</h2>
-<p><span class="citation" data-cites="dimoulis_curso_2016">(<a href="#ref-dimoulis_curso_2016" role="doc-biblioref"><strong>dimoulis_curso_2016?</strong></a>)</span></p>
-<h2 id="bibliografia-complementar">Bibliografia complementar</h2>
-<p><span class="citation" data-cites="mendes_curso_2024">(<a href="#ref-mendes_curso_2024" role="doc-biblioref"><strong>mendes_curso_2024?</strong></a>)</span>
-<span class="citation" data-cites="moraes_direito_2023">(<a href="#ref-moraes_direito_2023" role="doc-biblioref"><strong>moraes_direito_2023?</strong></a>)</span>
+<h3 id="bibliografia-básica">Bibliografia básica</h3>
+<p><span class="citation" data-cites="brasil_constituicao_1988">Brasil (<a href="#ref-brasil_constituicao_1988" role="doc-biblioref">1988</a>)</span><br />
+<span class="citation" data-cites="dimoulis_curso_2016">Dimoulis and Lunardi (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span></p>
+<h3 id="bibliografia-complementar">Bibliografia complementar</h3>
+<p><span class="citation" data-cites="assis_processo_2015">Assis (<a href="#ref-assis_processo_2015" role="doc-biblioref">2015</a>)</span><br />
+<span class="citation" data-cites="brasil_lei_2015">Brasil (<a href="#ref-brasil_lei_2015" role="doc-biblioref">2015</a>)</span><br />
+<span class="citation" data-cites="borba_dialogos_2020">Borba (<a href="#ref-borba_dialogos_2020" role="doc-biblioref">2020</a>)</span><br />
+<span class="citation" data-cites="mendes_curso_2024">Mendes and Branco (<a href="#ref-mendes_curso_2024" role="doc-biblioref">2024</a>)</span><br />
+<span class="citation" data-cites="montans_de_sa_processo_2012">Montans de Sá and Freire (<a href="#ref-montans_de_sa_processo_2012" role="doc-biblioref">2012</a>)</span><br />
+<span class="citation" data-cites="moraes_direito_2023">Moraes (<a href="#ref-moraes_direito_2023" role="doc-biblioref">2023</a>)</span><br />
 <span class="citation" data-cites="padilha_como_2014">(<a href="#ref-padilha_como_2014" role="doc-biblioref"><strong>padilha_como_2014?</strong></a>)</span></p>
+<h2 id="referências-adicionais">Referências adicionais</h2>
+<p>Para aprofundamento nos temas abordados ao longo do curso, recomenda-se a consulta às seguintes fontes:</p>
+<ul>
+<li><a href="https://www.stf.jus.br">Supremo Tribunal Federal (STF)</a></li>
+<li><a href="https://www.stj.jus.br">Superior Tribunal de Justiça (STJ)</a></li>
+<li><a href="https://www.cnj.jus.br">Conselho Nacional de Justiça (CNJ)</a></li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm">Legislação Federal</a> – Constituição Federal e leis correlatas.</li>
+</ul>
 <h1 id="estrutura-do-curso">Estrutura do curso</h1>
 <h2 id="aulas-leituras-e-materiais">Aulas, leituras e materiais</h2>
 <p>Teremos momentos de aulas expositivo-dialogadas em que discutiremos a bibliografia do curso. Neste site, também estarão disponíveis as notas de aula, elaboradas pelo professor, que servirão de material de apoio. A leitura de ambos os materiais é obigatória.</p>
@@ -2619,6 +2679,19 @@ O objetivo deste curso é entender esse processo. Mas, de início, iremos discut
 Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda parte, elas serão constituídas pela prática de redação das peças profissionais do processo constitucional conforme o Exame de Ordem. As PAP serão realizadas em sala ou em casa, conforme o caso.</p>
 <h3 id="pat">PAT</h3>
 <p>As PAT serão constituídas por dez <strong>questões objetivas</strong> valendo <strong>5 pontos</strong> e uma ou duas <strong>questões dissertativas</strong> valendo <strong>2 pontos</strong>. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.</p>
+<h3 id="critérios-de-avaliação">Critérios de Avaliação</h3>
+<p>As avaliações serão avaliadas com base nos seguintes critérios:
+- <strong>Clareza</strong> e <strong>coerência argumentativa</strong><br />
+- <strong>Precisão conceitual</strong> e <strong>fundamentação jurídica</strong><br />
+- <strong>Originalidade da análise</strong> e <strong>uso de referências adequadas</strong></p>
+<h3 id="critérios-de-avaliação-adicionais"><strong>Critérios de Avaliação Adicionais</strong></h3>
+<p>Além dos critérios já mencionados, as avaliações escritas que envolvem a redação de peças processuais serão analisadas conforme os seguintes parâmetros:</p>
+<ul>
+<li><strong>Adequação à estrutura exigida</strong> para a peça processual.</li>
+<li><strong>Domínio da terminologia jurídica e uso correto da norma culta</strong>.</li>
+<li><strong>Correção na fundamentação jurídica</strong> com base na Constituição Federal e na jurisprudência dos tribunais superiores.</li>
+<li><strong>Capacidade argumentativa</strong> e <strong>coerência</strong> na construção da peça.</li>
+</ul>
 <h1 id="plágio-e-uso-indevido-de-ia-em-atividades-acadêmicas">Plágio e uso indevido de IA em atividades acadêmicas</h1>
 <p>Prezados(as) alunos(as),</p>
 <p>O compromisso com a <strong>autenticidade e integridade acadêmica</strong> é essencial para seu aprendizado e desenvolvimento profissional. O uso indevido de <strong>inteligência artificial (IA)</strong> e a prática de <strong>plágio</strong> comprometem esse princípio e terão <strong>consequências rigorosas</strong>.</p>
@@ -2649,7 +2722,8 @@ Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda 
 <h2 id="conscientização-e-compromisso">Conscientização e compromisso</h2>
 <p>A universidade valoriza a <strong>produção autoral e o pensamento crítico</strong>. O objetivo das atividades acadêmicas é fortalecer suas habilidades de argumentação, escrita e análise, que serão essenciais para sua trajetória profissional.</p>
 <p><strong>Seja responsável pelo seu aprendizado!</strong> Trabalhos autênticos refletem seu crescimento e garantem que você esteja verdadeiramente preparado para os desafios da carreira jurídica.</p>
-<p><strong>Dúvidas? Entre em contato!</strong></p>
+<h1 id="dúvidas-entre-em-contato">📬 <strong>Dúvidas? Entre em contato!</strong></h1>
+<p>Todo contato pode ser estabelecido através e-mail <a href="mailto:luccas.gissoni@gmail.com"><strong>luccas.gissoni@gmail.com</strong></a> ou durante os horários das aulas.</p>
 <h1 id="sobre-o-professor">Sobre o professor</h1>
 <p>Possui graduação em Direito pela Universidade de São Paulo (2015), graduação em Filosofia pela Pontifícia Universidade Católica de São Paulo (2012) e mestrado em Economia Política Mundial pela Universidade Federal do ABC (2020). No momento, está no doutorado também por este mesmo programa. É pós-graduado em Processo Civil pela Fundação Getulio Vargas (2019). Atualmente é Professor de Direito na Universidade Zumbi dos Palmares, Analista de Políticas Públicas e Gestão Governamental na Secretaria Municipal de Mobilidade Urbana e Trânsito da Prefeitura de São Paulo e professor voluntário na Uneafro. Constrói o projeto “Novo Bandung: grupo de estudos sobre descolonização e emergência do Sul: África, Ásia e América Latina” na UFABC, bem como a Agrarian South Network, em Harare, Zimbábue, desenvolvendo pesquisa sobre a formação econômica e social do Brasil e da China. Foi coordenador de direito econômico e economia política da Comissão de Graduação, Pós-Graduação e Pesquisa da OAB/SP. Tem experiência nas áreas de Economia Política Mundial, Planejamento de Transportes, Filosofia e Direito, atuando principalmente nos seguintes temas: história econômica, teoria geral do direito, formação econômica e social do Brasil, história da África, desenvolvimento econômico e geopolítica na Ásia, segurança viária e planejamento cicloviário. Advogado em São Paulo.</p>
 <h2 id="perfis-acadêmicos-e-redes-sociais"><strong>Perfis acadêmicos e redes sociais</strong></h2>
@@ -2660,6 +2734,32 @@ Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda 
 <i class="fa-brands fa-github"></i> <a href="https://github.com/lgissoni">GitHub</a><br />
 <i class="fa-brands fa-square-twitter"></i> <a href="https://x.com/luccas_loki">Twitter</a></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-assis_processo_2015" class="csl-entry" role="listitem">
+Assis, Araken de. 2015. <em>Processo Civil Brasileiro: Parte Geral: Fundamentos e Distribuição de Conflitos</em>. 1st ed. Vol. 1. São Paulo: Revista dos Tribunais.
+</div>
+<div id="ref-borba_dialogos_2020" class="csl-entry" role="listitem">
+Borba, Mozart. 2020. <em>Diálogos Sobre o <span>CPC</span></em>. 7th ed. Salvador: Juspodivm.
+</div>
+<div id="ref-brasil_constituicao_1988" class="csl-entry" role="listitem">
+Brasil. 1988. <span>“Constituição Da <span>República</span> <span>Federativa</span> Do <span>Brasil</span>.”</span> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm">https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm</a>.
+</div>
+<div id="ref-brasil_lei_2015" class="csl-entry" role="listitem">
+———. 2015. <span>“Lei Nº 13.105, de 16 de Março de 2015.”</span> <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm">https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm</a>.
+</div>
+<div id="ref-dimoulis_curso_2016" class="csl-entry" role="listitem">
+Dimoulis, Dimitri, and Soraya Lunardi. 2016. <em>Curso de Processo Constitucional: Controle de Constitucionalidade e Remédios Constitucionais</em>. Atlas. <a href="https://integrada.minhabiblioteca.com.br/#/books/9788597006056/">https://integrada.minhabiblioteca.com.br/#/books/9788597006056/</a>.
+</div>
+<div id="ref-mendes_curso_2024" class="csl-entry" role="listitem">
+Mendes, Gilmar, and Paulo Gustavo Gonet Branco. 2024. <em>Curso de <span>Direito</span> <span>Constitucional</span></em>. 19th ed. Rio de Janeiro: Grupo GEN. <a href="https://integrada.minhabiblioteca.com.br/#/books/9786553629417/">https://integrada.minhabiblioteca.com.br/#/books/9786553629417/</a>.
+</div>
+<div id="ref-montans_de_sa_processo_2012" class="csl-entry" role="listitem">
+Montans de Sá, Renato, and Rodrigo da Cunha Lima Freire. 2012. <em>Processo Civil <span>I</span>: Teoria Geral Do Processo</em>. São Paulo: Saraiva.
+</div>
+<div id="ref-moraes_direito_2023" class="csl-entry" role="listitem">
+Moraes, Alexandre de. 2023. <em>Direito <span>Constitucional</span></em>. 39th ed. Rio de Janeiro: Grupo GEN. <a href="https://integrada.minhabiblioteca.com.br/#/books/9786559774944/">https://integrada.minhabiblioteca.com.br/#/books/9786559774944/</a>.
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

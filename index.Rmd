@@ -33,7 +33,18 @@ Todos nós conhecemos o direito constitucional: ele abriga os direitos fundament
 Assim, além de direitos subjetivos materiais, a Constituição da República prevê uma série de possibilidades de provocação do Poder Judiciário cujo objetico é fazer valer os preceitos constitucionais. Ao conjunto desses direito de ação e ao procedimento judicial específico que eles conformam, chamamos **processo constitucional**.
 O objetivo deste curso é entender esse processo. Mas, de início, iremos discutir o que é "processo", antes de adentrar o terreno do processo especificamente constitucional. O foco desta primeira parte do curso será teórico e histórico. Na segunda parte, apresentaremos procedimentos constitucionais especiais e praticaremos a redação de suas peças profissionais conforme as regras do Exame de Ordem da OAB.
 
-# Bibliografia
+## **Objetivos**
+
+- Compreender o papel do processo constitucional na efetivação dos direitos e garantias fundamentais previstos na Constituição.
+- Desenvolver a capacidade de análise crítica sobre a atuação do Poder Judiciário na concretização das normas constitucionais.
+- Estudar os principais instrumentos processuais constitucionais, como mandado de segurança, habeas corpus, mandado de injunção, ação popular, ADI, ADC, ADPF, entre outros.
+- Aprimorar a técnica de redação de peças processuais exigidas no **Exame de Ordem**.
+
+## Metodologia
+
+O curso contará com **aulas expositivas**, momentos de reflexão individual e **produção textual** a partir do material bibliográfico fornecido. Além disso, serão produzidas **peças técnicas** de direito processual constitucional com foco no conteúdo e forma cobrados no **Exame de Ordem**.
+
+## Bibliografia
 
 ```{r}
 #biblio <- bibtex::read.bib("biliografia.bib")
@@ -41,15 +52,30 @@ O objetivo deste curso é entender esse processo. Mas, de início, iremos discut
 #`r capture.output(print(biblio["brasil_constituicao_1988"]))`
 ```
 
-## Bibliografia básica
+### Bibliografia básica
 
+@brasil_constituicao_1988  
 @dimoulis_curso_2016
 
-## Bibliografia complementar
+### Bibliografia complementar
 
-@mendes_curso_2024
-@moraes_direito_2023
-@padilha_como_2014
+@assis_processo_2015  
+@brasil_lei_2015  
+@borba_dialogos_2020  
+@mendes_curso_2024  
+@montans_de_sa_processo_2012  
+@moraes_direito_2023  
+@padilha_como_2014  
+
+## Referências adicionais
+
+Para aprofundamento nos temas abordados ao longo do curso, recomenda-se a consulta às seguintes fontes:
+
+- [Supremo Tribunal Federal (STF)](https://www.stf.jus.br)
+- [Superior Tribunal de Justiça (STJ)](https://www.stj.jus.br)
+- [Conselho Nacional de Justiça (CNJ)](https://www.cnj.jus.br)
+- [Legislação Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) – Constituição Federal e leis correlatas.
+
 
 # Estrutura do curso
 
@@ -69,6 +95,24 @@ Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda 
 ### PAT
 
 As PAT serão constituídas por dez **questões objetivas** valendo **5 pontos** e uma ou duas **questões dissertativas** valendo **2 pontos**. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.
+
+### Critérios de Avaliação
+
+As avaliações serão avaliadas com base nos seguintes critérios: 
+- **Clareza** e **coerência argumentativa**  
+- **Precisão conceitual** e **fundamentação jurídica**  
+- **Originalidade da análise** e **uso de referências adequadas**  
+
+### **Critérios de Avaliação Adicionais**
+
+Além dos critérios já mencionados, as avaliações escritas que envolvem a redação de peças processuais serão analisadas conforme os seguintes parâmetros:
+
+- **Adequação à estrutura exigida** para a peça processual.
+- **Domínio da terminologia jurídica e uso correto da norma culta**.
+- **Correção na fundamentação jurídica** com base na Constituição Federal e na jurisprudência dos tribunais superiores.
+- **Capacidade argumentativa** e **coerência** na construção da peça.
+
+
 
 # Plágio e uso indevido de IA em atividades acadêmicas
 
@@ -104,7 +148,9 @@ A universidade valoriza a **produção autoral e o pensamento crítico**. O obje
 
  **Seja responsável pelo seu aprendizado!** Trabalhos autênticos refletem seu crescimento e garantem que você esteja verdadeiramente preparado para os desafios da carreira jurídica.  
 
-**Dúvidas? Entre em contato!**  
+# 📬 **Dúvidas? Entre em contato!**  
+
+Todo contato pode ser estabelecido através e-mail [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com) ou durante os horários das aulas.
 
 # Sobre o professor
 
