@@ -33,7 +33,7 @@ Todos nós conhecemos o direito constitucional: ele abriga os direitos fundament
 Assim, além de direitos subjetivos materiais, a Constituição da República prevê uma série de possibilidades de provocação do Poder Judiciário cujo objetico é fazer valer os preceitos constitucionais. Ao conjunto desses direito de ação e ao procedimento judicial específico que eles conformam, chamamos **processo constitucional**.
 O objetivo deste curso é entender esse processo. Mas, de início, iremos discutir o que é "processo", antes de adentrar o terreno do processo especificamente constitucional. O foco desta primeira parte do curso será teórico e histórico. Na segunda parte, apresentaremos procedimentos constitucionais especiais e praticaremos a redação de suas peças profissionais conforme as regras do Exame de Ordem da OAB.
 
-## **Objetivos**
+## Objetivos
 
 - Compreender o papel do processo constitucional na efetivação dos direitos e garantias fundamentais previstos na Constituição.
 - Desenvolver a capacidade de análise crítica sobre a atuação do Poder Judiciário na concretização das normas constitucionais.
@@ -103,7 +103,7 @@ As avaliações serão avaliadas com base nos seguintes critérios:
 - **Precisão conceitual** e **fundamentação jurídica**  
 - **Originalidade da análise** e **uso de referências adequadas**  
 
-### **Critérios de Avaliação Adicionais**
+### Critérios de Avaliação Adicionais
 
 Além dos critérios já mencionados, as avaliações escritas que envolvem a redação de peças processuais serão analisadas conforme os seguintes parâmetros:
 
@@ -111,8 +111,6 @@ Além dos critérios já mencionados, as avaliações escritas que envolvem a re
 - **Domínio da terminologia jurídica e uso correto da norma culta**.
 - **Correção na fundamentação jurídica** com base na Constituição Federal e na jurisprudência dos tribunais superiores.
 - **Capacidade argumentativa** e **coerência** na construção da peça.
-
-
 
 # Plágio e uso indevido de IA em atividades acadêmicas
 
@@ -148,7 +146,7 @@ A universidade valoriza a **produção autoral e o pensamento crítico**. O obje
 
  **Seja responsável pelo seu aprendizado!** Trabalhos autênticos refletem seu crescimento e garantem que você esteja verdadeiramente preparado para os desafios da carreira jurídica.  
 
-# 📬 **Dúvidas? Entre em contato!**  
+### 📬 Dúvidas? Entre em contato!  
 
 Todo contato pode ser estabelecido através e-mail [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com) ou durante os horários das aulas.
 
@@ -156,7 +154,7 @@ Todo contato pode ser estabelecido através e-mail [**luccas.gissoni@gmail.com**
 
 Possui graduação em Direito pela Universidade de São Paulo (2015), graduação em Filosofia pela Pontifícia Universidade Católica de São Paulo (2012) e mestrado em Economia Política Mundial pela Universidade Federal do ABC (2020). No momento, está no doutorado também por este mesmo programa. É pós-graduado em Processo Civil pela Fundação Getulio Vargas (2019). Atualmente é Professor de Direito na Universidade Zumbi dos Palmares, Analista de Políticas Públicas e Gestão Governamental na Secretaria Municipal de Mobilidade Urbana e Trânsito da Prefeitura de São Paulo e professor voluntário na Uneafro. Constrói o projeto "Novo Bandung: grupo de estudos sobre descolonização e emergência do Sul: África, Ásia e América Latina" na UFABC, bem como a Agrarian South Network, em Harare, Zimbábue, desenvolvendo pesquisa sobre a formação econômica e social do Brasil e da China. Foi coordenador de direito econômico e economia política da Comissão de Graduação, Pós-Graduação e Pesquisa da OAB/SP. Tem experiência nas áreas de Economia Política Mundial, Planejamento de Transportes, Filosofia e Direito, atuando principalmente nos seguintes temas: história econômica, teoria geral do direito, formação econômica e social do Brasil, história da África, desenvolvimento econômico e geopolítica na Ásia, segurança viária e planejamento cicloviário. Advogado em São Paulo.
 
-## **Perfis acadêmicos e redes sociais**
+## Perfis acadêmicos e redes sociais
 
 ![](images/lattes.png){ width=2.5% } [Lattes](http://lattes.cnpq.br/3169916414077985)  
 <i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0003-3564-6269)  
