@@ -81,7 +81,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 4
 
-**Notas de aula**  
+[**Notas de aula**](notas_4.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
 ## 10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
