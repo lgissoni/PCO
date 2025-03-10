@@ -16,7 +16,7 @@ csl: abnt.csl
 O controle de constitucionalidade pode ser classificado de acordo com
 uma série de critérios [@dimoulis_curso_2016 cap. 2]. Para nossos
 propósitos, os critérios mais importantes referem-se ao número de
-fiscais da constitucionalidade e
+fiscais da constitucionalidade e ao tipo de fiscalização.
 
 ## Quanto ao número de fiscais da constitucionalidade
 
@@ -54,14 +54,14 @@ fiscais da constitucionalidade e
 
 > A distinção entre controle difuso e concentrado encontra-se descrita
 > na obra de Carl Schmitt que, nos anos 1930, estudou a diferença entre
-> o controle judicial estadunidense e o austríaco.26 Afirma-se que em
+> o controle judicial estadunidense e o austríaco. Afirma-se que em
 > nossos dias surgiu um terceiro modelo, que pode ser denominado híbrido
 > ou misto, porque combina elementos dos anteriores. Teríamos tal
 > sistema quando o Tribunal Supremo decide de forma concentrada sobre a
 > constitucionalidade de leis, mas isso não impede que qualquer juiz
 > possa realizar o controle de maneira difusa. Os autores se referem a
-> sistema misto (difuso e concentrado),27 sendo que alguns preferem os
-> termos dual/paralelo,28 combinado.29 São indicados como exemplos o
+> sistema misto (difuso e concentrado), sendo que alguns preferem os
+> termos dual/paralelo, combinado. São indicados como exemplos o
 > Brasil, o México e Portugal (\...).\
 > Mas isso não afeta a nossa classificação sobre o número dos fiscais da
 > constitucionalidade. Quando se utiliza como critério de classificação
@@ -106,8 +106,6 @@ fiscais da constitucionalidade e
 > Constituição em tese, algo que pode se verificar ainda que a norma
 > nunca tenha sido aplicada [@dimoulis_curso_2016 p. 84].
 
-*Hoje estudaremos o controle abstrato de constitucionalidade*.
-
 # Formas de inconstitucionalidade
 
 > Dizer que algo é inconstitucional é uma afirmação genérica. Para que a
@@ -139,12 +137,27 @@ fiscais da constitucionalidade e
 > (inconstitucionalidade por desrespeito ao processo legislativo)
 > [@dimoulis_curso_2016 p. 96].
 
+<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Para saber mais: inconstitucionalidade formal por iniciativa</b></p>
+<p style='margin-left:1em;'>
+Se uma lei de iniciativa privativa do Presidente da República for proposta e aprovada pelo Congresso Nacional, sem veto presidencial, ela terá um <b>vício de inconstitucionalidade formal por iniciativa</b>. Isso ocorre porque a Constituição Federal de 1988, em seu artigo 61, §1º, estabelece que certas matérias devem ser propostas exclusivamente pelo chefe do Executivo.<br>
+
+<b>A sanção presidencial convalida o vício?</b><br>
+Não. O STF entende que a sanção presidencial não corrige a inconstitucionalidade formal, pois o vício está na origem do processo legislativo, ou seja, na iniciativa irregular da lei.<br>
+
+<b>O que ocorre em uma ADI?</b><br>
+Caso seja proposta uma Ação Direta de Inconstitucionalidade (ADI) contra a norma, o STF deverá declará-la inconstitucional e retirá-la do ordenamento jurídico. Um exemplo desse entendimento é a <b>ADI 2.867</b>,<sup style="color: rgb(185, 13, 40);">[^1]</sup> na qual o STF invalidou uma lei de iniciativa parlamentar que tratava da criação de cargos e salários na administração pública, matéria reservada ao Executivo.
+</p></span>
+</div>
+
 ### Inconstitucionalidade material
 
 > Verifica-se quando o conteúdo de certo dispositivo contraria previsões
 > de norma constitucional. Caso, por exemplo, uma lei estabeleça salário
 > de servidores com valor superior àquele previsto no art. 37, XI, da
-> Constituição Federal,[^1] temos inconstitucionalidade de natureza
+> Constituição Federal,[^2] temos inconstitucionalidade de natureza
 > material que se verifica mesmo se a norma tiver sido aprovada de
 > maneira formalmente correta [@dimoulis_curso_2016 pp. 96-97].
 
@@ -567,7 +580,10 @@ fiscais da constitucionalidade e
 > de advogado do Partido da Honestidade, redija a peça processual
 > cabível [@padilha_oab_2015].
 
-[^1]: "A remuneração e o subsídio dos ocupantes de cargos, funções e
+[^1]: Na <b>ADI 2.867</b>, o STF reafirmou que normas que envolvem a estruturação da administração pública e a criação de cargos e      salários são de iniciativa privativa do Chefe do Executivo. A Corte declarou inconstitucional uma lei estadual que aumentava        vencimentos de servidores públicos por meio de iniciativa parlamentar, reforçando o princípio da separação dos Poderes e a          necessidade de observância ao devido processo legislativo.
+
+    
+[^2]: "A remuneração e o subsídio dos ocupantes de cargos, funções e
     empregos públicos da administração direta, (...) não poderão exceder
     o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal
     Federal (...)".
