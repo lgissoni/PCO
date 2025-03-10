@@ -1,0 +1,134 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{hyperref}
+\usepackage[brazilian]{babel}
+\usepackage{tikz, amsmath}
+\usetikzlibrary{shapes.geometric, arrows}
+\usepackage[paperheight=6.5in,paperwidth=4.8in,margin=0.1in]{geometry}
+\tikzstyle{process} = [rectangle, minimum width=3em, minimum height=2em, text centered, draw=blue, fill=gray!10]
+\tikzstyle{startend} = [ellipse, minimum width=2em, minimum height=1em, text centered, draw=red, fill=gray!10]
+\usepackage[
+    backend = biber,
+    style = abnt,
+    ]{biblatex}
+\addbibresource{bibliografia.bib}
+\usepackage[shortlabels]{enumitem}
+
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\pagestyle{plain}
+
+\title{%
+ Processo constitucional \\
+  \Large Notas de aula 7 \\
+  \large Remédios constitucionais}
+\author{Luccas Gissoni}
+\date{13 de novembro 2024}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Introdução}
+
+\begin{quote}
+    Os remédios constitucionais são processos regulamentados pela Constituição que objetivam reparar judicialmente danos e/ou afastar impedimentos no exercício de direitos fundamentais causados por decisões estatais com vício jurídico \cite[p. 399]{dimoulis_curso_2016}.
+\end{quote}
+
+Há 4 critérios para ``incluir um remédio no processo constitucional no sentido amplo" \cite[p. 399]{dimoulis_curso_2016}:
+
+\begin{enumerate}
+    \item Sua regulamentação – ainda que rudimentar – pela Constituição;
+    \item O fato de o Estado ser causador da lesão;
+    \item A finalidade de tutelar direitos fundamentais;
+    \item Deve se tratar de remédio de competência judicial (excluindo os extrajudiciais).
+\end{enumerate}
+
+\begin{quote}
+    Mesmo não sendo exclusivamente dedicados ao controle de constitucionalidade, os remédios constitucionais são analisados aqui por duas razões. Do ponto de vista didático, fazem tradicionalmente parte do estudo do processo constitucional, porque se relacionam com a tutela dos direitos fundamentais. Já do ponto de vista teórico, fazem parte do processo constitucional no sentido amplo, porque fiscalizam a regularidade normativa de atos estatais tutelando direitos constitucionais.\\
+    Do ponto de vista processual, apesar de serem comuns as denominações “remédios”, “recursos”, “garantias” ou “\textit{writs}” (adotando o termo inglês), trata-se de ações. Suas características são estudadas em seguida.\\
+    Do ponto de vista constitucional, essas ações objetivam garantir direitos fundamentais de determinados titulares. Por essa razão, ainda que a ação tenha caráter coletivo, configura “garantia individual”, protegida como cláusula pétrea pelo art. 60, § 4o, IV, da Constituição Federal\footnote{Art. 60 (...)\\
+    § 4º Não será objeto de deliberação a proposta de emenda tendente a abolir:\\
+    I - a forma federativa de Estado;\\
+    II - o voto direto, secreto, universal e periódico;\\
+    III - a separação dos Poderes;\\
+    IV - os direitos e garantias individuais...} \cite[p. 399]{dimoulis_curso_2016}.
+\end{quote}
+
+\section{\textit{Habeas corpus}}
+
+\subsection{Normas vigentes}
+
+\subsubsection{Constituição Federal}
+
+\begin{quote}
+    Art. 5o, LXVIII – Conceder-se-á ‘habeas-corpus’ sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.
+\end{quote}
+
+\subsubsection{Código de Processo Penal}
+
+\begin{quote}
+    Art. 647. Dar-se-á habeas corpus sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar.\\
+    Art. 648. A coação considerar-se-á ilegal:\\
+    I – quando não houver justa causa;\\
+    II – quando alguém estiver preso por mais tempo do que determina a lei;\\
+    III – quando quem ordenar a coação não tiver competência para fazê-lo;\\
+    IV – quando houver cessado o motivo que autorizou a coação;\\
+    V – quando não for alguém admitido a prestar fiança, nos casos em que a lei a autoriza;\\
+    VI – quando o processo for manifestamente nulo;\\
+    VII – quando extinta a punibilidade.\\
+    Art. 653. Ordenada a soltura do paciente em virtude de habeas corpus, será condenada nas custas a autoridade que, por má-fé ou evidente abuso de poder, tiver determinado a coação.\\
+    Art. 654. O habeas corpus poderá ser impetrado por qualquer pessoa, em seu favor ou de outrem, bem como pelo Ministério Público.\\
+    § 1o A petição de habeas corpus conterá:\\
+    a) o nome da pessoa que sofre ou está ameaçada de sofrer violência ou coação e o de quem exercer a violência, coação ou ameaça;\\
+    b) a declaração da espécie de constrangimento ou, em caso de simples ameaça de coação, as razões em que funda o seu temor;\\
+    c) a assinatura do impetrante, ou de alguém a seu rogo, quando não souber ou não puder escrever, e a designação das respectivas residências.\\
+    § 2o Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.\\
+    Art. 658. O detentor declarará à ordem de quem o paciente estiver preso.\\
+    Art. 659. Se o juiz ou o tribunal verificar que já cessou a violência ou coação ilegal, julgará prejudicado o pedido.\\
+    Art. 660. Efetuadas as diligências, e interrogado o paciente, o juiz decidirá, fundamentadamente, dentro de 24 (vinte e quatro) horas.\\
+    § 1o Se a decisão for favorável ao paciente, será logo posto em liberdade, salvo se por outro motivo dever ser mantido na prisão.\\
+    § 2o Se os documentos que instruírem a petição evidenciarem a ilegalidade da coação, o juiz ou o tribunal ordenará que cesse imediatamente o constrangimento.\\
+    § 3o Se a ilegalidade decorrer do fato de não ter sido o paciente admitido a prestar fiança, o juiz arbitrará o valor desta, que poderá ser prestada perante ele, remetendo, neste caso, à autoridade os respectivos autos, para serem anexados aos do inquérito policial ou aos do processo judicial.\\
+    § 4o Se a ordem de habeas corpus for concedida para evitar ameaça de violência ou coação ilegal, dar-se-á ao paciente salvo-conduto assinado pelo juiz.\\
+    § 5o Será incontinenti enviada cópia da decisão à autoridade que tiver ordenado a prisão ou tiver o paciente à sua disposição, a fim de juntar-se aos autos do processo.\\
+    § 6o Quando o paciente estiver preso em lugar que não seja o da sede do juízo ou do tribunal que conceder a ordem, o alvará de soltura será expedido pelo telégrafo, se houver, observadas as formalidades estabelecidas no art. 289, parágrafo único, in fine, ou por via postal.\\
+    Art. 661. Em caso de competência originária do Tribunal de Apelação, a petição de habeas corpus será apresentada ao secretário, que a enviará imediatamente ao presidente do tribunal, ou da câmara criminal, ou da turma, que estiver reunida, ou primeiro tiver de reunir-se.\\
+    Art. 664. Recebidas as informações, ou dispensadas, o habeas corpus será julgado na primeira sessão, podendo, entretanto, adiar-se o julgamento para a sessão seguinte.\\
+    Parágrafo único. A decisão será tomada por maioria de votos. Havendo empate, se o presidente não tiver tomado parte na votação, proferirá voto de desempate; no caso contrário, prevalecerá a decisão mais favorável ao paciente.
+\end{quote}
+
+\subsection{Objetivos e características}
+
+\begin{quote}
+    O habeas corpus é ação constitucional que objetiva preservar a liberdade do indivíduo, como indica o significado do termo em latim: “você possui o seu corpo”. De origem inglesa, é adotado em muitos países. Garantido na Constituição brasileira de 1891, encontra-se, desde então, previsto em todas as Constituições federais.\\
+    O direito fundamental tutelado pelo habeas corpus é a liberdade de locomoção. Mas sabendo que a livre locomoção é pressuposto para o exercício de outros direitos fundamentais (não se pode exercer a liberdade profissional, nem participar de uma passeata nem preservar a privacidade sendo preso), o habeas corpus garante indiretamente todos esses direitos fundamentais.\\
+    A privação de liberdade de ir e vir ocorre na maioria dos casos em âmbito penal. Por essa razão, o habeas corpus é regulamentado no Código de Processo Penal (arts. 648-664), assim como no Código de Processo Penal militar (arts. 466 a 480). Mas isso não impede sua utilização em qualquer situação de ameaça ou lesão da liberdade de ir e vir oriunda de autoridade estatal.\\
+    O habeas corpus constitui ação de resistência do indivíduo contra restrição injustificada da livre locomoção. Sua característica processual é a carga de eficácia mandamental. A decisão que defere habeas corpus constitui uma ordem, ao contrário da maioria das sentenças. Quem a descumprir comete o crime de desobediência, punido com pena privativa de liberdade nos termos do art. 330 do Código Penal \cite[p. 401]{dimoulis_curso_2016}.
+\end{quote}
+
+\subsection{Legitimação}
+
+\subsubsection{Legitimação ativa}
+
+\begin{quote}
+    Quem apresenta o pedido de habeas corpus é denominado impetrante. Pode interpor o writ qualquer pessoa, física ou jurídica, sem necessidade de comprovar vínculo com o interessado ou com a causa, sendo também possível a impetração pelo Ministério Público ou a concessão de habeas corpus de ofício pelo juiz (art. 654 do Código de Processo Penal). Temos aqui um caso de legitimidade ativa universal, o que é inusitado no direito brasileiro. O habeas corpus é também uma das exceções à obrigatoriedade de apresentação de pedidos perante o judiciário por meio de advogado.\\
+    O interessado direto é denominado “paciente”. Caso a impetração tenha sido feita por terceiro, o paciente pode se manifestar sobre o writ, sendo considerado prejudicado habeas corpus com o qual ele não concorde.\\
+    O art. 647 do Código de Processo Penal permite que se beneficie de habeas corpus qualquer pessoa, ampliando a proteção constitucional da liberdade de ir e vir que só diz respeito aos brasileiros e aos estrangeiros residentes no Brasil. Como vimos, uma pessoa jurídica pode impetrar habeas corpus em razão da legitimidade ativa universal. Mas, dado o conteúdo (área de proteção) do direito de ir e vir, a pessoa jurídica não pode exercê-lo, logo não pode ser paciente.\\
+    Há decisões conhecendo habeas corpus impetrado em favor do nascituro para impedir a realização de aborto judicialmente autorizado. Temos aqui uma interpretação extensiva que entra em choque com a formulação constitucional. O feto não pode exercer direitos fundamentais e seguramente não tem a possibilidade de se locomover livremente, não sendo o habeas corpus o writ indicado para tutelar eventual interesse de impedir o aborto.\\
+    Houve também impetração de habeas corpus em prol de animais, em particular de primatas que vivem em situação de confinamento. Seguindo jurisprudência constante6 e recentemente confirmada pelo STJ, isso é impossível, já que os direitos fundamentais só pertencem a seres humanos.\\
+    Ressalta-se que para interposição de habeas corpus não há prazo. Enquanto perdurar a restrição ou ameaça de restrição da liberdade de locomoção, é possível impetrar o writ, perdendo objeto após o fim da situação de constrangimento ilegal \cite[pp. 402-403]{dimoulis_curso_2016}.
+\end{quote}
+
+\subsubsection{Legitimação passiva}
+
+\begin{quote}
+    Legitimado passivo no habeas corpus é a autoridade que causou a privação da liberdade de locomoção (autoridade coatora). Tendo ocorrido, por exemplo, prisão por ordem judicial, o habeas corpus será impetrado contra o juiz da comarca e não contra os agentes que efetuaram a prisão ou que guardam o preso. Alguns doutrinadores consideram que pode ser apontado como coator particular que afeta a liberdade de ir e vir de outra pessoa. Há também decisões que concedem habeas corpus contra particulares, por exemplo, quando um idoso é mantido em asilo ou hospital contra a sua vontade, quando alguém é impedido de entrar em estabelecimento comercial de acesso público ou mesmo quando uma criança é impedida de permanecer com um dos pais em razão de decisão judicial que atribui a guarda ao outro.\\
+    Essa opção não nos parece correta. A privação de liberdade por um particular é, via de regra, um ato ilegal. Caberia habeas corpus somente nos casos em que o particular atua como autoridade pública, por exemplo, quando prende alguém em flagrante delito (art. 301 do Código de Processo Penal). Nos demais casos de privação de liberdade por particular, é suficiente informar a polícia da ocorrência do crime de sequestro ou de cárcere privado para resolver o problema. Por fim, em casos de guarda de filhos ou de acesso a propriedade privada, a vedação não configura coação ilegal, já que o particular não possui tal poder, devendo os eventuais direitos lesados ser discutidos em sede processual própria (processo de guarda, ação de danos morais) \cite[p. 403]{dimoulis_curso_2016}.
+\end{quote}
+
+\section{Competência}
+
+\printbibliography
+
+\end{document}

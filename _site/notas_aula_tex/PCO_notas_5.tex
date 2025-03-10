@@ -1,0 +1,116 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{hyperref}
+\usepackage[brazilian]{babel}
+\usepackage{tikz, amsmath}
+\usetikzlibrary{shapes.geometric, arrows}
+\usepackage[paperheight=6.5in,paperwidth=4.8in,margin=0.1in]{geometry}
+\tikzstyle{process} = [rectangle, minimum width=3em, minimum height=2em, text centered, draw=blue, fill=gray!10]
+\tikzstyle{startend} = [ellipse, minimum width=2em, minimum height=1em, text centered, draw=red, fill=gray!10]
+\usepackage[
+    backend = biber,
+    style = abnt,
+    ]{biblatex}
+\addbibresource{bibliografia.bib}
+\usepackage[shortlabels]{enumitem}
+
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\pagestyle{plain}
+
+\title{%
+ Processo constitucional \\
+  \Large Notas de aula 5 \\
+  \large A supremacia da constituição}
+\author{Luccas Gissoni}
+\date{9 de outubro 2024}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Definição}
+
+O século XIX foi marcado pelo triumfo do \textit{constitucionalismo} - a proposta e reivindicação \textit{política} de limitar o poder monárquico e do Estado através da criação de uma constituição que:
+
+\begin{enumerate}
+    \item Não possa ser modificada pelo legislador ordinário;
+    \item Garanta os direitos fundamentais de cidadania;
+    \item Garanta a democracia representativa.
+\end{enumerate}
+
+O constituicionalismo foi a expressão político-jurídica do movimento revolucionário mais amplo dirigido pela burguesia contra a nobreza e o antigo regime. Por isso, a maioria dos constitucionalista considerava mais importantes os ``direitos de liberdade", que limitavam o arbítrio real sobre os cidadão e, principalmente, sobre a propriedade privada.
+
+\subsection{Conteúdo}
+
+``Do ponto de vista do conteúdo, a  constituição estabelece as bases da organização política do Estado de forma clara e taxativa. Expressa um projeto político elaborado e imposto pelos detentores do poder" \cite[p.~19]{dimoulis_curso_2016}. Esse conteúdo político varia de acordo com o país e o momento histórico, mas na maioria dos casos objetica garantir o modo de produção capitalista e o regime político da democracia representativa, em sua versão liberal, com a delimitação da competência dos poderes estatais.
+
+\subsection{Forma}
+
+\begin{quote}
+    Do ponto de vista formal, a Constituição possui força jurídica superior àquela das demais normas do ordenamento jurídico. Isso significa que sua reforma não pode ser feita com base no processo legislativo normal. Deve satisfazer exigências especiais, tais como uma maioria qualificada de votos do Poder Legislativo, a concordância de várias autoridades estatais ou do corpo eleitoral mediante plebiscito. Isso cria a característica da \textit{rigidez constitucional}.\\
+    Muitas Constituições acrescentam a proibição de modificar as normas que consideram basilares. São normas “intocáveis” ou “eternas”, conhecidas no Brasil como “cláusulas pétreas”. A rigidez constitucional, eventualmente reforçada pela imutabilidade de certos dispositivos fundamentais, garante que o legislador ordinário será submetido à Constituição \cite[p.~19]{dimoulis_curso_2016}.
+\end{quote}
+
+\subsection{Razão}
+
+Cabe a pergunta: porque criar constituiçãos rígadas ou imutáveis? Não basta o legislador, democraticamente eleito, edite as leis no momento em que considerá-las necessárias?
+
+``A resposta é que os constituintes desconfiam dos poderes da maioria, desconfiam da democracia e por isso impõem limitações ao poder de decisão do legislador" \cite[p.~22]{dimoulis_curso_2016}. Desta forma, o constituinte regulamenta restritivamente as condições e formas do exercício da democracia, através, por exemplo, da:
+
+\begin{itemize}
+    \item Fixação de regras de votação para a eleição de representantes e para a elaboraçãod e leis;
+    \item Limitação do Legislativo pela atuação dos demais poderes;
+    \item Proclamação de direitos individuais que podem ser exercidos independentemente das decisões da maioria.
+\end{itemize}
+
+\section{Quem deve garantir a supremacia da constituição?}
+
+Tudo isso faz lembrar que a constituição se encontra em uma zona de conflito político. Os conflitos de interesse são múltiplos e constantes. Os conflitos demandam uma resolução. Dada a supremacia da constituição, esta resolução tem de se dar de acordo com suas próprias previsões e delimitações, não podendo simpesmente decorrer da vontade do mais poderos. Assim, surge a pergunta: quem deve garantir a supremacia constitucional?
+
+\subsection{O Poder Legislativo}
+
+As autoridades legislativas aplicam a constituição em dois sentidos:
+
+\begin{enumerate}
+    \item Porque sua atuação, os limites do poder de legislar e, como vimos, a configuração do processo legislativo são regulamentados pela constituição;
+    \item Porque, no âambito do \textit{constitucionalismo programático}, é tarefa do legislador concretizar os programas constitucionais, traçando os caminhos jurídicos para sua implementação. Concretizar significa aqui cumprir e fazer cumprir a Constituição.
+\end{enumerate}
+
+Além disso, as constituições constumam regular a possibilidade de se aplicarem sanções contras membros do Legislativos que a violem.
+
+Sendo o legislador o ``primeiro e mais natural guardião da supremacia constitucional" \cite[p.~23]{dimoulis_curso_2016}, pergunta-se se ele deve ser o único.
+
+\begin{quote}
+    A exclusividade enfrenta uma objeção. Se o legislador for o único a determinar o que vale como constitucional, há forte risco de abuso. Afinal de contas, a vontade dele seria transformada em vontade constitucional. Ele seria “juiz em causa própria”, oferecendo uma garantia moral e não jurídica (já que juridicamente o Parlamento não pode anular suas próprias leis). Certamente, o controle da opinião pública e a resistência de forças políticas da oposição amenizam o risco da arbitrariedade. Mesmo assim, a pluralidade dos fiscais da constitucionalidade é mais indicada e corresponde ao imperativo democrático \cite[p.~24]{dimoulis_curso_2016}.
+\end{quote}
+
+\subsection{O Poder Executivo}
+
+\begin{quote}
+    Aplicando a ideia básica da separação dos poderes que consiste na criação de freios e contrapesos, os demais poderes são os mais indicados fiscais da produção normativa do Legislativo. A principal autoridade para sua realização seria o chefe do Executivo, que exerce também o papel de chefe de Estado, sendo evidente seu dever e capacidade de fazer respeitar o texto normativo supremo. Há defensores da tese de que o chefe do Estado seja o exclusivo ou pelo menos primordial guardião da Constituição. Essa tese é rejeitada, atualmente, como autoritária. Mas não se nega a importância do papel fiscalizador do chefe do Executivo.\\
+    Atualmente, há Constituições que estabelecem como dever do chefe de Estado preservar a Constituição. Nos Estados constitucionais modernos, a principal competência de guarda da Constituição pelo chefe do Executivo se encontra na possibilidade de opor veto a leis que considera inconstitucionais, havendo dúvidas sobre sua competência de deixar de aplicar normas inconstitucionais \cite[pp.~24-25]{dimoulis_curso_2016}.
+\end{quote}
+
+\subsection{O Poder Judiciário}
+
+A atuação do Poder Judiciário na guarda da constiuição tem historicamente sido baseada em dois sistemas distintos, que se sucederam no tempo, mas que são também coetâneos, e simultaneamente conflitantes e complementares.
+
+\subsubsection{Controle difuso de constitucionalidade} No início do constitucionalismo, o Poder Judiciário assumiu ``um papel particularmente ativo na defesa da supremacia constitucional, fiscalizando e contrariando decisões dos demais poderes" \cite[p.~25]{dimoulis_curso_2016}. O caso paradigmático de controle judicial de constitucionalidade deu-se nos Estados Unidos em 1803 no caso \textit{Marbury vs. Madison}, na Suprema Corte. O sistema daí originado vem sendo adotado por diversos países, entre os quais o Brasil.
+
+\begin{quote}
+    O papel mais importante entre todos os possíveis guardiões da Constituição (Poderes Executivo, Legislativo ou Judiciário) é o desempenhado pelo Judiciário com base em uma razão específica: cabe aos julgadores decidir definitivamente sobre controvérsias em relação à interpretação e aplicação do direito. Essa é a sua função, devendo decidir sobre controvérsias relacionadas à manutenção da hierarquia normativa e resolvendo dúvidas sobre a constitucionalidade de normas.\\
+    Por outro lado, confiar essa competência ao Judiciário gera um novo problema. O que deve ocorrer, se vários juízes de várias comarcas, instâncias e ramos do Judiciário tiverem opiniões divergentes sobre a constitucionalidade de uma lei? Tão importante quanto afastar normas inconstitucionais é evitar decisões discrepantes que podem levar “a grande incerteza e confusão”  \cite[p.~25]{dimoulis_curso_2016}.
+\end{quote}
+
+\subsubsection{Controle concentrado de constitucionalidade}
+
+Confiando-se ainda ao Poder Judiciário o papel preponderante no controle de constitucionalidade, optou-se por concentrar essa competência em uma única autoridade, afim de se evitar as decisões divergentes originadas do controle difuso. Essa novidade instiucional surgiu no direito austríaco, onde teve papel importante o famoso jurista Hans Kelsen.
+
+\begin{quote}
+    O modelo foi reconhecido como mais adequado e eficiente, motivo pelo qual se expandiu, tendo sido criadas Cortes Constitucionais em vários países, para atuarem como principal “curador” da Constituição \cite[p.~25]{dimoulis_curso_2016}.
+\end{quote}
+
+\printbibliography
+
+\end{document}

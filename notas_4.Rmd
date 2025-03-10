@@ -1,0 +1,573 @@
+---
+title: "Notas de Aula 4"
+description: "Controle abstrato de constitucionalidade"
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Introdução: modelos de controle de constitucionalidade
+
+O controle de constitucionalidade pode ser classificado de acordo com
+uma série de critérios [@dimoulis_curso_2016 cap. 2]. Para nossos
+propósitos, os critérios mais importantes referem-se ao número de
+fiscais da constitucionalidade e
+
+## Quanto ao número de fiscais da constitucionalidade
+
+### Sistema difuso (universal)
+
+> Trata-se do também chamado modelo "americano", por ser os Estados
+> Unidos o primeiro país a adotá-lo. A fiscalização constitucional é
+> realizada por todos os órgãos judiciais do ordenamento, sendo mais
+> preciso denominá-lo universal.\
+> Cada órgão do Judiciário realiza o controle no âmbito de suas
+> competências (\...). Mas o importante é que não se proíbe que certo
+> órgão judicial fiscalize a constitucionalidade. É o sistema adotado
+> nos Estados Unidos, no Brasil, na Argentina, na Grécia e no Japão
+> [@dimoulis_curso_2016 p. 78].
+
+### Sistema concentrado
+
+> Nesse caso, uma Corte Constitucional (ou Suprema Corte) decide sobre
+> alegações de inconstitucionalidade, concentrando a competência. A
+> Áustria, a Itália e a Alemanha são exemplos de controle concentrado.\
+> Mas nesses países a Corte Constitucional frequentemente decide após
+> pedido de um tribunal que questiona a constitucionalidade de
+> determinada lei. Se o Tribunal não apresentar o questionamento sobre a
+> constitucionalidade, não haverá decisão da Corte. Dessa forma, os
+> Tribunais acabam tendo uma importante, mas limitada, competência de
+> controle de constitucionalidade. Não podem declarar a norma
+> inconstitucional, mas podem suscitar a inconstitucionalidade
+> provocando decisão da Corte Constitucional e, em alguns casos, também
+> fazer interpretação conforme a Constituição para "salvar" a lei. Isso
+> demonstra que a Corte Constitucional não é a única a decidir sobre o
+> tema e faz a doutrina denominar esse sistema de "semiconcentrado"
+> [@dimoulis_curso_2016 p. 79].
+
+### Sistemas mistos?
+
+> A distinção entre controle difuso e concentrado encontra-se descrita
+> na obra de Carl Schmitt que, nos anos 1930, estudou a diferença entre
+> o controle judicial estadunidense e o austríaco.26 Afirma-se que em
+> nossos dias surgiu um terceiro modelo, que pode ser denominado híbrido
+> ou misto, porque combina elementos dos anteriores. Teríamos tal
+> sistema quando o Tribunal Supremo decide de forma concentrada sobre a
+> constitucionalidade de leis, mas isso não impede que qualquer juiz
+> possa realizar o controle de maneira difusa. Os autores se referem a
+> sistema misto (difuso e concentrado),27 sendo que alguns preferem os
+> termos dual/paralelo,28 combinado.29 São indicados como exemplos o
+> Brasil, o México e Portugal (\...).\
+> Mas isso não afeta a nossa classificação sobre o número dos fiscais da
+> constitucionalidade. Quando se utiliza como critério de classificação
+> o número de órgãos encarregados do controle, o sistema é difuso
+> (universal) quando todos os órgãos do Judiciário realizam controle de
+> constitucionalidade. Nesse sistema difuso, pode atuar uma Corte
+> suprema com competências reforçadas e com capacidade para impor sua
+> interpretação constitucional aos demais tribunais mediante decisões
+> vinculantes. Mas isso diz respeito ao tipo de fiscalização (abstrato
+> ou concreto) que será analisado em seguida. Do ponto de vista do
+> número de fiscais, o sistema será difuso ou concentrado
+> [@dimoulis_curso_2016 pp. 79-81].
+
+## Quanto ao tipo de fiscalização
+
+### Concreto
+
+> Nessa hipótese se decide sobre um caso concreto que demanda a
+> aplicação de determinada norma infraconstitucional, verificando sua
+> compatibilidade com preceitos constitucionais. Neste caso, o juiz
+> soluciona apenas o litígio posto à sua apreciação. No controle
+> concreto não há instauração de processo específico. A questão surge no
+> decorrer de qualquer processo como forma de defesa processual dos
+> interessados em determinada solução ou em razão da dúvida do julgador
+> sobre a interpretação do direito.\
+> Quando, por exemplo, o devedor que deu em garantia seu único imóvel
+> questiona a constitucionalidade da lei que possibilita a penhora, só
+> pretende que a sua casa não seja penhorada. O pedido de declaração de
+> inconstitucionalidade surge no decorrer do processo como um dos
+> argumentos do interessado [@dimoulis_curso_2016 p. 84].
+
+### Abstrato
+
+> O controle promovido por ações diretas de (in)constitucionalidade tem
+> como finalidade verificar a constitucionalidade de dispositivos em
+> processo específico. É estruturado de acordo com as regras do
+> denominado processo objetivo (Capítulo IV). Esse processo não se
+> vincula juridicamente a interesses particulares a favor ou contra a
+> inconstitucionalidade, nem a um caso concreto de litígio. A norma
+> impugnada é analisada abstratamente, em sua relação de compatibilidade
+> com a Constituição. A pergunta é se a norma está de acordo com a
+> Constituição em tese, algo que pode se verificar ainda que a norma
+> nunca tenha sido aplicada [@dimoulis_curso_2016 p. 84].
+
+*Hoje estudaremos o controle abstrato de constitucionalidade*.
+
+# Formas de inconstitucionalidade
+
+> Dizer que algo é inconstitucional é uma afirmação genérica. Para que a
+> inconstitucionalidade possa ser processualmente verificada
+> necessitamos diferenciar entre as suas formas, analisando se ocorre
+> inconstitucionalidade de determinado tipo. Dois são os principais
+> critérios para tanto. Primeiro, a natureza da norma constitucional
+> violada. Segundo, o momento de ocorrência da inconstitucionalidade
+> [@dimoulis_curso_2016 p. 96].
+
+## Natureza da norma violada
+
+### Inconstitucionalidade formal
+
+> Verifica-se quando na produção de certo dispositivo não são observados
+> os requisitos de sua criação regular, em particular as normas
+> constitucionais que definem regras de competência e o procedimento a
+> ser observado para sua elaboração (no caso das leis federais:
+> iniciativa, deliberação, votação, sanção ou veto, promulgação e
+> publicação).\
+> Se, por exemplo, o Congresso propuser a edição de uma norma que for de
+> iniciativa do Presidente da República, essa norma sofrerá do vício de
+> inconstitucionalidade formal, ainda que seu conteúdo esteja em
+> consonância com a Constituição e conte até com a concordância do
+> próprio Presidente da República.\
+> Podemos distinguir entre inconstitucionalidade formal em razão de
+> problemas no sujeito que decide (inconstitucionalidade por
+> incompetência) ou em razão de defeitos no procedimento
+> (inconstitucionalidade por desrespeito ao processo legislativo)
+> [@dimoulis_curso_2016 p. 96].
+
+### Inconstitucionalidade material
+
+> Verifica-se quando o conteúdo de certo dispositivo contraria previsões
+> de norma constitucional. Caso, por exemplo, uma lei estabeleça salário
+> de servidores com valor superior àquele previsto no art. 37, XI, da
+> Constituição Federal,[^1] temos inconstitucionalidade de natureza
+> material que se verifica mesmo se a norma tiver sido aprovada de
+> maneira formalmente correta [@dimoulis_curso_2016 pp. 96-97].
+
+## Momento de ocorrência da inconstitucionalidade
+
+### Inconstitucionalidade originária
+
+> A inconstitucionalidade originária se verifica desde a entrada em
+> vigor do dispositivo inconstitucional. É o caso mais simples e comum.
+> Tendo, por exemplo, um dispositivo da Constituição de 1988 que dispõe
+> que só brasileiros natos podem ser nomeados em certos cargos (art. 12,
+> § 3o, da CF), eventual lei editada em 1989 que permite a nomeação de
+> brasileiros naturalizados para esses cargos sofre de
+> inconstitucionalidade desde a sua criação [@dimoulis_curso_2016 p.
+> 97].
+
+### Inconstitucionalidade superveniente
+
+> A inconstitucionalidade pode afetar o dispositivo em momento posterior
+> à sua criação. Isso significa que o dispositivo que estava em
+> consonância com a Constituição no momento de sua criação passa a ter a
+> pecha de inconstitucionalidade no decorrer de sua validade
+> [@dimoulis_curso_2016 p. 97].
+
+# Ações de controle abstrato de constitucionalidade em espécie
+
+> Todas as ações de controle de constitucionalidade abstrato possuem um
+> objeto muito claro e exposto na própria lei, não havendo qualquer
+> complicação na identificação das peças.\
+> Partindo do princípio de que estas ações não se preocupam com casos
+> específicos e concretos, e sim com o ordenamento jurídico, passamos a
+> distinguir:\
+> A **ação direta de inconstitucionalidade** (ADI) tem por fim declarar
+> a inconstitucionalidade de norma federal, estadual ou até mesmo
+> distrital quando no exercício de competência legislativa estadual. Não
+> é necessário que haja controvérsia judicial, porém, obrigatório que a
+> lei esteja em vigor e tenha sido publicada após a promulgação da
+> Constituição da República.\
+> A **ação declaratória de constitucionalidade** (ADC), por sua vez,
+> busca confirmar a constitucionalidade de norma federal (somente
+> federal) que esteja sendo questionada por diversas decisões judiciais
+> contraditórias. Nesse caso, tem que existir controvérsia judicial e a
+> norma posterior à Constituição há de ter natureza federal, não cabendo
+> esta ação para normas estaduais, distritais ou municipais.\
+> A **ação direta de inconstitucionalidade por omissão** (ADIO) tem por
+> objetivo cientificar o poder competente da inércia legislativa que
+> impossibilita o exercício de direitos constitucionais previstos em
+> norma constitucional de eficácia limitada. O responsável pela inércia
+> poderá ser tanto o Poder Executivo como o Poder Legislativo federal e
+> estadual ou até mesmo distrital, desde que diga respeito à competência
+> legislativa estadual.\
+> Por fim, a **arguição de descumprimento de preceito fundamental**
+> (ADPF), que possui um objeto extremamente abrangente, pois sua função
+> é servir para todas as hipóteses em que não será cabível outra ação,
+> apresentando como uma de suas características a subsidiariedade.\
+> Esta última ação será proposta com a intenção de evitar ou reparar
+> lesão a preceito fundamental (p. ex., arts. 1.º ao 17, 34, VII, 37,
+> caput, 60, § 4.º, da CR) resultante de ato do Poder Público, bem como
+> resolver controvérsia constitucional a respeito de norma federal,
+> estadual, distrital ou municipal, seja anterior ou posterior à
+> Constituição.\
+> Pode parecer, pelo conceito extremamente abrangente, que a ADPF tenha
+> objeto similar a outras ações acima transcritas, mas na verdade, por
+> sua subsidiariedade, como afirmado, ela só caberá quando não houver
+> outro meio eficaz de sanar a lesividade [@padilha_oab_2015 n. p.]
+
+## Ação direta de inconstitucionalidade (ADI ou ADIn)
+
+> Objetivo geral da ADIn é impedir que norma contrária à Constituição
+> permaneça no ordenamento jurídico, comprometendo a regularidade do
+> sistema normativo por violar a supremacia constitucional. Procura-se,
+> dessa forma, assegurar que a norma constitucional será imposta
+> inclusive em relação aos poderes estatais. A aplicação de atos
+> normativos inconstitucionais que costumam ter grande repercussão
+> social gera danos de difícil reparação, sendo recomendada sua
+> eliminação célere e definitiva.\
+> Além de preservar a supremacia constitucional, a ADIn, tal como as
+> demais ações do controle de constitucionalidade abstrato, objetiva
+> preservar a segurança jurídica, impedindo que surjam decisões
+> discrepantes sobre a constitucionalidade.\
+> Processualmente a ADIn é um meio para realizar o controle de
+> constitucionalidade de tipo judicial, abstrato e repressivo. Quando há
+> decisão de mérito, no fim do processo, se declara a
+> inconstitucionalidade de certo dispositivo, determinando sua nulidade
+> ou, quando improcedente a ação, confirma-se a obrigatoriedade do ato
+> questionado. Isso permite eliminar incertezas geradas por
+> controvérsias jurídicas acerca da constitucionalidade de normas.\
+> Esta forma de controle de constitucionalidade foi introduzida no
+> ordenamento brasileiro pela Emenda Constitucional no 16, de
+> 26-11-1965, que instituiu a Representação contra
+> inconstitucionalidade, a ser encaminhada ao STF pelo Procurador-Geral
+> da República. A Constituição de 1988 instituiu a ADIn e atribuiu a
+> competência para o seu julgamento ao STF (art. 102, I, a, da CF).\
+> Na ausência de previsões constitucionais e legais detalhadas, o
+> procedimento da ADIn foi delineado pelo STF mediante autocriação de
+> normas processuais (Capítulo IV, 5). A regulamentação legal do rito da
+> ADIn veio com a Lei 9.868, de 1999, que incorporou muitos
+> entendimentos do STF [@dimoulis_curso_2016 pp. 104-105].
+
+### Normas vigentes
+
+> Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda
+> da Constituição, cabendo-lhe:\
+> I -- processar e julgar, originariamente:\
+> a) a ação direta de inconstitucionalidade de lei ou ato normativo
+> federal ou estadual (\...). p) o pedido de medida cautelar das ações
+> diretas de inconstitucionalidade;\
+> Art. 103. Podem propor a ação direta de inconstitucionalidade
+> \[...\]:\
+> I -- o Presidente da República;\
+> II -- a Mesa do Senado Federal;\
+> III -- a Mesa da Câmara dos Deputados;\
+> IV -- a Mesa de Assembleia Legislativa ou da Câmara Legislativa do
+> Distrito Federal;\
+> V -- o Governador de Estado ou do Distrito Federal;\
+> VI -- o Procurador-Geral da República;\
+> VII -- o Conselho Federal da Ordem dos Advogados do Brasil;\
+> VIII -- partido político com representação no Congresso Nacional;\
+> IX -- confederação sindical ou entidade de classe de âmbito nacional.\
+> § 1o O Procurador-Geral da República deverá ser previamente ouvido nas
+> ações de inconstitucionalidade e em todos os processos de competência
+> do Supremo Tribunal Federal (\...).\
+> § 3o Quando o Supremo Tribunal Federal apreciar a
+> inconstitucionalidade, em tese, de norma legal ou ato normativo,
+> citará, previamente, o Advogado-Geral da União, que defenderá o ato ou
+> texto impugnado [@brasil_constituicao_1988].
+
+> Lei 9.868, de 10-11-1999
+>
+> Dispõe sobre o processo e julgamento da ação direta de
+> inconstitucionalidade e da ação declaratória de constitucionalidade
+> perante o Supremo Tribunal Federal.
+>
+> O PRESIDENTE DA REPÚBLICA
+>
+> Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte
+> Lei: CAPÍTULO I
+>
+> Da Ação Direta de Inconstitucionalidade e da Ação Declaratória de
+> Constitucionalidade
+>
+> Art. 1o Esta Lei dispõe sobre o processo e julgamento da ação direta
+> de inconstitucionalidade e da ação declaratória de constitucionalidade
+> perante o Supremo Tribunal Federal.
+>
+> CAPÍTULO II
+>
+> Da Ação Direta de Inconstitucionalidade
+>
+> Seção I
+>
+> Da Admissibilidade e do Procedimento da Ação Direta de
+> Inconstitucionalidade
+>
+> Art. 2o Podem propor a ação direta de inconstitucionalidade:
+>
+> I -- o Presidente da República;
+>
+> II -- a Mesa do Senado Federal;
+>
+> III -- a Mesa da Câmara dos Deputados;
+>
+> IV -- a Mesa de Assembleia Legislativa ou a Mesa da Câmara Legislativa
+> do Distrito Federal;
+>
+> V -- o Governador de Estado ou o Governador do Distrito Federal;
+>
+> VI -- o Procurador-Geral da República;
+>
+> VII -- o Conselho Federal da Ordem dos Advogados do Brasil;
+>
+> VIII -- partido político com representação no Congresso Nacional;
+>
+> IX -- confederação sindical ou entidade de classe de âmbito nacional.
+> Art. 3o A petição indicará:
+>
+> I -- o dispositivo da lei ou do ato normativo impugnado e os
+> fundamentos jurídicos do pedido em relação a cada uma das impugnações;
+>
+> II -- o pedido, com suas especificações.
+>
+> Parágrafo único. A petição inicial, acompanhada de instrumento de
+> procuração, quando subscrita por advogado, será apresentada em duas
+> vias, devendo conter cópias da lei ou do ato normativo impugnado e dos
+> documentos necessários para comprovar a impugnação.
+>
+> Art. 4o A petição inicial inepta, não fundamentada e a manifestamente
+> improcedente serão liminarmente indeferidas pelo relator.
+>
+> Parágrafo único. Cabe agravo da decisão que indeferir a petição
+> inicial. Art. 5o Proposta a ação direta, não se admitirá desistência.
+>
+> Art. 6o O relator pedirá informações aos órgãos ou às autoridades das
+> quais emanou a lei ou o ato normativo impugnado.
+>
+> Parágrafo único. As informações serão prestadas no prazo de trinta
+> dias contado do recebimento do pedido.
+>
+> Art. 7o Não se admitirá intervenção de terceiros no processo de ação
+> direta de inconstitucionalidade.
+>
+> § 2o O relator, considerando a relevância da matéria e a
+> representatividade dos postulantes, poderá, por despacho irrecorrível,
+> admitir, observado o prazo fixado no parágrafo anterior, a
+> manifestação de outros órgãos ou entidades.
+>
+> Art. 8o Decorrido o prazo das informações, serão ouvidos,
+> sucessivamente, o Advogado-Geral da União e o Procurador-Geral da
+> República, que deverão manifestar-se, cada qual, no prazo de quinze
+> dias.
+>
+> Art. 9o Vencidos os prazos do artigo anterior, o relator lançará o
+> relatório, com cópia a todos os Ministros, e pedirá dia para
+> julgamento.
+>
+> § 1o Em caso de necessidade de esclarecimento de matéria ou
+> circunstância de fato ou de notória insuficiência das informações
+> existentes nos autos, poderá o relator requisitar informações
+> adicionais, designar perito ou comissão de peritos para que emita
+> parecer sobre a questão, ou fixar data para, em audiência pública,
+> ouvir depoimentos de pessoas com experiência e autoridade na matéria.
+>
+> § 2o O relator poderá, ainda, solicitar informações aos Tribunais
+> Superiores, aos Tribunais federais e aos Tribunais estaduais acerca da
+> aplicação da norma impugnada no âmbito de sua jurisdição.
+>
+> § 3o As informações, perícias e audiências a que se referem os
+> parágrafos anteriores serão realizadas no prazo de trinta dias,
+> contado da solicitação do relator.
+>
+> Seção II
+>
+> Da Medida Cautelar em Ação Direta de Inconstitucionalidade
+>
+> Art. 10. Salvo no período de recesso, a medida cautelar na ação direta
+> será concedida por decisão da maioria absoluta dos membros do
+> Tribunal, observado o disposto no art. 22, após a audiência dos órgãos
+> ou autoridades dos quais emanou a lei ou ato normativo impugnado, que
+> deverão pronunciar-se no prazo de cinco dias.
+>
+> § 1o O relator, julgando indispensável, ouvirá o Advogado-Geral da
+> União e o Procurador-Geral da República, no prazo de três dias.
+>
+> § 2o No julgamento do pedido de medida cautelar, será facultada
+> sustentação oral aos representantes judiciais do requerente e das
+> autoridades ou órgãos responsáveis pela expedição do ato, na forma
+> estabelecida no Regimento do Tribunal.
+>
+> § 3o Em caso de excepcional urgência, o Tribunal poderá deferir a
+> medida cautelar sem a audiência dos órgãos ou das autoridades das
+> quais emanou a lei ou o ato normativo impugnado.
+>
+> Art. 11. Concedida a medida cautelar, o Supremo Tribunal Federal fará
+> publicar em seção especial do Diário Oficial da União e do Diário da
+> Justiça da União a parte dispositiva da decisão, no prazo de dez dias,
+> devendo solicitar as informações à autoridade da qual tiver emanado o
+> ato, observando-se, no que couber, o procedimento estabelecido na
+> Seção I deste Capítulo.
+>
+> § 1o A medida cautelar, dotada de eficácia contra todos, será
+> concedida com efeito ex nunc, salvo se o Tribunal entender que deva
+> conceder-lhe eficácia retroativa.
+>
+> § 2o A concessão da medida cautelar torna aplicável a legislação
+> anterior acaso existente, salvo expressa manifestação em sentido
+> contrário.
+>
+> Art. 12. Havendo pedido de medida cautelar, o relator, em face da
+> relevância da matéria e de seu especial significado para a ordem
+> social e a segurança jurídica, poderá, após a prestação das
+> informações, no prazo de dez dias, e a manifestação do Advogado-Geral
+> da União e do Procurador-Geral da República, sucessivamente, no prazo
+> de cinco dias, submeter o processo diretamente ao Tribunal, que terá a
+> faculdade de julgar definitivamente a ação.
+>
+> CAPÍTULO IV
+>
+> Da Decisão na Ação Direta de Inconstitucionalidade e
+>
+> na Ação Declaratória de Constitucionalidade
+>
+> Art. 22. A decisão sobre a constitucionalidade ou a
+> inconstitucionalidade da lei ou do ato normativo somente será tomada
+> se presentes na sessão pelo menos oito Ministros.
+>
+> Art. 23. Efetuado o julgamento, proclamar-se-á a constitucionalidade
+> ou a inconstitucionalidade da disposição ou da norma impugnada se num
+> ou noutro sentido se tiverem manifestado pelo menos seis Ministros,
+> quer se trate de ação direta de inconstitucionalidade ou de ação
+> declaratória de constitucionalidade.
+>
+> Parágrafo único. Se não for alcançada a maioria necessária à
+> declaração de constitucionalidade ou de inconstitucionalidade, estando
+> ausentes Ministros em número que possa influir no julgamento, este
+> será suspenso a fim de aguardar-se o comparecimento dos Ministros
+> ausentes, até que se atinja o número necessário para prolação da
+> decisão num ou noutro sentido.
+>
+> Art. 24. Proclamada a constitucionalidade, julgar-se-á improcedente a
+> ação direta ou procedente eventual ação declaratória; e, proclamada a
+> inconstitucionalidade, julgar-se-á procedente a ação direta ou
+> improcedente eventual ação declaratória.
+>
+> Art. 25. Julgada a ação, far-se-á a comunicação à autoridade ou ao
+> órgão responsável pela expedição do ato [@brasil_lei9868_1999].
+
+### Modelo de petição inicial
+
+> EXCELENTÍSSIMO SENHOR DOUTOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL
+> FEDERAL\
+> (Pessoa relacionada no art. 103 da CRFB/1988 e art. 2.º da Lei
+> 9.868/1999) vem, por meio de seu advogado que esta subscreve, com
+> instrumento de mandato anexo e endereço constante no rodapé da
+> presente, para onde devem ser remetidas as intimações, nos moldes do
+> art. 39, I, do CPC, respeitosamente, perante Vossa Excelência, nos
+> termos do art. 103, inciso (x), art. 102, I, a e p, ambos da
+> CRFB/1988, arts. 2.º, inciso (x) e 10 da Lei 9.868/1999 e arts. 282 e
+> ss. do CPC, propor a presente\
+> ***NOTA**: Quase todos possuem capacidade postulatória plena, não
+> precisando de advogado (só se vale de advogado se quiser). Os únicos
+> do art. 103 da CRFB de quem se exige representação por advogado são os
+> incs. VIII e IX da CRFB, ou seja, partido político com representação
+> no Congresso Nacional, confederação sindical e entidade de classe de
+> âmbito nacional.*\
+>
+> ::: center
+> AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+> :::
+>
+> tendo por objeto a declaração de inconstitucionalidade da Lei (x),
+> pelos fatos e fundamentos jurídicos que passa a expor:\
+> ***NOTA**: Apesar de a ADI ser uma ação objetiva, onde não há partes,
+> o STF também admite ADI que indique o legitimado passivo. Nestes
+> moldes, deve constar: "em face de (x) (órgão ou autoridade que editou
+> o ato que se pretende impugnar e endereço -- se possível), pelos fatos
+> e fundamentos jurídicos que passa a expor:"*\
+> I -- DA PERTINÊNCIA TEMÁTICA\
+> ***NOTA**: Neste tópico deve-se demonstrar a legitimidade do
+> impetrante (que deve ser um dos elencados nos art. 103 da CRFB/1988).
+> Lembre-se de que de alguns entes se exige **pertinência** temática
+> (chamados autores interessados ou especiais). **Então esse é o momento
+> de demonstrar a relação que possui com a norma que se pretende
+> impugnar**.\
+> A prova da pertinência é exigida quando a ADI é proposta pelo
+> Governador do Estado ou do Distrito Federal, Mesa da Assembleia
+> Legislativa ou da Câmara Legislativa do Distrito Federal,
+> confederações sindicais ou entidades de âmbito nacional.\
+> Os demais legitimados são chamados de autores neutros ou universais,
+> pois não se exige a demonstração de pertinência.*\
+> II -- DOS FATOS\
+> ***NOTA**: A comprovação da matéria de fato só deve ser arguida quando
+> o problema demonstrar inconstitucionalidade formal, quando houver
+> vício na iniciativa ou no procedimento, tendo de ser relatado o fato.\
+> Porém, se a inconstitucionalidade for material não se justifica
+> discorrer sobre os fatos, uma vez que a questão é unicamente de
+> direito.\
+> **ATENÇÃO**: Quando for necessário relatar fatos, devem ser descritas
+> somente as questões trazidas na questão da prova, sendo proibido
+> inventar situações não descritas, sob pena de identificação de peça.*\
+> III -- DA INCONSTITUCIONALIDADE\
+> ***NOTA**: Ao fundamentar a inconstitucionalidade, deve-se atentar a:*
+>
+> -   *Constituição da República;*
+>
+> -   *Princípios;*
+>
+> -   *Súmula;*
+>
+> -   *Doutrina;*
+>
+> -   *Jurisprudência.*\
+>
+> \
+> IV -- DA MEDIDA LIMINAR\
+> ***NOTA**: Esta medida está prevista no art. 10 da Lei 9.868/1999 e
+> deverá abordar:*
+>
+> -   *O perigo na demora da prestação jurisdicional (periculum in
+>     mora), em razão do possível dano irreparável causado caso a
+>     liminar não seja deferida.*
+>
+> -   *Verossimilhança da alegação (fumus boni iuris).*
+>
+> \
+> V -- DO PEDIDO\
+> Ante o exposto, requer:\
+> a) a concessão de medida liminar, para suspender a eficácia do
+> dispositivo questionado na forma do art. 10 da Lei 9.868/1999;
+>
+> b\) a notificação do ente responsável pela elaboração da norma para,
+> querendo, se manifestar no prazo legal (ou no prazo de 30 dias);
+>
+> c\) a notificação do Advogado-Geral da União, para se manifestar sobre
+> o mérito da presente ação, no prazo legal (ou no prazo de 15 dias);
+>
+> d)a notificação do Procurador-Geral da República, para emitir seu
+> parecer no prazo legal (ou no prazo de 15 dias);
+>
+> e)a procedência do pedido de mérito para que seja declarada a
+> inconstitucionalidade do art. (x) da Lei (x) (citar o dispositivo).\
+> ***NOTA**: Quando a alegação for sobre inconstitucionalidade formal,
+> deve existir o requerimento de provas da seguinte forma:*\
+> *"Pretende produzir todos os meios de prova em direito admitidos, em
+> especial documental e oral."*\
+> Atribui a causa o valor de RS (valor por extenso).\
+> Nesses termos,\
+> Espera deferimento.\
+> Local e data.
+>
+> Advogado/OAB\
+> [@padilha_oab_2015 n. p.]
+
+### Exercício de fixação
+
+> Partido Honestidade, Partido Político que possui um Deputado Federal
+> na Câmara dos Deputados, procura você, advogado, buscando solução
+> quanto a Lei Nacional 8.000/1989, que, por iniciativa do Deputado
+> Federal Astolfo Rocha, membro do partido político Esquerda Nunca Mais,
+> organizou internamente o Ministério Público dos Estados. Na qualidade
+> de advogado do Partido da Honestidade, redija a peça processual
+> cabível [@padilha_oab_2015].
+
+[^1]: "A remuneração e o subsídio dos ocupantes de cargos, funções e
+    empregos públicos da administração direta, (...) não poderão exceder
+    o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal
+    Federal (...)".
