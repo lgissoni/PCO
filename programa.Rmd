@@ -73,14 +73,18 @@ knitr::opts_chunk$set(echo = FALSE)
 ## 26/02 - PAP 1.1
           
 [**PAP 1.1:** Marbury vs. Madison e a emergência do controle de constitucionalidade](pap_11.html)  
-**Prazo:** 24/02
+**Prazo:** 05/03
+
+# Semana carnaval
+
+> 03/02 a 05/02 - recesso - carnaval
 
 # Semana 4
 
 **Notas de aula**  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## 24/02 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
+## 10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
 
   1. Modelos de controle de constitucionalidade
       a. Quanto ao npumero de fiscais da constitucionalidade
@@ -99,84 +103,74 @@ knitr::opts_chunk$set(echo = FALSE)
           i. Inconstitucionalidade superveniente
       
 
-## 26/02 - aula 4.2: ações de controle abstrato de constitucionalidade no direito brasileiro
+## 12/03 - aula 4.2: ações de controle abstrato de constitucionalidade no direito brasileiro
 
   1. Ação direta de inconstitucionalidade e efeitos
   1. Ação direta de inconstitucionalidade por omissão e efeitos
   1. Ação declaratória de constitucionalidade e efeitos
   1. Arguição de Descumprimento de Preceito Fundamental e efeitos
 
-# Semana carnaval
-
-> 03/02 a 05/02 - recesso - carnaval
-
 # Semana 5
 
-## 10/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
+## 17/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
 
-## 12/03 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
+## 19/03 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
 
 **PAP 1.2:** ADIn - oficina de peça profissional
 
 # Semana 6
 
-## 17/03 - aula 6.1: ação declaratória de constitucionalidade
+## 24/03 - aula 6.1: ação declaratória de constitucionalidade
 
-## 19/03 - aula 6.2: ação declaratória de constitucionalidade
+## 26/03 - aula 6.2: ação declaratória de constitucionalidade
 
 **PAP 1.3:** ADC - oficina de peça profissional
 
 # Semana 7
 
-## 24/03 - aula 7.1: arguição de Descumprimento de Preceito Fundamental
-
-## 26/03 - aula 7.2: arguição de Descumprimento de Preceito Fundamental
-
-**PAP 1.4:** ADPF - oficina de peça profissional
+## 31/03 - PAT-1
 
 # Semana 8
 
-> 31/03 a 04/04 - período de realização do processo de avaliação teórico 1 - PAT-1
+## 07/04 - aula 8.1: arguição de Descumprimento de Preceito Fundamental
+
+## 09/04 - aula 8.2: arguição de Descumprimento de Preceito Fundamental
+
+**PAP 1.4:** ADPF - oficina de peça profissional
 
 # Semana 9
 
-## 07/04 - aula 9.1: métodos de interpretação constitucional
+## 14/04 - aula 9.1: métodos de interpretação constitucional
 
   1. Controle de constitucionalidade incidental
 
-## 09/04 - aula 9.2
-
-# Semana 10
-
-## 14/04 - aula 10.1: reclamação constitucional e súmula vinculante
-
-## 16/04 - aula 10.2: reclamação constitucional e súmula vinculante
+## 16/04 - aula 9.2: reclamação constitucional e súmula vinculante
 
 **PAP 2.1:** RC - oficina de peça profissional
 
-# Semana 11
+# Semana 10
 
 > 21/04 - feriado - Tiradentes
 
-## 23/04 - aula 11.1: remédios constitucionais
+## 23/04 - aula 10.1: remédios constitucionais
 
-# Semana 12
+# Semana 11
 
-## 28/04 - aula 12.1: *habeas corpus*
+## 28/04 - aula 11.1: *habeas corpus*
 
-## 30/04 - aula 12.2: *habeas corpus*
+## 30/04 - aula 11.2: *habeas corpus*
 
 **PAP 2.2:** HC - oficina de peça profissional
 
-# Semana 13
+# Semana 12
 
-## 05/05 - aula 13.1: mandado de segurança
+## 05/05 - aula 12.1: mandado de segurança
 
-## 07/05 - aula 13.2: mandado de segurança
+## 07/05 - aula 12.2: mandado de segurança
 
 **PAP 2.3:** MS - oficina de peça profissional
 
-# Semana acadêmica
+# Semana 13
 
 > 12/05 a 16/05 - semana acadêmica
 
@@ -190,12 +184,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 15
 
-> 26/05 a 30/05 - período de realização do processo de avaliação teórico 2 - PAT-2
+## 26/05 - PAT-2
 
 # Semana 16
 
-> 02/06 a 06/06 - período de realização de avaliações substitutivas
+## 02/06 - SUB
 
 # Semana 17
 
-> 09/06 a 13/06 - período de realização da avaliação final - exame
+## 09/06 - EXAME
