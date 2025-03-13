@@ -81,10 +81,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 4
 
+## 10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
+
 [**Notas de aula**](notas_4.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
-
-## 10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
 
   1. Modelos de controle de constitucionalidade
       a. Quanto ao npumero de fiscais da constitucionalidade
@@ -103,12 +103,22 @@ knitr::opts_chunk$set(echo = FALSE)
           i. Inconstitucionalidade superveniente
       
 
-## 12/03 - aula 4.2: ações de controle abstrato de constitucionalidade no direito brasileiro
+## 12/03 - aula 4.2: processo constitucional
 
-  1. Ação direta de inconstitucionalidade e efeitos
-  1. Ação direta de inconstitucionalidade por omissão e efeitos
-  1. Ação declaratória de constitucionalidade e efeitos
-  1. Arguição de Descumprimento de Preceito Fundamental e efeitos
+[**Notas de aula**](notas_4_extra.html)  
+**Bibliografia:** @brasil_constituicao_1988; @mendes_curso_2024; @moraes_direito_2023 
+
+  1. Iniciativa
+      a. Iniciativa comum
+      a. Iniciativa reservada
+          i. Iniciativa reservada ao Judiciário
+          i. Iniciativa reservada ao Ministério Público
+          i. Iniciativa reservada ao Legislativo
+          i. Iniciativa reservada ao Executivo
+  1. Discussão
+  1. Votação
+  1. Sanção e veto
+  1. Promulgação e publicação
 
 # Semana 5
 
