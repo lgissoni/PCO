@@ -3,7 +3,7 @@ title: "Progama da disciplina"
 description: |
   1º semestre 2025
 output: distill::distill_article
-bibliography: bibliografia.bib
+bibliography: PCO.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -121,6 +121,9 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Promulgação e publicação
 
 # Semana 5
+
+[**Notas de aula**](notas_5.html)  
+**Bibliografia:** @barroso_pratica_2024, pp. 128-160
 
 ## 17/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
 

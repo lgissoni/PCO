@@ -3,7 +3,8 @@ title: "Processo Constitucional"
 description: |
   Bacharelado em direito - Universidade Zumbi dos Palmares
 site: distill::distill_website
-bibliography: bibliografia.bib
+bibliography: PCO.bib
+csl: abnt.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -55,6 +56,7 @@ O curso contará com **aulas expositivas**, momentos de reflexão individual e *
 ### Bibliografia básica
 
 @brasil_constituicao_1988  
+@barroso_pratica_2024  
 @dimoulis_curso_2016
 
 ### Bibliografia complementar

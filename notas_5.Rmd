@@ -1,0 +1,19 @@
+---
+title: "Notas de Aula 5"
+description: "Ação Direta de Inconstitucionalidade"
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+ADI
+
+
+
+
+
