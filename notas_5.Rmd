@@ -7,13 +7,36 @@ author:
     affiliation_url: https://zumbidospalmares.edu.br/
 date: "`r Sys.Date()`"
 output: distill::distill_article
-bibliography: bibliografia.bib
+bibliography: PCO.bib
 csl: abnt.csl
 ---
 
-ADI
+Quando falamos em Ação Direta de Inconstitucionalidade (ADI ou ADIn), há a Ação Direta de Inconstitucionalidade genérica (ADI genérica ou ADI apenas) e a Ação Direta de Inconstitucionalidade por Omissão (ADIO ou ADO).
 
+# Ação Direta de Inconstitucionalidade genérica
 
+> Regulamentada pela Lei n. 9.868/99, a ADI genérica tem como objetivo afastar do ordenamento jurídico lei ou ato normativo federal ou estadual que estejam eivados de vícios de inconstitucionalidade. Diferentemente do que se observa no controle difuso, aqui a análise se dará de forma abstrata, direta, genérica, objetiva, o que lhe garante também essas adjetivações (controle abstrato, controle direto, controle objetivo etc.)[^1].
+<br><br>
+O objeto, nessa ação, será a análise de compatibilidade da lei ou ato normativo federal ou estadual com relação ao parâmetro de controle cabível ao caso: exclusiva competência do Supremo Tribunal Federal (quando o parâmetro é o bloco de constitucionalidade) e dos Tribunais de Justiça (TJ) dos Estados (quando o parâmetro de controle for a Constituição do Estado). [@barroso_pratica_2024, p. 128].
 
+[^1]: "Não há a finalidade de que sejam analisadas questões relativas às relações entre sujeitos que discutem bens da vida (relações subjetivas), mas sim o abstrato contido no mandamento normativo" [@barroso_pratica_2024, p. 128].
 
+## Cabimento
 
+Caberá ADI genérica contra **lei ou ato normativo federal ou estadual** em face da Constituição Federal (sendo o **STF** competente para julgá-la) e contra **lei ou ato normativo estadual ou municipal** em face da Constitução Estadual (sendo o respectivo TJ competente para julgá-la)
+
+<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Atenção</b></p>
+<p style='margin-left:1em;'>
+Leis Municipais não poderão ser objeto de ADI em face da Constituição Federal, mas poderão ser objeto de ADI em face da Constituição Estadual (art. 125, § 2º, da CF), sendo o Tribunal de Justiça respectivo o competente para enfrentar a questão.
+<br><br>
+
+> Art. 125 [...]
+§ 2º Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão [@brasil_constituicao_1988]. 
+
+</p></span>
+</div><br>
+
+A possibilidade de controle é definida pela circunstância da norma estar **em vigência** (existe e é válida) e não **em vigor**, ou seja, pode estar no período de *vacatio legis*.
