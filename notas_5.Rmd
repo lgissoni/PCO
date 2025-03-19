@@ -13,7 +13,7 @@ csl: abnt.csl
 
 Quando falamos em Ação Direta de Inconstitucionalidade (ADI ou ADIn), há a Ação Direta de Inconstitucionalidade genérica (ADI genérica ou ADI apenas) e a Ação Direta de Inconstitucionalidade por Omissão (ADIO ou ADO).
 
-# Ação Direta de Inconstitucionalidade genérica
+# Ação Direta de Inconstitucionalidade: teoria
 
 > Regulamentada pela Lei n. 9.868/99, a ADI genérica tem como objetivo afastar do ordenamento jurídico lei ou ato normativo federal ou estadual que estejam eivados de vícios de inconstitucionalidade. Diferentemente do que se observa no controle difuso, aqui a análise se dará de forma abstrata, direta, genérica, objetiva, o que lhe garante também essas adjetivações (controle abstrato, controle direto, controle objetivo etc.)[^1].
 <br><br>
@@ -40,3 +40,6 @@ Leis Municipais não poderão ser objeto de ADI em face da Constituição Federa
 </div><br>
 
 A possibilidade de controle é definida pela circunstância da norma estar **em vigência** (existe e é válida) e não **em vigor**, ou seja, pode estar no período de *vacatio legis*.
+
+# Ação Direta de Inconstitucionalidade: prática
+
