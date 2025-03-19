@@ -1,0 +1,30 @@
+---
+title: "PAP 1.2"
+description: |
+  Ação Direta de Inconstitucionalidade
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+**(XXVI Exame de Ordem – 2018)** Com o objetivo de zelar pelo primado da ética, a Assembleia Legislativa do Estado Alfa aprovou e o Governador do Estado sancionou uma minirreforma política, que direcionaria as eleições seguintes para os cargos de Deputado Estadual do Estado em questão.
+
+Essa reforma foi veiculada por meio da Lei “X”. O art. 1º dispunha que não seria admitido o registro de candidatura de qualquer pessoa com antecedentes criminais; o art. 2º afastava a possibilidade de campanha eleitoral no rádio e na televisão para os partidos políticos que abrigassem, em seus quadros, pessoas com antecedentes criminais; o art. 3º dispunha sobre as distintas formas de exercício da cidadania no território do respectivo Estado.
+
+A Lei “X” do Estado Alfa foi saudada com grande entusiasmo pela população. Como o art. 4º da Lei “X” dispunha que sua entrada em vigor seria imediata, aplicando-se inclusive às eleições que seriam realizadas três meses depois, era grande a expectativa de que as mudanças fossem percebidas de imediato.
+
+Apesar desse entusiasmo, o Partido Político Sigma, que tem representantes no Congresso Nacional (Câmara dos Deputados e Senado Federal) e sofreria grandes prejuízos com a entrada em vigor da Lei “X”, por deliberação do seu Diretório Nacional, decidiu ingressar com a medida judicial adequada, utilizando, como paradigma, a Constituição da República. Esperava com esse procedimento que a constitucionalidade in abstracto desse diploma normativo fosse questionada perante o tribunal competente.
+
+Considerando a narrativa acima, na condição de advogado(a) do Partido Político Sigma, elabore a petição inicial da medida judicial cabível. (Valor: 5,00)
+
+*Obs.: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.*
+
+
+
+
+
