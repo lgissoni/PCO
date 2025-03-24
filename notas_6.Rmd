@@ -1,0 +1,116 @@
+---
+title: "Notas de Aula 6"
+description: "Ações direta de inconstitucionalidade por omissão e declaratória de constitucionalidade"
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: PCO.bib
+csl: abnt.csl
+---
+
+# Ação direta de inconstitucionalidade por omissão
+
+A **ação direta de inconstitucionalidade por omissão (ADO ou ADIo)** busca garantir a supremacia das normas constitucionais de eficácia limitada, isto é, da constituição programática. Assim, o que se busca é a efetividade dos direitos humanos de segunda e terceira gerações, os quais dependem de uma ação do Estado para se efetivar.
+
+## Introdução 
+
+> No caso da ADO, o objetivo será que o Tribunal declare a inconstitucionalidade em razão do “não agir”, do verdadeiro estado letárgico do Poder Público, especificamente por parte de autoridade ou órgão competente a legislar de forma a garantir eficácia à norma constitucional de eficácia limitada.
+<br><br>
+A Constituição reservou a previsão de duas formas para se combater esse estado negativo de atuação do Poder Público: o mandado de injunção (apresentado no Capítulo 4 desta obra), que traz em sua essência a busca pela concretização do direito diante da inércia estatal, em âmbito de discussão subjetiva) e a ação direta de inconstitucionalidade por omissão (ADO), que visa, em primeiro plano, a declarar a inconstitucionalidade pela omissão e, em segundo, alcançar a ordem constitucional diante do controle objetivo.
+<br><br>
+Diferentemente da ADI genérica, em que se combate o vício por ação (postura positiva do Poder Público), aqui o objeto será justamente a “não ação”, a verdadeira omissão de quem deveria agir, sendo que tal morosidade afeta a eficácia de norma constitucional de eficácia limitada [@barroso_pratica_2024, p. 149].
+
+## Cabimento
+
+> Caberá ADO sempre que, diante de uma norma constitucional de eficácia limitada, for identificada a inércia total ou parcial da autoridade/órgão responsável pela edição de norma regulamentadora (que compreende não só as normas legais, mas também as demais de natureza regulamentar), que deveria manter postura ativa por imposição constitucional.
+<br><br>
+A inércia total resulta em verdadeiro “não fazer”, “nada dispor”, ou seja, na inexistência absoluta de qualquer atuação que se impõe. A inércia parcial indica que houve atuação no sentido de produção de norma regulamentar. No entanto, ela se apresenta como insuficiente, deficitária, incapaz de possibilitar o exercício do direito que visou tornar eficaz. [@barroso_pratica_2024, p. 149].
+
+<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Para saber mais: eficácia das normas constitucionais</b></p>
+<p style='margin-left:1em;'>
+"<b>Normas constitucionais de eficácia plena:</b> não dependem de regulamentação para que possam produzir efeitos, sendo aplicadas plenamente já que suficientes as orientações mandamentais do Texto Constitucional.<br>
+
+<b>Normas constitucionais de eficácia contida:</b> sua aplicação também pode ser considerada plena, de produção de efeitos sem demanda de norma regulamentadora. No entanto, é possível que o Poder Público restrinja sua eficácia às regras estabelecidas por norma infraconstitucional.<br>
+
+<b>Normas constitucionais de eficácia limitada:</b> não têm a capacidade de produzir efeitos de forma independente. Possuem o mínimo de eficácia, que é impor ao Poder Público o dever de regulamentar e possibilitar eficácia ao dispositivo" [@barroso_pratica_2024, p. 149].
+</p></span>
+</div>
+
+## Competência
+
+A competência ainda é do STF, sob fundamento idêntico ao da ADI, isto é, o art. 102, I, a, da Constituição Federal:
+
+> Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+<br><br>
+I - processar e julgar, originariamente:
+<br><br>
+a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal; (Redação dada pela Emenda Constitucional nº 3, de 1993)
+
+### Quórum
+
+Também no caso do quórum valem as mesmas regras da ADI:
+
+- **Quórum para instalação de sessão:** quórum de 2/3 dos Ministros, ou seja, de oito de seus integrantes (11 ministros: 2/3 = 7,3. O primeiro número inteiro será oito, portanto, o quórum necessário para instalação), conforme indicar o parágrafo único do art. 143 do Regimento Interno do Supremo Tribunal Federal (RISTF).
+
+- **Quórum de votação:** maioria absoluta (50% + 1 dos membros = 6 ministros) - art. 97 da CF e art. 23 da Lei n. 9.868/99.
+
+### Efeitos da decisão
+
+> A procedência da ADO repercute com poucos efeitos práticos. Sendo a mora perpetrada por **órgão administrativo**, trará como consequência a ciência pela Corte para que providências sejam tomadas no prazo de 30 dias (providências no sentido de que seja sanada a omissão).
+<br><br>
+Se a omissão for de origem do **Poder Legislativo ou Executivo**, há duas posições na doutrina:
+<br><br>
+**a) Primeira (a ser adotada):** o prazo de 30 dias só pode ser imposto ao órgão administrativo. Em razão do princípio da separação dos poderes, não pode haver imposição do Judiciário ao Legislativo ou Executivo. No entanto, pode apresentar uma “recomendação” para que produza a lei em determinado período razoável, mas sem consequências práticas ante o descumprimento.
+<br><br>
+**b) Segunda:** o prazo de 30 dias só se aplica ao órgão administrativo. Para os Poderes Legislativo e Executivo, o Judiciário fixará prazo razoável.
+
+<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Atenção!</b></p>
+<p style='margin-left:1em;'>
+"Atualmente, o Supremo Tribunal Federal tem avançado em garantir o princípio da separação dos poderes (tripartição dos poderes), adotando a primeira corrente. No entanto, apenas para registro, vem avançando a uma teoria concretista intermediária, sendo que, diante do descumprimento da recomendação, indicará outro órgão que poderá regulamentar (vide ADO 25, j. 30-11-2016. Na situação recomendou um prazo de 12 meses para o Congresso Nacional sanar a omissão. Mantendo-se inerte, caberá ao Tribunal de Contas da União – TCU editar as disposições necessárias) [@barroso_pratica_2024, p. 150].
+</p></span>
+</div>
+
+# Ação declaratória de constitucionalidade
+
+A **ação declaratória de constitucionalidade (ADC)** nunca caiu em uma segunda fase do Exame de Ordem desde que a banca passou a ser a FGV - ao contrário da ADI, que caiu 7 vezes:
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#Na tabela abaixo o caption adicionava a palavra "table" duas vezes: "Table 1: Table 2: Distribuição de Incidência das Peças"
+
+#Esse problema ocorre porque o {kable} adiciona automaticamente um prefixo "Table" ao título da tabela, e o {kableExtra} pode estar aplicando outro prefixo adicional.
+
+#Para corrigir isso, você pode desativar a numeração automática de tabelas no R Markdown adicionando esta opção no início do documento:
+options(knitr.kable.NA = "", knitr.table.format = "html")
+```
+
+```{r, echo=FALSE, message=FALSE}
+library(knitr)
+library(kableExtra)
+
+incidencia_pecas <- data.frame(
+  Peça = c("Mandado de Segurança", "Ação Direta de Inconstitucionalidade (ADI)", "Ação Popular", "Recurso Ordinário Constitucional", "Recurso Extraordinário", "Mandado de Injunção Coletivo", "Ação Civil Pública", "Arguição de Descumprimento de Preceito Fundamental (ADPF)", "Ação Direta de Inconstitucionalidade por Omissão (ADO)", "Habeas Data", "Recurso Extraordinário em ADI", "Ação Condenatória", "Apelação em Mandado de Segurança", "Mandado de Segurança Coletivo", "Reclamação Constitucional"),
+  Incidência = c(8, 7, 6, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+  Percentual = c("22,22%", "19,44%", "16,66%", "8,33%", "5,55%", "2,77%", "2,77%", "2,77%", "2,77%", "2,77%", "2,77%", "2,77%", "2,77%", "2,77%", "2,77%")
+)
+
+kable(incidencia_pecas, caption = "Distribuição de Incidência das Peças. Fonte: @rodrigues_estatisticas_nodate", align = c("l", "c", "c")) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), full_width = FALSE) %>%
+  row_spec(0, bold = TRUE, color = "white", background = "rgb(249, 83, 85)")
+```
+
+Considerando que a peça está na listada no edital, isso significa que ela pode cair a qualquer momento! Possivelmente, há uma chance maior de cair ADC do que, digamos, ADO, que já caiu uma vez.
+
+## Introdução
+
+
