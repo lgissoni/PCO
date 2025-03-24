@@ -60,7 +60,7 @@ Também no caso do quórum valem as mesmas regras da ADI:
 
 - **Quórum de votação:** maioria absoluta (50% + 1 dos membros = 6 ministros) - art. 97 da CF e art. 23 da Lei n. 9.868/99.
 
-### Efeitos da decisão
+## Efeitos da decisão
 
 > A procedência da ADO repercute com poucos efeitos práticos. Sendo a mora perpetrada por **órgão administrativo**, trará como consequência a ciência pela Corte para que providências sejam tomadas no prazo de 30 dias (providências no sentido de que seja sanada a omissão).
 <br><br>
@@ -78,6 +78,60 @@ Se a omissão for de origem do **Poder Legislativo ou Executivo**, há duas posi
 "Atualmente, o Supremo Tribunal Federal tem avançado em garantir o princípio da separação dos poderes (tripartição dos poderes), adotando a primeira corrente. No entanto, apenas para registro, vem avançando a uma teoria concretista intermediária, sendo que, diante do descumprimento da recomendação, indicará outro órgão que poderá regulamentar (vide ADO 25, j. 30-11-2016. Na situação recomendou um prazo de 12 meses para o Congresso Nacional sanar a omissão. Mantendo-se inerte, caberá ao Tribunal de Contas da União – TCU editar as disposições necessárias) [@barroso_pratica_2024, p. 150].
 </p></span>
 </div>
+
+Quanto aos efeitos, estes serão *erga omnes*, vinculantes e *ex tunc* (art. 102, § 2º, da CF).
+
+## Legitimidade
+
+> A legitimidade também obedece às regras já tratadas quanto à ADI genérica, de modo que a disposição virá estabelecida no art. 103 da Constituição Federal e no art. 12-A da Lei n. 9.868/99 (que, por sua vez, faz remissão ao art. 2º da mesma Lei, que reproduz na integralidade o conteúdo do art. 103 da CF) [@barroso_pratica_2024, p. 150].
+
+### Intervenção de terceiros e *amicus curiae*
+
+> O art. 12-E da Lei n. 9.868/99 dispõe que se aplicam à ação direta de inconstitucionalidade por omissão as disposições da Seção I do Capítulo II da Lei n. 9.868/99. Dessa forma, e em igual sentido anteriormente tratado, cabe apontar que o art. 7º da Lei n. 9.868/99 dispõe expressamente sobre a vedação à admissão de intervenção de terceiros no processo de ação direta de inconstitucionalidade.
+<br><br>
+No entanto, o § 2º do mesmo dispositivo autoriza que o relator admita a inclusão do *amicus curiae*, considerando a relevância da matéria e a representatividade/autoridade desse sujeito sobre o assunto, assim como se observa no autorizativo do art. 138 do Código de Processo Civil [@barroso_pratica_2024, p. 150].
+
+### Manifestação do Advogado-Geral da União e do Procurador-Geral da República
+
+> O **Advogado-Geral da União** não possuirá atribuição na ADO, uma vez que, considerando seu papel de “defender a constitucionalidade da norma”, aqui o vício está na inexistência dela (art. 103, § 3º, da CF). No entanto, se a norma regulamentadora existir, mas for parcial ou insuficiente, o Advogado-Geral da União deverá ser ouvido no mesmo prazo do Procurador-Geral da República. Primeiro é ouvido o Advogado-Geral da União, depois o Procurador-Geral da República.
+<br><br>
+O **Procurador-Geral da República** deverá ser ouvido para que possa emitir seu parecer em até 15 dias (art. 12-E, § 3º, da Lei n. 9.868/99), o que deve ser requerido na petição em capítulo oportuno [@barroso_pratica_2024, p. 151].
+
+> Art. 103 (...)
+<br><br>
+§ 3º Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
+
+## Prazo
+
+> Não há prazo para a propositura dessa ação, bastando que haja a omissão impeditiva da eficácia de norma constitucional (de eficácia limitada) [@barroso_pratica_2024, p. 151].
+
+## Principais teses e requerimentos
+
+> Na ADO, a principal tese a ser utilizada será justamente a **inexistência/insuficiência de regulamentação quando a Constituição impõe o dever de regulamentar** a norma constitucional que se apresenta com eficácia limitada.
+<br><br>
+Dessa forma, a principal tese será justamente essa ausência/insuficiência de regulamentação com base no direito constitucional que o enunciado apresentar. O examinando deve ter atenção em identificar o direito indicado e localizar no texto constitucional a confirmação de que se trata de **norma de eficácia limitada** (expressões como “lei irá dispor”, “na forma da lei” etc.).
+<br><br>
+Quanto aos **requerimentos**, é importante destacar o que a Lei n. 9.868/99 estabelece:
+<br><br>
+a) O **pedido de procedência** para fins de declaração da mora, objeto da ação. Se a mora for de órgão administrativo, deve-se impor prazo de 30 dias para que seja sanada a omissão. Se a omissão for de origem do Poder Legislativo ou Executivo, limita-se à recomendação (vide, quanto aos efeitos da decisão de ADO, as observações sobre posições existentes).
+<br><br>
+b) O pedido de **concessão de medida cautelar** após audiência de órgão/autoridade, que deverá se manifestar no prazo de cinco dias (se for o caso da medida cautelar).
+<br><br>
+c) **Ciência ao órgão/autoridade** para que possa tomar providências necessárias no prazo de 30 dias.
+<br><br>
+d) **Oitiva do Procurador-Geral da República** para que emita seu parecer em três dias acerca da medida cautelar requerida (se for o caso de requerimento de medida cautelar).
+<br><br>
+e) **Oitiva do Procurador-Geral da República** para que emita seu parecer sobre o pedido principal (declaração da inconstitucionalidade por omissão) no prazo de 15 dias (art. 12-E, § 3º, da Lei n. 9.868/99 e art. 103, § 3º, da CF) [@barroso_pratica_2024, p. 151].
+
+## Medida cautelar
+
+> O art. 12-F da Lei n. 9.868/99 dispõe sobre o cabimento de cautelar em sede de ADO. Em caso de excepcional urgência e relevância da matéria, o Tribunal, por **maioria absoluta de seus membros (6 Ministros)**, poderá conceder a medida cautelar após a audiência dos órgãos ou autoridades responsáveis pela omissão inconstitucional, que deverão se pronunciar no prazo de cinco dias.
+<br><br>
+Nesse caso, a oitiva do Procurador-Geral da República somente ocorrerá se o julgador entender indispensável. Em caso positivo, ele apresentará manifestação no prazo de três dias. O Advogado-Geral da União não será intimado a se manifestar ante a inexistência de norma a se sustentar validade (art. 103, § 3º, da CF) [@barroso_pratica_2024, p. 151].
+
+### Efeitos
+
+> A medida cautelar poderá consistir na suspensão da aplicação da lei ou do ato normativo questionado, no caso de omissão parcial, bem como na suspensão de processos judiciais ou de procedimentos administrativos, ou, ainda, em outra providência a ser fixada pelo Tribunal [@barroso_pratica_2024, p. 151].
 
 # Ação declaratória de constitucionalidade
 
