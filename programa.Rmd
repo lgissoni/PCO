@@ -135,6 +135,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 6
 
+[**Notas de aula**](notas_6.html)  
+**Bibliografia:** @barroso_pratica_2024, pp. 149-172
+
 ## 24/03 - aula 6.1: ação declaratória de constitucionalidade
 
 ## 26/03 - aula 6.2: ação declaratória de constitucionalidade
