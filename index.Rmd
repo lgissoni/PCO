@@ -78,6 +78,7 @@ Para aprofundamento nos temas abordados ao longo do curso, recomenda-se a consul
 - [Conselho Nacional de Justiça (CNJ)](https://www.cnj.jus.br)
 - [Legislação Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) – Constituição Federal e leis correlatas.
 
+Além disso, podemos visualizar [aqui](https://trilhante.com.br/novidade/estatisticas-oab-2a-fase) estatícas sobre as peças mais cobradas na segunda fase do Exame de Ordem.
 
 # Estrutura do curso
 
@@ -87,14 +88,18 @@ Teremos momentos de aulas expositivo-dialogadas em que discutiremos a bibliograf
 
 ## Avaliação
 
-A avaliação será dividida em dois bimestres, cada um dos quais contará com três **PAP**, cada uma valendo **1 ponto** e uma **PAT**, valendo **7 pontos**. A nota final será a **média aritmética** dos dois bimestres e haverá possibilidade de realização de **prova substitutiva** e **exame**. 
+### Tipos de avaliação
 
-### PAP
+Em nossa Universidade, cada bimestre conta com o Processo de Avaliação Teórico **(PAT)**, valendo 7 pontos, e o Processo de Avaliação Prático **(PAP)**, que vale 3 pontos. Neste curso, teremos, em cada bimestre, uma PAT mais quatro trabalhos que comporão a PAP, conforme descrito abaixo.
 
-As PAP constituirão 4 atividades ou trabalhos escritos individuais por bimestre. Cada uma valerá 1 ponto e a pior nota será **descartada**. As PAP serão realizadas em casa. Em geral, o **prazo** de entrega da atividade será no **domingo seguinte** à sua explicação em sala. Os textos devem ser obrigatoriamente digitados e entregues (em pdf, odt ou doc) no email [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com), com assunto **"PCO - PAP x.y - NOME DO/A ESTUDANTE"**, onde "x.y" é a numeração da PAP.
+A nota final do bimestre será igual à soma da nota obtida na PAT com a obtida na PAP. A nota final será a **média aritmética** dos dois bimestres e haverá possibilidade de realização de **prova substitutiva** e **exame**.
+
+#### PAP
+
+As PAP constituirão 4 atividades ou trabalhos escritos individuais por bimestre. Cada uma valerá **1 ponto** e a pior nota será **descartada**. As PAP serão realizadas em casa. Em geral, o **prazo** de entrega da atividade será no **domingo seguinte** à sua explicação em sala. Os textos devem ser obrigatoriamente digitados e entregues (em pdf, odt ou doc) no email [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com), com assunto **"PCO - PAP x.y - NOME DO/A ESTUDANTE"**, onde "x.y" é a numeração da PAP.
 Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda parte, elas serão constituídas pela prática de redação das peças profissionais do processo constitucional conforme o Exame de Ordem. As PAP serão realizadas em sala ou em casa, conforme o caso.
 
-### PAT
+#### PAT
 
 As PAT serão constituídas por dez **questões objetivas** valendo **5 pontos** e uma ou duas **questões dissertativas** valendo **2 pontos**. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.
 
