@@ -62,6 +62,7 @@ O curso contará com **aulas expositivas**, momentos de reflexão individual e *
 ### Bibliografia complementar
 
 @assis_processo_2015  
+@brasil_lei_1999  
 @brasil_lei_2015  
 @borba_dialogos_2020  
 @mendes_curso_2024  

@@ -75,7 +75,7 @@ Se a omissão for de origem do **Poder Legislativo ou Executivo**, há duas posi
 <p style='margin-top:1em; text-align:center'>
 <b>Atenção!</b></p>
 <p style='margin-left:1em;'>
-"Atualmente, o Supremo Tribunal Federal tem avançado em garantir o princípio da separação dos poderes (tripartição dos poderes), adotando a primeira corrente. No entanto, apenas para registro, vem avançando a uma teoria concretista intermediária, sendo que, diante do descumprimento da recomendação, indicará outro órgão que poderá regulamentar (vide ADO 25, j. 30-11-2016. Na situação recomendou um prazo de 12 meses para o Congresso Nacional sanar a omissão. Mantendo-se inerte, caberá ao Tribunal de Contas da União – TCU editar as disposições necessárias) [@barroso_pratica_2024, p. 150].
+"Atualmente, o Supremo Tribunal Federal tem avançado em garantir o princípio da separação dos poderes (tripartição dos poderes), adotando a primeira corrente. No entanto, apenas para registro, vem avançando a uma teoria concretista intermediária, sendo que, diante do descumprimento da recomendação, indicará outro órgão que poderá regulamentar (vide ADO 25, j. 30-11-2016. Na situação recomendou um prazo de 12 meses para o Congresso Nacional sanar a omissão. Mantendo-se inerte, caberá ao Tribunal de Contas da União – TCU editar as disposições necessárias)" [@barroso_pratica_2024, p. 150].
 </p></span>
 </div>
 
@@ -101,17 +101,31 @@ O **Procurador-Geral da República** deverá ser ouvido para que possa emitir se
 <br><br>
 § 3º Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
 
+## Medida cautelar
+
+> O art. 12-F da Lei n. 9.868/99 dispõe sobre o cabimento de cautelar em sede de ADO. Em caso de excepcional urgência e relevância da matéria, o Tribunal, por **maioria absoluta de seus membros (6 Ministros)**, poderá conceder a medida cautelar após a audiência dos órgãos ou autoridades responsáveis pela omissão inconstitucional, que deverão se pronunciar no prazo de cinco dias.
+<br><br>
+Nesse caso, a oitiva do Procurador-Geral da República somente ocorrerá se o julgador entender indispensável. Em caso positivo, ele apresentará manifestação no prazo de três dias. O Advogado-Geral da União não será intimado a se manifestar ante a inexistência de norma a se sustentar validade (art. 103, § 3º, da CF) [@barroso_pratica_2024, p. 151].
+
+### Efeitos
+
+> A medida cautelar poderá consistir na suspensão da aplicação da lei ou do ato normativo questionado, no caso de omissão parcial, bem como na suspensão de processos judiciais ou de procedimentos administrativos, ou, ainda, em outra providência a ser fixada pelo Tribunal [@barroso_pratica_2024, p. 151].
+
 ## Prazo
 
 > Não há prazo para a propositura dessa ação, bastando que haja a omissão impeditiva da eficácia de norma constitucional (de eficácia limitada) [@barroso_pratica_2024, p. 151].
 
 ## Principais teses e requerimentos
 
+### Teses
+
 > Na ADO, a principal tese a ser utilizada será justamente a **inexistência/insuficiência de regulamentação quando a Constituição impõe o dever de regulamentar** a norma constitucional que se apresenta com eficácia limitada.
 <br><br>
-Dessa forma, a principal tese será justamente essa ausência/insuficiência de regulamentação com base no direito constitucional que o enunciado apresentar. O examinando deve ter atenção em identificar o direito indicado e localizar no texto constitucional a confirmação de que se trata de **norma de eficácia limitada** (expressões como “lei irá dispor”, “na forma da lei” etc.).
-<br><br>
-Quanto aos **requerimentos**, é importante destacar o que a Lei n. 9.868/99 estabelece:
+Dessa forma, a principal tese será justamente essa ausência/insuficiência de regulamentação com base no direito constitucional que o enunciado apresentar. O examinando deve ter atenção em identificar o direito indicado e localizar no texto constitucional a confirmação de que se trata de **norma de eficácia limitada** (expressões como “lei irá dispor”, “na forma da lei” etc.) [@barroso_pratica_2024, p. 151].
+
+### Requerimentos
+
+> Quanto aos **requerimentos**, é importante destacar o que a Lei n. 9.868/99 estabelece:
 <br><br>
 a) O **pedido de procedência** para fins de declaração da mora, objeto da ação. Se a mora for de órgão administrativo, deve-se impor prazo de 30 dias para que seja sanada a omissão. Se a omissão for de origem do Poder Legislativo ou Executivo, limita-se à recomendação (vide, quanto aos efeitos da decisão de ADO, as observações sobre posições existentes).
 <br><br>
@@ -122,16 +136,6 @@ c) **Ciência ao órgão/autoridade** para que possa tomar providências necess�
 d) **Oitiva do Procurador-Geral da República** para que emita seu parecer em três dias acerca da medida cautelar requerida (se for o caso de requerimento de medida cautelar).
 <br><br>
 e) **Oitiva do Procurador-Geral da República** para que emita seu parecer sobre o pedido principal (declaração da inconstitucionalidade por omissão) no prazo de 15 dias (art. 12-E, § 3º, da Lei n. 9.868/99 e art. 103, § 3º, da CF) [@barroso_pratica_2024, p. 151].
-
-## Medida cautelar
-
-> O art. 12-F da Lei n. 9.868/99 dispõe sobre o cabimento de cautelar em sede de ADO. Em caso de excepcional urgência e relevância da matéria, o Tribunal, por **maioria absoluta de seus membros (6 Ministros)**, poderá conceder a medida cautelar após a audiência dos órgãos ou autoridades responsáveis pela omissão inconstitucional, que deverão se pronunciar no prazo de cinco dias.
-<br><br>
-Nesse caso, a oitiva do Procurador-Geral da República somente ocorrerá se o julgador entender indispensável. Em caso positivo, ele apresentará manifestação no prazo de três dias. O Advogado-Geral da União não será intimado a se manifestar ante a inexistência de norma a se sustentar validade (art. 103, § 3º, da CF) [@barroso_pratica_2024, p. 151].
-
-### Efeitos
-
-> A medida cautelar poderá consistir na suspensão da aplicação da lei ou do ato normativo questionado, no caso de omissão parcial, bem como na suspensão de processos judiciais ou de procedimentos administrativos, ou, ainda, em outra providência a ser fixada pelo Tribunal [@barroso_pratica_2024, p. 151].
 
 # Ação declaratória de constitucionalidade
 
@@ -167,4 +171,30 @@ Considerando que a peça está na listada no edital, isso significa que ela pode
 
 ## Introdução
 
+> A ADC não é uma ação com previsão originária na Constituição Federal, mas fruto da Emenda Constitucional n. 3/93, que tem como objetivo conferir ao Supremo Tribunal Federal competência para decidir, com a última palavra, acerca da constitucionalidade que tem sido atacada por juízes e Tribunais (circunstância que é tratada como “controvérsia” e deve ser demonstrada por ocasião da inicial).
+<br><br>
+Por meio dessa ação, o Supremo Tribunal Federal fará com que se alcance a presunção absoluta de constitucionalidade da norma objeto da demanda, colocando fim à controvérsia estabelecida entre os órgãos jurisdicionados [@barroso_pratica_2024, p. 161].
+
+<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Para saber mais: presunção de constitucionalidade</b></p>
+<p style='margin-left:1em;'>
+"Considerando todo o processo legislativo a que é submetida a lei até sua efetiva vigência, há uma <b>presunção relativa de constitucionalidade</b> que pode ser <b>elidida</b> (em caso de improcedência de uma ADC ou procedência de uma ADI, lembrando que são ações ambivalentes) ou <b>alcançada a presunção absoluta</b> de sua consonância com o Texto Constitucional (procedência de uma ADC ou improcedência de uma ADI)" [@barroso_pratica_2024, p. 161].
+</p></span>
+</div>
+
+## Cabimento
+
+> A ADC terá cabimento quando diante de controvérsia judicial relevante sobre a aplicação da disposição do objeto da ação declaratória (art. 14, III, da Lei n. 9.868/99).
+<br><br>
+Importa destacar que, diferentemente das ações diretas de inconstitucionalidade, a previsão constitucional é expressa quanto ao cabimento da ADC apenas quanto às **leis ou atos normativos federais, não alcançando as de natureza estadual ou municipal**.
+<br><br>
+É imperioso também destacar apenas as leis e os atos normativos de natureza federal que tenham sido criados sob a égide da Constituição Federal (normas posteriores à Constituição, independentemente se anteriores ou não à inserção da ADC no Texto Constitucional pela EC n. 3/93) [@barroso_pratica_2024, p. 161].
+
+> Art. 14. A petição inicial indicará:
+<br><br>
+...
+<br><br>
+III - a existência de controvérsia judicial relevante sobre a aplicação da disposição objeto da ação declaratória [@brasil_lei_1999].
 
