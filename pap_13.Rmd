@@ -1,0 +1,29 @@
+---
+title: "PAP 1.3"
+description: |
+  Ação Declaratória de Constitucionalidade
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+**Prazo: 06/04/2025**  
+
+**(Questão hipotética criada com base na ADI 19. Não reflete a realidade).** A violência doméstica tem sido um dos grandes temas em pauta, políticas públicas, mídias sociais e, infelizmente, pelo próprio número assustador de casos a cada dia.  
+
+A Lei n. 11.340/2006 (Lei Maria da Penha) trouxe um protetivo substancial para buscar proteger as vítimas e garantir que o Estado aja de forma mais rígida com o agressor. Entre os dispositivos apresentados pela Lei, dois chamaram a atenção pela forma como veio a ser aplicado de forma contraditória pelos juízes e Tribunais em todo o país, ocasionando grande insegurança jurídica e social.  
+
+O primeiro dispositivo, art. 1º da referida Lei, estabelece um tratamento diferenciado entre homens e mulheres, criando um mecanismo de maior proteção às mulheres.  
+
+O segundo dispositivo, art. 41, estabelece que aos crimes praticados com violência doméstica e familiar contra a mulher, independentemente da pena prevista, não se aplica a Lei n. 9.099/95 (Lei do Juizado Especial Cível e Criminal), que reconhecidamente traz dispositivos de natureza despenalizadora (transação penal, suspensão condicional do processo, termo circunstanciado, composição civil etc.) aos agressores desses crimes de menor potencial ofensivo.  
+
+Após a sanção da lei, observou-se a emergência de controvérsia judicial relevante a respeito de sua constitucionalidade. Verificou-se a existência de conflitos na interpretação da lei, pois há diversos pronunciamentos judiciais declarando a constitucionalidade de suas normas e outras que as reputam inconstitucionais. A contrariedade de decisões envolve a afronta ao art. 5º, I, da Constituição Federal, que estabelece tratamento sem distinção de qualquer natureza, sendo os homens e as mulheres iguais perante a lei (confrontando o art. 1º da Lei n. 11.340/2006), bem como o fato de que a não aplicação da Lei n. 9.099/95 aos crimes de violência doméstica afronta o art. 98, I, da Constituição Federal, que trata sobre a criação dos juizados especiais para tratar, entre outras, das infrações penais de menor potencial ofensivo (situação que se encaixaria em algumas situações de violência, inclusive a doméstica), permitindo-se uma série de benefícios ao réu.  
+
+Diante da situação de instabilidade e da necessidade de assegurar a constitucionalidade da norma, o Partido Político LMP, por meio de seus dois senadores eleitos em último pleito, busca uma orientação jurídica para atuar o quanto antes, visto que os números de violência vêm crescendo diariamente, sobretudo pela não aplicação de procedimentos mais rígidos previstos na Lei n. 11.340/2006, ante a compreensão de inconstitucionalidade por parte de juízes e Tribunais.  
+
+Na condição de advogado/a procurado/a pelo Partido LMP, adote as medidas judiciais cabíveis que atendam às pretensões apresentadas.
