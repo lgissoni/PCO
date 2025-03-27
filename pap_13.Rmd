@@ -12,7 +12,7 @@ bibliography: bibliografia.bib
 csl: abnt.csl
 ---
 
-**Prazo: 06/04/2025**  
+**Prazo: 06/04**  
 
 **(Questão hipotética criada com base na ADI 19. Não reflete a realidade).** A violência doméstica tem sido um dos grandes temas em pauta, políticas públicas, mídias sociais e, infelizmente, pelo próprio número assustador de casos a cada dia.  
 
