@@ -36,6 +36,8 @@ navbar:
           href: pap_12.html
         - text: "PAP 1.3"
           href: pap_13.html
+        - text: "PAP 1.4"
+          href: pap_14.html
     - icon: fab fa-github
       href: https://github.com/lgissoni
 output:
