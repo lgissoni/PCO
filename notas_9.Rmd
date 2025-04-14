@@ -1,0 +1,99 @@
+---
+title: "Aula 7 – Métodos de Interpretação Constitucional"
+description: "Curso de Processo Constitucional – Métodos interpretativos e técnicas de decisão"
+author:
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+bibliography: pco.bib
+csl: abnt.csl
+output: distill::distill_article
+---
+
+# Introdução
+
+A interpretação constitucional é um dos grandes desafios do processo constitucional contemporâneo. Como destaca @dimoulis_curso_2016, a Constituição, por seu conteúdo normativo programático e sua centralidade política, exige do intérprete uma abordagem plural de métodos e técnicas decisórias.
+
+<div class="warning" style='background-color: #f5f5f5; color: #333; border-left: solid #777 4px; border-radius: 4px; padding:0.7em;'>
+<strong>Objetivo da aula:</strong> compreender os principais métodos de interpretação constitucional, suas limitações, e como os tribunais os empregam, especialmente em contextos de controle de constitucionalidade.
+</div>
+
+# Métodos clássicos de interpretação
+
+## Interpretação textual (ou gramatical)
+
+Parte do significado literal das palavras utilizadas no texto legal. É o ponto de partida para qualquer outra forma de interpretação.
+
+> **Exemplo:** a palavra "posse" pode indicar o ato de assumir um cargo (art. 28, CF) ou referir-se à posse de terra (art. 231, § 2º, CF).
+
+## Interpretação sistemática
+
+Busca coerência lógica e hierárquica dentro do ordenamento jurídico. Parte da premissa de que não há contradições intencionais no sistema.
+
+## Interpretação histórica (teleologia subjetiva)
+
+Investiga os motivos que levaram o legislador a criar determinada norma, a partir de debates na Assembleia Constituinte, pareceres, contextos históricos e influências estrangeiras.
+
+## Interpretação teleológica objetiva
+
+Busca a finalidade atual da norma. Pergunta-se: o que o legislador teria decidido hoje, diante da nova realidade social?
+
+> **Exemplo:** normas sobre o papel da mulher no mercado de trabalho podem ter sua aplicação revista conforme transformações sociais.
+
+# Problemas dos métodos interpretativos
+
+- Falta de critérios objetivos para escolha entre métodos.
+- Possibilidade de contradições entre interpretações.
+- Grande margem de liberdade ao intérprete, especialmente com normas principiológicas.
+
+<div class="warning" style='background-color: #fff3cd; color: #856404; border-left: solid #ffeeba 4px; border-radius: 4px; padding:0.7em;'>
+⚠️ <strong>Atenção:</strong> No controle de constitucionalidade, só se admite a declaração de inconstitucionalidade quando esta for clara e inequívoca (in dubio pro legislatore).
+</div>
+
+# Técnicas decisórias no controle de constitucionalidade
+
+## Interpretação conforme a Constituição
+
+Preserva-se a norma infraconstitucional, desde que interpretada em consonância com a Constituição.
+
+**Exemplo:** ADI sobre a Constituição de MG – STF restringiu a aplicação do art. 62, XXIII, d, às autarquias e fundações públicas.
+
+## Inconstitucionalidade parcial sem redução de texto
+
+Declara-se inconstitucional a aplicação da norma a certos casos, sem modificar seu texto literal.
+
+**Exemplo:** ADI 2.924 – STF restringiu o alcance da expressão "pagamentos complementares".
+
+## Decisões manipulativas
+
+São sentenças que alteram ou completam o conteúdo da norma:
+
+- **Aditivas**: incluem hipóteses não previstas explicitamente.
+- **Substitutivas**: trocam parte do texto legal.
+
+> ⚖️ O STF tende a evitar tais decisões, por entender que violam a separação dos poderes (função de legislador positivo).
+
+## Apelo ao legislador
+
+O tribunal reconhece que a norma é "ainda constitucional", mas instável, e convida o legislador a atualizá-la.
+
+**Exemplo:** ADI 3.682 – STF fixou prazo de 18 meses para o Congresso legislar sobre criação de municípios.
+
+# Mutação constitucional
+
+Mudança do sentido de norma constitucional sem alteração formal do texto. Envolve fatores sociais, políticos e econômicos que modificam a interpretação dominante.
+
+## Caso emblemático: Reclamação 4.335
+
+- O STF atribuiu efeitos vinculantes a decisões em controle difuso.
+- Houve reinterpretação do art. 52, X, da CF/88.
+- Trata-se de mutação constitucional: transformação do texto pela prática interpretativa consolidada.
+
+> **Críticas:** violação da rigidez constitucional, usurpação da competência do legislador, desequilíbrio entre os poderes.
+
+<div class="warning" style='background-color: #e2e3e5; color: #383d41; border-left: solid #d6d8db 4px; border-radius: 4px; padding:0.7em;'>
+📌 <strong>Resumo:</strong> os métodos e técnicas interpretativas são instrumentos argumentativos, não fórmulas automáticas. Sua legitimidade depende da fundamentação racional, do respeito à separação dos poderes e do princípio da supremacia constitucional.
+</div>
+
+> Para aprofundamento, recomenda-se a leitura dos autores indicados por Dimoulis (2016, cap. 5.8): Barroso, Müller, Engisch, Larenz, entre outros.
