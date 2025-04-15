@@ -1,6 +1,6 @@
 ---
-title: "Aula 7 – Métodos de Interpretação Constitucional"
-description: "Curso de Processo Constitucional – Métodos interpretativos e técnicas de decisão"
+title: "Aula 9"
+description: "Métodos de Interpretação Constitucional"
 author:
   - name: Luccas Gissoni
     affiliation: Universidade Zumbi dos Palmares
