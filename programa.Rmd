@@ -155,7 +155,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 09/04 - aula 8.2: arguição de Descumprimento de Preceito Fundamental
 
-**PAP 1.4:** ADPF - oficina de peça profissional
+[**PAP 1.4:** ADPF - oficina de peça profissional](pap_14.html)  
+**Prazo:** 16/04
 
 # Semana 9
 

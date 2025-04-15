@@ -1,0 +1,25 @@
+---
+title: "PAP 1.4"
+description: |
+  Arguição de descumprimento de preceito fundamental
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+**Prazo: 16/04**  
+
+**(FGV - XXV EXAME DE ORDEM UNIFICADO (2018.1) Definitivo - Reaplicação Porto Alegre/RS).** O Município Alfa, situado na área de fronteira do território brasileiro, passou a receber intenso fluxo de imigrantes, fruto de graves complicações políticas e humanitárias ocorridas em país vizinho. Em razão desse fluxo, ocorreu um aumento exponencial da população em situação de rua, os serviços públicos básicos tiveram a sua capacidade operacional saturada e verificou-se um grande aumento nos índices de criminalidade.  
+
+Para evitar o agravamento desse quadro, a Câmara Municipal aprovou e o Prefeito Municipal sancionou a Lei nº 123/2018, que vedou o ingresso de novos imigrantes, no território do Município, pelo período de 12 (doze) meses, e fixou o limite máximo para a população flutuante, de modo que o referido ingresso seria obstado sempre que alcançado esse limite. Além disso, foi previsto que a contratação de imigrantes estaria condicionada à prévia aprovação da Secretaria Municipal do Trabalho, que avaliaria a proporção entre o quantitativo de trabalhadores nacionais e estrangeiros, podendo autorizá-la, ou não.  
+
+Ao tomar conhecimento da entrada em vigor da Lei nº 123/2018, o Partido Político Beta, que somente conta com representantes na Câmara dos Deputados, entendeu que ela seria dissonante de comandos estruturais da Constituição da República Federativa do Brasil, submetendo os imigrantes a uma situação vexatória. Não bastasse isso, a aplicação da Lei nº 123/2018, ao conferir prioridade para os nacionais nas relações de trabalho, acirrara os ânimos no Município Alfa, que passou a ser palco de conflitos diários.  
+
+À luz desse quadro, o Partido Político Beta contratou os seus serviços como advogado, para que ingressasse com a medida judicial cabível, perante o Tribunal Superior competente, de modo a obstar a aplicação da Lei nº 123/2018 do Município Alfa.  
+
+*Obs.: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.* 
