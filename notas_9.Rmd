@@ -13,7 +13,7 @@ output: distill::distill_article
 
 # Introdução
 
-A interpretação constitucional é um dos grandes desafios do processo constitucional contemporâneo. Como destaca @dimoulis_curso_2016, a Constituição, por seu conteúdo normativo programático e sua centralidade política, exige do intérprete uma abordagem plural de métodos e técnicas decisórias.
+A interpretação constitucional é um dos grandes desafios do processo constitucional contemporâneo. Como destacam @dimoulis_curso_2016, a Constituição, por seu conteúdo normativo programático e sua centralidade política, exige do intérprete uma abordagem plural de métodos e técnicas decisórias.
 
 <div class="warning" style='background-color: #f5f5f5; color: #333; border-left: solid #777 4px; border-radius: 4px; padding:0.7em;'>
 <strong>Objetivo da aula:</strong> compreender os principais métodos de interpretação constitucional, suas limitações, e como os tribunais os empregam, especialmente em contextos de controle de constitucionalidade.
@@ -25,21 +25,56 @@ A interpretação constitucional é um dos grandes desafios do processo constitu
 
 Parte do significado literal das palavras utilizadas no texto legal. É o ponto de partida para qualquer outra forma de interpretação.
 
-> **Exemplo:** a palavra "posse" pode indicar o ato de assumir um cargo (art. 28, CF) ou referir-se à posse de terra (art. 231, § 2º, CF).
+**Exemplo:** a palavra **"posse"** pode indicar o ato de assumir um cargo (art. 28, CF) ou referir-se à posse de terra (art. 231, § 2º, CF).
+
+> Art. 28. A eleição do Governador e do Vice-Governador de Estado, para mandato de 4 (quatro) anos, realizar-se-á no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato de seus antecessores, e a **posse** ocorrerá em 6 de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. 77 desta Constituição [@brasil_constituicao_1988, grifo meu].
+
+> Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens.    Regulamento
+<br>
+[...]
+<br>
+§ 2º As terras tradicionalmente ocupadas pelos índios destinam-se a sua **posse** permanente, cabendo-lhes o usufruto exclusivo das riquezas do solo, dos rios e dos lagos nelas existentes. [@brasil_constituicao_1988, grifo meu].
 
 ## Interpretação sistemática
 
 Busca coerência lógica e hierárquica dentro do ordenamento jurídico. Parte da premissa de que não há contradições intencionais no sistema.
 
+> A interpretação sistemática objetiva integrar e harmonizar as normas jurídicas, considerando-as um conjunto. Para melhor entender os mandamentos legais, devemos analisá-los no contexto da regulamentação jurídica, levando em consideração as relações lógicas e hierárquicas entre os dispositivos.
+<br>
+Para tanto, o intérprete vê o ordenamento jurídico como sistema coerente e sem contradições. Não podemos partir do pressuposto de que o legislador, ao mesmo tempo, queria e não queria que algo fosse permitido! Partindo desse pressuposto, os dispositivos fazem parte de um conjunto, devendo ser-lhes dado um significado que garanta a coerência [@dimoulis_curso_2016, p. 276].
+
 ## Interpretação histórica (teleologia subjetiva)
 
-Investiga os motivos que levaram o legislador a criar determinada norma, a partir de debates na Assembleia Constituinte, pareceres, contextos históricos e influências estrangeiras.
+Investiga os objetivos que tinha o legislador a criar determinada norma, a partir de debates na Assembleia Constituinte, pareceres, contextos históricos e influências estrangeiras.
+
+> O método histórico fundamenta-se na teleologia subjetiva, porque se interessa pelos fins da lei (teleologia = discurso que procura a finalidade de algo) segundo a intenção do legislador histórico (e não segundo os objetivos que decorrem do significado da lei ou das demandas sociais).
+<br>
+A interpretação histórica baseia-se no estudo das discussões políticas na época da elaboração da norma, dos documentos parlamentares e de outros testemunhos que podem indicar as finalidades da norma (pareceres e trabalhos científicos de juristas, comentários dos responsáveis políticos) [@dimoulis_curso_2016, p. 277].
+
+<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Para saber mais: teleologia</b></p>
+<p style='margin-left:1em;'>
+<b>Teleologia</b> é a doutrina segundo a qual os fenômenos naturais, ações humanas ou normas jurídicas têm um <b>propósito ou finalidade última</b>.
+<br><br>
+      A palavra vem do grego:<br>
+      📚 <i>telos</i> (τέλος) = fim, objetivo<br>
+      📚 <i>logos</i> (λόγος) = estudo, razão<br><br>
+      <b>Na filosofia:</b> afirma que nada existe por acaso, tudo tem um fim. Aristóteles é um exemplo clássico: a semente visa tornar-se árvore.<br><br>
+      <b>Na teologia:</b> o mundo foi criado por Deus com uma finalidade específica.<br><br>
+      <b>No direito:</b> interpretar uma norma segundo sua finalidade social ou valorativa, e não apenas pelo texto literal (interpretação teleológica).<br><br>
+      <b>Resumo:</b> Teleologia é o estudo dos fins. É pensar o mundo, as ações ou as normas como voltadas para um propósito.
+    </p></span>
+</div>
 
 ## Interpretação teleológica objetiva
 
 Busca a finalidade atual da norma. Pergunta-se: o que o legislador teria decidido hoje, diante da nova realidade social?
 
-> **Exemplo:** normas sobre o papel da mulher no mercado de trabalho podem ter sua aplicação revista conforme transformações sociais.
+**Exemplo:** normas sobre o papel da mulher no mercado de trabalho podem ter sua aplicação revista conforme transformações sociais.
+
+> Aplicando a teleologia objetiva, o intérprete busca a finalidade social das normas jurídicas, propondo uma interpretação conforme critérios e exigências atuais. O raciocínio é: ao fazer certo regulamento, o legislador pretendia tutelar determinados interesses e alcançar certas finalidades. Se entre a criação do dispositivo e o momento atual houve mudanças sociais, devemos, segundo a teleologia objetiva, aplicar a norma pensando qual seria a vontade do mesmo legislador se ele legislasse em nossos dias. Em outras palavras, esse método propõe interpretar a norma de acordo com aquilo que o legislador teria decidido se conhecesse a situação atual. O objetivo é atualizar os textos normativos, pensando qual é o melhor caminho para alcançar a finalidade que o legislador tinha estabelecido [@dimoulis_curso_2016, p. 277].
 
 # Problemas dos métodos interpretativos
 
