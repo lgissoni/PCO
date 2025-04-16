@@ -107,7 +107,9 @@ São sentenças que alteram ou completam o conteúdo da norma:
 - **Aditivas**: incluem hipóteses não previstas explicitamente.
 - **Substitutivas**: trocam parte do texto legal.
 
-> ⚖️ O STF tende a evitar tais decisões, por entender que violam a separação dos poderes (função de legislador positivo).
+<div class="warning" style='background-color: #f5f5f5; color: #333; border-left: solid #777 4px; border-radius: 4px; padding:0.7em;'>
+⚖️ O STF tende a evitar tais decisões, por entender que violam a separação dos poderes (função de legislador positivo).
+</div>
 
 ## Apelo ao legislador
 
@@ -125,10 +127,19 @@ Mudança do sentido de norma constitucional sem alteração formal do texto. Env
 - Houve reinterpretação do art. 52, X, da CF/88.
 - Trata-se de mutação constitucional: transformação do texto pela prática interpretativa consolidada.
 
-> **Críticas:** violação da rigidez constitucional, usurpação da competência do legislador, desequilíbrio entre os poderes.
+> Art. 52. Compete privativamente ao Senado Federal:
+<br>[...]<br>
+X - suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal [@brasil_constituicao_1988]
 
-<div class="warning" style='background-color: #e2e3e5; color: #383d41; border-left: solid #d6d8db 4px; border-radius: 4px; padding:0.7em;'>
-📌 <strong>Resumo:</strong> os métodos e técnicas interpretativas são instrumentos argumentativos, não fórmulas automáticas. Sua legitimidade depende da fundamentação racional, do respeito à separação dos poderes e do princípio da supremacia constitucional.
+<div class="warning" style='background-color: #f5f5f5; color: #333; border-left: solid #777 4px; border-radius: 4px; padding:0.7em;'>
+**Críticas:** violação da rigidez constitucional, usurpação da competência do legislador, desequilíbrio entre os poderes.
 </div>
 
-> Para aprofundamento, recomenda-se a leitura dos autores indicados por Dimoulis (2016, cap. 5.8): Barroso, Müller, Engisch, Larenz, entre outros.
+# Considerações finais
+
+Os métodos e técnicas interpretativas são instrumentos argumentativos, não fórmulas automáticas. Sua legitimidade depende da fundamentação racional, do respeito à separação dos poderes e do princípio da supremacia constitucional.
+
+<div class="warning" style='background-color: #e2e3e5; color: #383d41; border-left: solid #d6d8db 4px; border-radius: 4px; padding:0.7em;'>
+📌 Para aprofundamento, recomenda-se a leitura dos autores indicados por Dimoulis (2016, cap. 5.8): Barroso, Müller, Engisch, Larenz, entre outros.
+</div>
+

@@ -99,3 +99,27 @@ d-article a {
 ul > li::marker {
   color: rgb(249, 83, 85);
 }
+
+.warning {
+  background-color: #fdf3f4; /* tom bem claro de rosa */
+  color: #444; /* cinza escuro, elegante */
+  border-left: 4px solid #e44;
+  border-radius: 6px;
+  padding: 1em;
+  margin: 1.5em 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.02);
+}
+
+.warning p {
+  margin: 0.5em 0 0 0;
+}
+
+.warning-title {
+  font-weight: bold;
+  font-size: 1.05rem;
+  color: #222;
+  text-align: center;
+  margin-bottom: 0.5em;
+}
