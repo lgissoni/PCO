@@ -1,0 +1,21 @@
+---
+title: "PAP 2.1"
+description: |
+  Reclamação Constitucional
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: pco.bib
+csl: abnt.csl
+---
+
+**Prazo: 27/04**
+
+**(Questão hipotética criada com base na Rcl 22.339. Não reflete a realidade)** Em um município do interior do Estado Alfa, o prefeito eleito nomeou sua esposa para o cargo de Secretária Municipal da Educação. Justificou o fato pelo histórico invejável de experiência à frente da reitoria de respeitável instituição do respectivo Estado, além de sua formação com inúmeras qualificações na área. O Ministério Público, ciente da circunstância, moveu Ação Civil Pública por improbidade administrativa do prefeito, uma vez que em sua visão havia afronta à Súmula Vinculante 13. Ao longo do processo, a defesa do prefeito apontou que a jurisprudência dos Tribunais era pacífica ao compreender que cargos políticos não são alcançados pelo enunciado da Súmula Vinculante 13 e que eventual condenação resultaria, portanto, em afronta direta ao conteúdo vinculante. Houve improcedência em primeira instância, mas em segundo grau houve reforma da decisão, resultando na condenação por improbidade em razão da afronta à Súmula Vinculante 13, lesão aos princípios, prejuízo ao erário e enriquecimento ilícito. Com a condenação, a um ano das eleições em que pretende se candidatar à reeleição, o prefeito passou a ostentar hipótese latente de inelegibilidade por força do art. 1º, L, da Lei Complementar n. 64/90. Tal situação ainda pende de recurso que, mesmo recebido, não teria o condão de afastar a inelegibilidade. O prefeito, então, buscou orientação jurídica junto a um escritório de advocacia especializado em Direito Constitucional para verificar medidas que poderiam ser tomadas ante o impasse. Na condição de advogado(a) do prefeito condenado, proceda com as medidas cabíveis e assecuratórias dos direitos relacionados neste enunciado.
+
+
+
+

@@ -30,6 +30,8 @@ navbar:
           href: notas_6.html
         - text: "Semana 9"
           href: notas_9.html
+        - text: "Semana 10"
+          href: notas_10.html
     - text: "PAPs"
       menu:
         - text: "PAP 1.1"
@@ -40,6 +42,8 @@ navbar:
           href: pap_13.html
         - text: "PAP 1.4"
           href: pap_14.html
+        - text: "PAP 2.1"
+          href: pap_21.html
     - icon: fab fa-github
       href: https://github.com/lgissoni
 output:
