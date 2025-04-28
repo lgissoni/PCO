@@ -1,25 +1,25 @@
 ---
-title: "Untitled"
+title: "PAP 2.2"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  Habeas corpus
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
 date: "`r Sys.Date()`"
 output: distill::distill_article
+bibliography: pco.bib
+csl: abnt.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+**Prazo: 04/05**
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+Fábio é portador de transtorno mental leve. Em determinada situação, Fábio foi internado, contra sua vontade, em asilo público do Município X. A ordem de internação foi expedida e mantida por Roberto, médico de hospital público municipal que atendeu Fábio após ele ter sido conduzido por ambulância que o encontrou desmaiado em praça pública.
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+O desejo inicial de Roberto era internação em instituição especializada no tratamento de transtornos mentais, mas pela falta de vaga em instituição pública, ordenou a internação em asilo.
 
+Maria, irmã de Fábio, procura você, na qualidade de advogada(o) para impetrar a medida judicial cabível para sua liberação.
 
+Redija a peça judicial cabível, que deve conter argumentação jurídica apropriada e desenvolvimento dos fundamentos legais da matéria versada no problema. Não há necessidade de dilação probatória. (Valor: 5,00)
 
-
-
+*Obs.: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.*

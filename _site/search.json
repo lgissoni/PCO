@@ -219,6 +219,20 @@
       "last_modified": "2025-04-23T16:39:56-03:00"
     },
     {
+      "path": "pap_22.html",
+      "title": "PAP 2.2",
+      "description": "Habeas corpus\n",
+      "author": [
+        {
+          "name": "Luccas Gissoni",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nPrazo: 04/05\r\nFábio é portador de transtorno mental leve. Em determinada situação, Fábio foi internado, contra sua vontade, em asilo público do Município X. A ordem de internação foi expedida e mantida por Roberto, médico de hospital público municipal que atendeu Fábio após ele ter sido conduzido por ambulância que o encontrou desmaiado em praça pública.\r\nO desejo inicial de Roberto era internação em instituição especializada no tratamento de transtornos mentais, mas pela falta de vaga em instituição pública, ordenou a internação em asilo.\r\nMaria, irmã de Fábio, procura você, na qualidade de advogada(o) para impetrar a medida judicial cabível para sua liberação.\r\nRedija a peça judicial cabível, que deve conter argumentação jurídica apropriada e desenvolvimento dos fundamentos legais da matéria versada no problema. Não há necessidade de dilação probatória. (Valor: 5,00)\r\nObs.: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-04-28T18:00:42-03:00"
+    },
+    {
       "path": "programa.html",
       "title": "Progama da disciplina",
       "description": "1º semestre 2025\n",
