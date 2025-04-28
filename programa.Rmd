@@ -179,11 +179,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 11
 
+[**Notas de aula**](notas_11.html)  
+**Bibliografia:** @barroso_pratica_2024, cap. 2
+
 ## 28/04 - aula 11.1: *habeas corpus*
 
 ## 30/04 - aula 11.2: *habeas corpus*
 
-**PAP 2.2:** HC - oficina de peça profissional
+[**PAP 2.2:** HC - oficina de peça profissional](pap_22.html)  
+**Prazo:** 04/05
 
 # Semana 12
 
