@@ -11,12 +11,12 @@ csl: abnt.csl
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Semana 1
+## Semana 1
 
 [**Notas de aula**](notas_1.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## 12/02 - aula 1.1: introdução
+### 12/02 - aula 1.1: introdução
 
   1. Apresentação do curso
   1. Leitura do programa
@@ -25,12 +25,12 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Estudo de comportamento x estudo de regras
   
 
-# Semana 2
+## Semana 2
 
 [**Notas de aula**](notas_2.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## 17/02 - aula 2.1: processo legal e processo judicial
+### 17/02 - aula 2.1: processo legal e processo judicial
 
   1. Processo legal
   1. Processo judicial
@@ -43,7 +43,7 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Definição ampla
   1. O estudo do processo constitucional
 
-## 19/02 - aula 2.2: direito processual
+### 19/02 - aula 2.2: direito processual
 
   1. Normas processuais civis
       a. Eficácia da norma processual
@@ -53,12 +53,12 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Ação
       a. Competência
 
-# Semana 3
+## Semana 3
 
 [**Notas de aula**](notas_3.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## 24/02 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade
+### 24/02 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade
 
   1. Definição
       a. Conteúdo
@@ -71,18 +71,18 @@ knitr::opts_chunk$set(echo = FALSE)
           i. Controle difuso de constitucionalidade
           i. Controle concentrado de constitucionalidade
 
-## 26/02 - PAP 1.1
+### 26/02 - PAP 1.1
           
 [**PAP 1.1:** Marbury vs. Madison e a emergência do controle de constitucionalidade](pap_11.html)  
 **Prazo:** 05/03
 
-# Semana carnaval
+## Semana carnaval
 
 > 03/02 a 05/02 - recesso - carnaval
 
-# Semana 4
+## Semana 4
 
-## 10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
+### 10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
 
 [**Notas de aula**](notas_4.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 1
@@ -104,7 +104,7 @@ knitr::opts_chunk$set(echo = FALSE)
           i. Inconstitucionalidade superveniente
       
 
-## 12/03 - aula 4.2: processo constitucional
+### 12/03 - aula 4.2: processo constitucional
 
 [**Notas de aula**](notas_4_extra.html)  
 **Bibliografia:** @brasil_constituicao_1988; @mendes_curso_2024; @moraes_direito_2023 
@@ -121,102 +121,136 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Sanção e veto
   1. Promulgação e publicação
 
-# Semana 5
+## Semana 5
 
 [**Notas de aula**](notas_5.html)  
 **Bibliografia:** @barroso_pratica_2024, pp. 128-160
 
-## 17/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
+### 17/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
 
-## 19/03 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
+### 19/03 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
 
 [**PAP 1.2:** ADIn - oficina de peça profissional](pap_12.html)  
 **Prazo:** 23/03
 
-# Semana 6
+## Semana 6
 
 [**Notas de aula**](notas_6.html)  
 **Bibliografia:** @barroso_pratica_2024, pp. 149-172
 
-## 24/03 - aula 6.1: ação declaratória de constitucionalidade
+### 24/03 - aula 6.1: ação declaratória de constitucionalidade
 
-## 26/03 - aula 6.2: ação declaratória de constitucionalidade
+### 26/03 - aula 6.2: ação declaratória de constitucionalidade
 
 [**PAP 1.3:** ADC - oficina de peça profissional](pap_13.html)  
 **Prazo:** 06/04
 
-# Semana 7
+## Semana 7
 
-## 02/04 - PAT-1
+### 02/04 - PAT-1
 
-# Semana 8
+## Semana 8
 
-## 07/04 - aula 8.1: arguição de Descumprimento de Preceito Fundamental
+**Bibliografia:** @barroso_pratica_2024, pp. 183-194
 
-## 09/04 - aula 8.2: arguição de Descumprimento de Preceito Fundamental
+### 07/04 - aula 8.1: arguição de Descumprimento de Preceito Fundamental
+
+### 09/04 - aula 8.2: arguição de Descumprimento de Preceito Fundamental
 
 [**PAP 1.4:** ADPF - oficina de peça profissional](pap_14.html)  
 **Prazo:** 16/04
 
-# Semana 9
+## Semana 9
 
 [**Notas de aula**](notas_9.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 5
 
-## 14/04 - aula 9.1: métodos de interpretação constitucional
+### 14/04 - aula 9.1: correção da PAT-1
 
-  1. Controle de constitucionalidade incidental
-
-## 16/04 - aula 9.2: reclamação constitucional e súmula vinculante
+### 16/04 - aula 9.2: métodos de interpretação constitucional
+  
+  1.  Introdução  
+  1.  Métodos clássicos de interpretação  
+      a.  Interpretação textual (ou gramatical)
+      a.  Interpretação sistemática
+      a.  Interpretação histórica (teleologia subjetiva)
+      a.  Interpretação teleológica objetiva
+  1.  Problemas dos métodos interpretativos  
+  1.  Técnicas decisórias no controle de constitucionalidade  
+      a.  Interpretação conforme a Constituição
+      a.  Inconstitucionalidade parcial sem redução de texto
+      a.  Decisões manipulativas
+      a.  Apelo ao legislador
+  1.  Mutação constitucional  
+      a.  Caso emblemático: Reclamação 4.335
+  1.  Considerações finais 
 
 **PAP 2.1:** RC - oficina de peça profissional
 
-# Semana 10
+## Semana 10
 
 > 21/04 - feriado - Tiradentes
 
-## 23/04 - aula 10.1: remédios constitucionais
+[**Notas de aula**](notas_10.html) 
+**Bibliografia:** @barroso_pratica_2024, pp. 195-207
 
-# Semana 11
+### 23/04 - aula 10.1: reclamação constitucional e súmula vinculante
+
+[**PAP 2.1:** RC - oficina de peça profissional](pap_21.html)  
+**Prazo:** 27/04
+
+## Semana 11
 
 [**Notas de aula**](notas_11.html)  
-**Bibliografia:** @barroso_pratica_2024, cap. 2
+**Bibliografia:** @barroso_pratica_2024, pp. 21-30
 
-## 28/04 - aula 11.1: *habeas corpus*
+### 28/04 - aula 11.1: *habeas corpus*
 
-## 30/04 - aula 11.2: *habeas corpus*
+### 30/04 - aula 11.2: *habeas corpus*
 
 [**PAP 2.2:** HC - oficina de peça profissional](pap_22.html)  
 **Prazo:** 04/05
 
-# Semana 12
+## Semana 12
 
-## 05/05 - aula 12.1: mandado de segurança
+[**Notas de aula**](notas_12.html)  
+**Bibliografia:** @barroso_pratica_2024, pp. 61-88
 
-## 07/05 - aula 12.2: mandado de segurança
+### 05/05 - aula 12.1: mandado de segurança individual
 
-**PAP 2.3:** MS - oficina de peça profissional
+### 07/05 - aula 12.2: mandado de segurança coletivo
 
-# Semana 13
+[**PAP 2.3:** MS - oficina de peça profissional](pap23.html)  
+**Prazo:** 11/05
+
+## Semana 13
 
 > 12/05 a 16/05 - semana acadêmica
 
-# Semana 14
+## Semana 14
 
-## 19/05 - aula 14.1: ação popular
+[**Notas de aula**](notas_14.html)  
+**Bibliografia:** @barroso_pratica_2024, pp. 89-105
 
-## 21/05 - aula 14.2: ação popular
+### 19/05 - aula 14.1: ação popular
 
-**PAP 2.4:** AP - oficina de peça profissional
+### 21/05 - aula 14.2: ação popular
 
-# Semana 15
+[**PAP 2.4:** AP - oficina de peça profissional](pap24.html)  
+**Prazo:** 01/06
 
-## 26/05 - PAT-2
+## Semana 15
 
-# Semana 16
+### 26/05 - mandado de injunção
 
-## 02/06 - SUB
+### 28/05 - PAT-2
 
-# Semana 17
+## Semana 16
 
-## 09/06 - EXAME
+### 02/06 - *habeas data*
+
+### 04/06 - SUB
+
+## Semana 17
+
+### 11/06 - EXAME

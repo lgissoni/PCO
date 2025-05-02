@@ -20,9 +20,8 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-html { -webkit-text-size-adjust: 100%; }
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -33,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -487,8 +486,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
   <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
@@ -2496,7 +2495,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2632,12 +2631,12 @@ PAPs
 </ul></li>
 <li><a href="#semana-9" id="toc-semana-9">Semana 9</a>
 <ul>
-<li><a href="#aula-9.1-métodos-de-interpretação-constitucional" id="toc-aula-9.1-métodos-de-interpretação-constitucional">14/04 - aula 9.1: métodos de interpretação constitucional</a></li>
-<li><a href="#aula-9.2-reclamação-constitucional-e-súmula-vinculante" id="toc-aula-9.2-reclamação-constitucional-e-súmula-vinculante">16/04 - aula 9.2: reclamação constitucional e súmula vinculante</a></li>
+<li><a href="#aula-9.1-correção-da-pat-1" id="toc-aula-9.1-correção-da-pat-1">14/04 - aula 9.1: correção da PAT-1</a></li>
+<li><a href="#aula-9.2-métodos-de-interpretação-constitucional" id="toc-aula-9.2-métodos-de-interpretação-constitucional">16/04 - aula 9.2: métodos de interpretação constitucional</a></li>
 </ul></li>
 <li><a href="#semana-10" id="toc-semana-10">Semana 10</a>
 <ul>
-<li><a href="#aula-10.1-remédios-constitucionais" id="toc-aula-10.1-remédios-constitucionais">23/04 - aula 10.1: remédios constitucionais</a></li>
+<li><a href="#aula-10.1-reclamação-constitucional-e-súmula-vinculante" id="toc-aula-10.1-reclamação-constitucional-e-súmula-vinculante">23/04 - aula 10.1: reclamação constitucional e súmula vinculante</a></li>
 </ul></li>
 <li><a href="#semana-11" id="toc-semana-11">Semana 11</a>
 <ul>
@@ -2646,8 +2645,8 @@ PAPs
 </ul></li>
 <li><a href="#semana-12" id="toc-semana-12">Semana 12</a>
 <ul>
-<li><a href="#aula-12.1-mandado-de-segurança" id="toc-aula-12.1-mandado-de-segurança">05/05 - aula 12.1: mandado de segurança</a></li>
-<li><a href="#aula-12.2-mandado-de-segurança" id="toc-aula-12.2-mandado-de-segurança">07/05 - aula 12.2: mandado de segurança</a></li>
+<li><a href="#aula-12.1-mandado-de-segurança-individual" id="toc-aula-12.1-mandado-de-segurança-individual">05/05 - aula 12.1: mandado de segurança individual</a></li>
+<li><a href="#aula-12.2-mandado-de-segurança-coletivo" id="toc-aula-12.2-mandado-de-segurança-coletivo">07/05 - aula 12.2: mandado de segurança coletivo</a></li>
 </ul></li>
 <li><a href="#semana-13" id="toc-semana-13">Semana 13</a></li>
 <li><a href="#semana-14" id="toc-semana-14">Semana 14</a>
@@ -2657,23 +2656,25 @@ PAPs
 </ul></li>
 <li><a href="#semana-15" id="toc-semana-15">Semana 15</a>
 <ul>
-<li><a href="#pat-2" id="toc-pat-2">26/05 - PAT-2</a></li>
+<li><a href="#mandado-de-injunção" id="toc-mandado-de-injunção">26/05 - mandado de injunção</a></li>
+<li><a href="#pat-2" id="toc-pat-2">28/05 - PAT-2</a></li>
 </ul></li>
 <li><a href="#semana-16" id="toc-semana-16">Semana 16</a>
 <ul>
-<li><a href="#sub" id="toc-sub">02/06 - SUB</a></li>
+<li><a href="#habeas-data" id="toc-habeas-data">02/06 - <em>habeas data</em></a></li>
+<li><a href="#sub" id="toc-sub">04/06 - SUB</a></li>
 </ul></li>
 <li><a href="#semana-17" id="toc-semana-17">Semana 17</a>
 <ul>
-<li><a href="#exame" id="toc-exame">09/06 - EXAME</a></li>
+<li><a href="#exame" id="toc-exame">11/06 - EXAME</a></li>
 </ul></li>
 </ul>
 </nav>
 </div>
-<h1 id="semana-1">Semana 1</h1>
+<h2 id="semana-1">Semana 1</h2>
 <p><a href="notas_1.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="dimoulis_curso_2016">DIMOULIS; LUNARDI (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span>, cap. 1</p>
-<h2 id="aula-1.1-introdução">12/02 - aula 1.1: introdução</h2>
+<h3 id="aula-1.1-introdução">12/02 - aula 1.1: introdução</h3>
 <ol type="1">
 <li>Apresentação do curso</li>
 <li>Leitura do programa</li>
@@ -2683,10 +2684,10 @@ PAPs
 <li>Estudo de comportamento x estudo de regras</li>
 </ol></li>
 </ol>
-<h1 id="semana-2">Semana 2</h1>
+<h2 id="semana-2">Semana 2</h2>
 <p><a href="notas_2.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="dimoulis_curso_2016">DIMOULIS; LUNARDI (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span>, cap. 1</p>
-<h2 id="aula-2.1-processo-legal-e-processo-judicial">17/02 - aula 2.1: processo legal e processo judicial</h2>
+<h3 id="aula-2.1-processo-legal-e-processo-judicial">17/02 - aula 2.1: processo legal e processo judicial</h3>
 <ol type="1">
 <li>Processo legal</li>
 <li>Processo judicial
@@ -2703,7 +2704,7 @@ PAPs
 </ol></li>
 <li>O estudo do processo constitucional</li>
 </ol>
-<h2 id="aula-2.2-direito-processual">19/02 - aula 2.2: direito processual</h2>
+<h3 id="aula-2.2-direito-processual">19/02 - aula 2.2: direito processual</h3>
 <ol type="1">
 <li>Normas processuais civis
 <ol type="a">
@@ -2717,10 +2718,10 @@ PAPs
 <li>Competência</li>
 </ol></li>
 </ol>
-<h1 id="semana-3">Semana 3</h1>
+<h2 id="semana-3">Semana 3</h2>
 <p><a href="notas_3.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="dimoulis_curso_2016">DIMOULIS; LUNARDI (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span>, cap. 1</p>
-<h2 id="aula-3.2-a-supremacia-da-constituição-e-o-controle-de-constitucionalidade">24/02 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade</h2>
+<h3 id="aula-3.2-a-supremacia-da-constituição-e-o-controle-de-constitucionalidade">24/02 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade</h3>
 <ol type="1">
 <li>Definição
 <ol type="a">
@@ -2739,15 +2740,15 @@ PAPs
 </ol></li>
 </ol></li>
 </ol>
-<h2 id="pap-1.1">26/02 - PAP 1.1</h2>
+<h3 id="pap-1.1">26/02 - PAP 1.1</h3>
 <p><a href="pap_11.html"><strong>PAP 1.1:</strong> Marbury vs. Madison e a emergência do controle de constitucionalidade</a><br />
 <strong>Prazo:</strong> 05/03</p>
-<h1 id="semana-carnaval">Semana carnaval</h1>
+<h2 id="semana-carnaval">Semana carnaval</h2>
 <blockquote>
 <p>03/02 a 05/02 - recesso - carnaval</p>
 </blockquote>
-<h1 id="semana-4">Semana 4</h1>
-<h2 id="aula-4.1-inconstitucionalidade-e-controle-de-constitucionalidade">10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade</h2>
+<h2 id="semana-4">Semana 4</h2>
+<h3 id="aula-4.1-inconstitucionalidade-e-controle-de-constitucionalidade">10/03 - aula 4.1: inconstitucionalidade e controle de constitucionalidade</h3>
 <p><a href="notas_4.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="dimoulis_curso_2016">DIMOULIS; LUNARDI (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span>, cap. 1</p>
 <ol type="1">
@@ -2779,7 +2780,7 @@ PAPs
 </ol></li>
 </ol></li>
 </ol>
-<h2 id="aula-4.2-processo-constitucional">12/03 - aula 4.2: processo constitucional</h2>
+<h3 id="aula-4.2-processo-constitucional">12/03 - aula 4.2: processo constitucional</h3>
 <p><a href="notas_4_extra.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="brasil_constituicao_1988">BRASIL (<a href="#ref-brasil_constituicao_1988" role="doc-biblioref">1988</a>)</span>; <span class="citation" data-cites="mendes_curso_2024">MENDES; BRANCO (<a href="#ref-mendes_curso_2024" role="doc-biblioref">2024</a>)</span>; <span class="citation" data-cites="moraes_direito_2023">MORAES (<a href="#ref-moraes_direito_2023" role="doc-biblioref">2023</a>)</span></p>
 <ol type="1">
@@ -2799,66 +2800,101 @@ PAPs
 <li>Sanção e veto</li>
 <li>Promulgação e publicação</li>
 </ol>
-<h1 id="semana-5">Semana 5</h1>
+<h2 id="semana-5">Semana 5</h2>
 <p><a href="notas_5.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, pp. 128-160</p>
-<h2 id="aula-5.1-ação-direta-de-inconstitucionalidade-e-ação-direta-de-inconstitucionalidade-por-omissão">17/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão</h2>
-<h2 id="aula-5.2-ação-direta-de-inconstitucionalidade-e-ação-direta-de-inconstitucionalidade-por-omissão">19/03 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão</h2>
+<h3 id="aula-5.1-ação-direta-de-inconstitucionalidade-e-ação-direta-de-inconstitucionalidade-por-omissão">17/03 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão</h3>
+<h3 id="aula-5.2-ação-direta-de-inconstitucionalidade-e-ação-direta-de-inconstitucionalidade-por-omissão">19/03 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão</h3>
 <p><a href="pap_12.html"><strong>PAP 1.2:</strong> ADIn - oficina de peça profissional</a><br />
 <strong>Prazo:</strong> 23/03</p>
-<h1 id="semana-6">Semana 6</h1>
+<h2 id="semana-6">Semana 6</h2>
 <p><a href="notas_6.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, pp. 149-172</p>
-<h2 id="aula-6.1-ação-declaratória-de-constitucionalidade">24/03 - aula 6.1: ação declaratória de constitucionalidade</h2>
-<h2 id="aula-6.2-ação-declaratória-de-constitucionalidade">26/03 - aula 6.2: ação declaratória de constitucionalidade</h2>
+<h3 id="aula-6.1-ação-declaratória-de-constitucionalidade">24/03 - aula 6.1: ação declaratória de constitucionalidade</h3>
+<h3 id="aula-6.2-ação-declaratória-de-constitucionalidade">26/03 - aula 6.2: ação declaratória de constitucionalidade</h3>
 <p><a href="pap_13.html"><strong>PAP 1.3:</strong> ADC - oficina de peça profissional</a><br />
 <strong>Prazo:</strong> 06/04</p>
-<h1 id="semana-7">Semana 7</h1>
-<h2 id="pat-1">02/04 - PAT-1</h2>
-<h1 id="semana-8">Semana 8</h1>
-<h2 id="aula-8.1-arguição-de-descumprimento-de-preceito-fundamental">07/04 - aula 8.1: arguição de Descumprimento de Preceito Fundamental</h2>
-<h2 id="aula-8.2-arguição-de-descumprimento-de-preceito-fundamental">09/04 - aula 8.2: arguição de Descumprimento de Preceito Fundamental</h2>
+<h2 id="semana-7">Semana 7</h2>
+<h3 id="pat-1">02/04 - PAT-1</h3>
+<h2 id="semana-8">Semana 8</h2>
+<p><strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, pp. 183-194</p>
+<h3 id="aula-8.1-arguição-de-descumprimento-de-preceito-fundamental">07/04 - aula 8.1: arguição de Descumprimento de Preceito Fundamental</h3>
+<h3 id="aula-8.2-arguição-de-descumprimento-de-preceito-fundamental">09/04 - aula 8.2: arguição de Descumprimento de Preceito Fundamental</h3>
 <p><a href="pap_14.html"><strong>PAP 1.4:</strong> ADPF - oficina de peça profissional</a><br />
 <strong>Prazo:</strong> 16/04</p>
-<h1 id="semana-9">Semana 9</h1>
+<h2 id="semana-9">Semana 9</h2>
 <p><a href="notas_9.html"><strong>Notas de aula</strong></a><br />
 <strong>Bibliografia:</strong> <span class="citation" data-cites="dimoulis_curso_2016">DIMOULIS; LUNARDI (<a href="#ref-dimoulis_curso_2016" role="doc-biblioref">2016</a>)</span>, cap. 5</p>
-<h2 id="aula-9.1-métodos-de-interpretação-constitucional">14/04 - aula 9.1: métodos de interpretação constitucional</h2>
+<h3 id="aula-9.1-correção-da-pat-1">14/04 - aula 9.1: correção da PAT-1</h3>
+<h3 id="aula-9.2-métodos-de-interpretação-constitucional">16/04 - aula 9.2: métodos de interpretação constitucional</h3>
 <ol type="1">
-<li>Controle de constitucionalidade incidental</li>
+<li>Introdução<br />
+</li>
+<li>Métodos clássicos de interpretação
+<ol type="a">
+<li>Interpretação textual (ou gramatical)</li>
+<li>Interpretação sistemática</li>
+<li>Interpretação histórica (teleologia subjetiva)</li>
+<li>Interpretação teleológica objetiva</li>
+</ol></li>
+<li>Problemas dos métodos interpretativos<br />
+</li>
+<li>Técnicas decisórias no controle de constitucionalidade
+<ol type="a">
+<li>Interpretação conforme a Constituição</li>
+<li>Inconstitucionalidade parcial sem redução de texto</li>
+<li>Decisões manipulativas</li>
+<li>Apelo ao legislador</li>
+</ol></li>
+<li>Mutação constitucional
+<ol type="a">
+<li>Caso emblemático: Reclamação 4.335</li>
+</ol></li>
+<li>Considerações finais</li>
 </ol>
-<h2 id="aula-9.2-reclamação-constitucional-e-súmula-vinculante">16/04 - aula 9.2: reclamação constitucional e súmula vinculante</h2>
 <p><strong>PAP 2.1:</strong> RC - oficina de peça profissional</p>
-<h1 id="semana-10">Semana 10</h1>
+<h2 id="semana-10">Semana 10</h2>
 <blockquote>
 <p>21/04 - feriado - Tiradentes</p>
 </blockquote>
-<h2 id="aula-10.1-remédios-constitucionais">23/04 - aula 10.1: remédios constitucionais</h2>
-<h1 id="semana-11">Semana 11</h1>
+<p><a href="notas_10.html"><strong>Notas de aula</strong></a>
+<strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, pp. 195-207</p>
+<h3 id="aula-10.1-reclamação-constitucional-e-súmula-vinculante">23/04 - aula 10.1: reclamação constitucional e súmula vinculante</h3>
+<p><a href="pap_21.html"><strong>PAP 2.1:</strong> RC - oficina de peça profissional</a><br />
+<strong>Prazo:</strong> 27/04</p>
+<h2 id="semana-11">Semana 11</h2>
 <p><a href="notas_11.html"><strong>Notas de aula</strong></a><br />
-<strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, cap. 2</p>
-<h2 id="aula-11.1-habeas-corpus">28/04 - aula 11.1: <em>habeas corpus</em></h2>
-<h2 id="aula-11.2-habeas-corpus">30/04 - aula 11.2: <em>habeas corpus</em></h2>
+<strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, pp. 21-30</p>
+<h3 id="aula-11.1-habeas-corpus">28/04 - aula 11.1: <em>habeas corpus</em></h3>
+<h3 id="aula-11.2-habeas-corpus">30/04 - aula 11.2: <em>habeas corpus</em></h3>
 <p><a href="pap_22.html"><strong>PAP 2.2:</strong> HC - oficina de peça profissional</a><br />
 <strong>Prazo:</strong> 04/05</p>
-<h1 id="semana-12">Semana 12</h1>
-<h2 id="aula-12.1-mandado-de-segurança">05/05 - aula 12.1: mandado de segurança</h2>
-<h2 id="aula-12.2-mandado-de-segurança">07/05 - aula 12.2: mandado de segurança</h2>
-<p><strong>PAP 2.3:</strong> MS - oficina de peça profissional</p>
-<h1 id="semana-13">Semana 13</h1>
+<h2 id="semana-12">Semana 12</h2>
+<p><a href="notas_12.html"><strong>Notas de aula</strong></a><br />
+<strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, pp. 61-88</p>
+<h3 id="aula-12.1-mandado-de-segurança-individual">05/05 - aula 12.1: mandado de segurança individual</h3>
+<h3 id="aula-12.2-mandado-de-segurança-coletivo">07/05 - aula 12.2: mandado de segurança coletivo</h3>
+<p><a href="pap23.html"><strong>PAP 2.3:</strong> MS - oficina de peça profissional</a><br />
+<strong>Prazo:</strong> 11/05</p>
+<h2 id="semana-13">Semana 13</h2>
 <blockquote>
 <p>12/05 a 16/05 - semana acadêmica</p>
 </blockquote>
-<h1 id="semana-14">Semana 14</h1>
-<h2 id="aula-14.1-ação-popular">19/05 - aula 14.1: ação popular</h2>
-<h2 id="aula-14.2-ação-popular">21/05 - aula 14.2: ação popular</h2>
-<p><strong>PAP 2.4:</strong> AP - oficina de peça profissional</p>
-<h1 id="semana-15">Semana 15</h1>
-<h2 id="pat-2">26/05 - PAT-2</h2>
-<h1 id="semana-16">Semana 16</h1>
-<h2 id="sub">02/06 - SUB</h2>
-<h1 id="semana-17">Semana 17</h1>
-<h2 id="exame">09/06 - EXAME</h2>
+<h2 id="semana-14">Semana 14</h2>
+<p><a href="notas_14.html"><strong>Notas de aula</strong></a><br />
+<strong>Bibliografia:</strong> <span class="citation" data-cites="barroso_pratica_2024">LAMOUNIER; BARROSO; CHALITA (<a href="#ref-barroso_pratica_2024" role="doc-biblioref">2024</a>)</span>, pp. 89-105</p>
+<h3 id="aula-14.1-ação-popular">19/05 - aula 14.1: ação popular</h3>
+<h3 id="aula-14.2-ação-popular">21/05 - aula 14.2: ação popular</h3>
+<p><a href="pap24.html"><strong>PAP 2.4:</strong> AP - oficina de peça profissional</a><br />
+<strong>Prazo:</strong> 01/06</p>
+<h2 id="semana-15">Semana 15</h2>
+<h3 id="mandado-de-injunção">26/05 - mandado de injunção</h3>
+<h3 id="pat-2">28/05 - PAT-2</h3>
+<h2 id="semana-16">Semana 16</h2>
+<h3 id="habeas-data">02/06 - <em>habeas data</em></h3>
+<h3 id="sub">04/06 - SUB</h3>
+<h2 id="semana-17">Semana 17</h2>
+<h3 id="exame">11/06 - EXAME</h3>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
 <div id="ref-brasil_constituicao_1988" class="csl-entry" role="listitem">
