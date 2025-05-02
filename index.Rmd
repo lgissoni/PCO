@@ -19,7 +19,7 @@ Bem vindos/as!
 
 Este é o site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Universidade Zumbi dos Palmares
 
-# Informações básicas
+## Informações básicas
 
 - **Período:** primeiro semestre, 2025
 - **Sala:** a definir
@@ -28,24 +28,24 @@ Este é o site da disciplina "processo constitucional", do 6º semestre do bacha
   - quartas, 19h00-20h40
 - **Professor:** Luccas Gissoni
 
-# Apresentação
+## Apresentação
 
 Todos nós conhecemos o direito constitucional: ele abriga os direitos fundamentais, a organização do Estado e a regulação da atividade econômica. Na intersecção dessas três áreas, está o programa de construção do Estado de bem estar social em nosso país. Contudo, como todo direito, não basta ao constitucional a positivação na lei: para ser efetivo, é necessária a previsão de ações judiciais que façam cumprir o direito.
 Assim, além de direitos subjetivos materiais, a Constituição da República prevê uma série de possibilidades de provocação do Poder Judiciário cujo objetico é fazer valer os preceitos constitucionais. Ao conjunto desses direito de ação e ao procedimento judicial específico que eles conformam, chamamos **processo constitucional**.
 O objetivo deste curso é entender esse processo. Mas, de início, iremos discutir o que é "processo", antes de adentrar o terreno do processo especificamente constitucional. O foco desta primeira parte do curso será teórico e histórico. Na segunda parte, apresentaremos procedimentos constitucionais especiais e praticaremos a redação de suas peças profissionais conforme as regras do Exame de Ordem da OAB.
 
-## Objetivos
+### Objetivos
 
 - Compreender o papel do processo constitucional na efetivação dos direitos e garantias fundamentais previstos na Constituição.
 - Desenvolver a capacidade de análise crítica sobre a atuação do Poder Judiciário na concretização das normas constitucionais.
 - Estudar os principais instrumentos processuais constitucionais, como mandado de segurança, habeas corpus, mandado de injunção, ação popular, ADI, ADC, ADPF, entre outros.
 - Aprimorar a técnica de redação de peças processuais exigidas no **Exame de Ordem**.
 
-## Metodologia
+### Metodologia
 
 O curso contará com **aulas expositivas**, momentos de reflexão individual e **produção textual** a partir do material bibliográfico fornecido. Além disso, serão produzidas **peças técnicas** de direito processual constitucional com foco no conteúdo e forma cobrados no **Exame de Ordem**.
 
-## Bibliografia
+### Bibliografia
 
 ```{r}
 #biblio <- bibtex::read.bib("biliografia.bib")
@@ -53,13 +53,13 @@ O curso contará com **aulas expositivas**, momentos de reflexão individual e *
 #`r capture.output(print(biblio["brasil_constituicao_1988"]))`
 ```
 
-### Bibliografia básica
+#### Bibliografia básica
 
 @brasil_constituicao_1988  
 @barroso_pratica_2024  
 @dimoulis_curso_2016
 
-### Bibliografia complementar
+#### Bibliografia complementar
 
 @assis_processo_2015  
 @brasil_lei_1999  
@@ -70,63 +70,61 @@ O curso contará com **aulas expositivas**, momentos de reflexão individual e *
 @moraes_direito_2023  
 @padilha_como_2014  
 
-## Referências adicionais
+### Referências adicionais
 
 Para aprofundamento nos temas abordados ao longo do curso, recomenda-se a consulta às seguintes fontes:
 
 - [Supremo Tribunal Federal (STF)](https://www.stf.jus.br)
 - [Superior Tribunal de Justiça (STJ)](https://www.stj.jus.br)
 - [Conselho Nacional de Justiça (CNJ)](https://www.cnj.jus.br)
-- [Legislação Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) – Constituição Federal e leis correlatas.
+- [Legislação Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)  
 
 Além disso, podemos visualizar [aqui](https://trilhante.com.br/novidade/estatisticas-oab-2a-fase) estatícas sobre as peças mais cobradas na segunda fase do Exame de Ordem.
 
-# Estrutura do curso
+## Estrutura do curso
 
-## Aulas, leituras e materiais
+### Aulas, leituras e materiais
 
 Teremos momentos de aulas expositivo-dialogadas em que discutiremos a bibliografia do curso. Neste site, também estarão disponíveis as notas de aula, elaboradas pelo professor, que servirão de material de apoio. A leitura de ambos os materiais é obigatória.
 
-## Avaliação
+### Avaliação
 
-### Tipos de avaliação
+#### Tipos de avaliação
 
 Em nossa Universidade, cada bimestre conta com o Processo de Avaliação Teórico **(PAT)**, valendo 7 pontos, e o Processo de Avaliação Prático **(PAP)**, que vale 3 pontos. Neste curso, teremos, em cada bimestre, uma PAT mais quatro trabalhos que comporão a PAP, conforme descrito abaixo.
 
 A nota final do bimestre será igual à soma da nota obtida na PAT com a obtida na PAP. A nota final será a **média aritmética** dos dois bimestres e haverá possibilidade de realização de **prova substitutiva** e **exame**.
 
-#### PAP
+###### PAP
 
 As PAP constituirão 4 atividades ou trabalhos escritos individuais por bimestre. Cada uma valerá **1 ponto** e a pior nota será **descartada**. As PAP serão realizadas em casa. Em geral, o **prazo** de entrega da atividade será no **domingo seguinte** à sua explicação em sala. Os textos devem ser obrigatoriamente digitados e entregues (em pdf, odt ou doc) no email [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com), com assunto **"PCO - PAP x.y - NOME DO/A ESTUDANTE"**, onde "x.y" é a numeração da PAP.
 Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda parte, elas serão constituídas pela prática de redação das peças profissionais do processo constitucional conforme o Exame de Ordem. As PAP serão realizadas em sala ou em casa, conforme o caso.
 
-#### PAT
+###### PAT
 
 As PAT serão constituídas por dez **questões objetivas** valendo **5 pontos** e uma ou duas **questões dissertativas** valendo **2 pontos**. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.
 
-### Critérios de Avaliação
+#### Critérios de Avaliação
 
-As avaliações serão avaliadas com base nos seguintes critérios: 
-- **Clareza** e **coerência argumentativa**  
-- **Precisão conceitual** e **fundamentação jurídica**  
-- **Originalidade da análise** e **uso de referências adequadas**  
+As avaliações serão avaliadas com base nos seguintes critérios:  
+- Clareza e coerência argumentativa;  
+- Precisão conceitual e fundamentação jurídica;  
+- Originalidade da análise e uso de referências adequadas.  
 
-### Critérios de Avaliação Adicionais
+#### Critérios de Avaliação Adicionais
 
 Além dos critérios já mencionados, as avaliações escritas que envolvem a redação de peças processuais serão analisadas conforme os seguintes parâmetros:
 
-- **Adequação à estrutura exigida** para a peça processual.
-- **Domínio da terminologia jurídica e uso correto da norma culta**.
-- **Correção na fundamentação jurídica** com base na Constituição Federal e na jurisprudência dos tribunais superiores.
+- Adequação à **estrutura exigida** para a peça processual;
+- Domínio da **terminologia jurídica** e uso correto da norma culta;
+- Correção na **fundamentação jurídica** com base na Constituição Federal e na jurisprudência dos tribunais superiores;
 - **Capacidade argumentativa** e **coerência** na construção da peça.
 
-# Plágio e uso indevido de IA em atividades acadêmicas
+## Plágio e uso indevido de IA em atividades acadêmicas
 
-Prezados(as) alunos(as),  
+O compromisso com a **autenticidade e integridade acadêmica** é essencial para o aprendizado e desenvolvimento profissional. O uso indevido de **inteligência artificial (IA)** e a prática de **plágio** comprometem esse princípio e terão **consequências rigorosas**.
 
-O compromisso com a **autenticidade e integridade acadêmica** é essencial para seu aprendizado e desenvolvimento profissional. O uso indevido de **inteligência artificial (IA)** e a prática de **plágio** comprometem esse princípio e terão **consequências rigorosas**.
-
-## Plágio
+### Plágio
 
 De acordo com o **art. 184** do **Código Penal** e normas acadêmicas, **apresentar como sua uma produção intelectual alheia, sem a devida citação, configura plágio**. Isso inclui:  
 
@@ -134,35 +132,41 @@ De acordo com o **art. 184** do **Código Penal** e normas acadêmicas, **aprese
 - Parafrasear um texto sem indicar a fonte;  
 - Apresentar como próprio um trabalho feito por terceiros.  
 
-> **As atividades plagiadas serão anuladas e atribuídas nota zero.**
+<div class="warning" style='background-color: #fff3cd; color: #856404; border-left: solid #ffeeba 4px; border-radius: 4px; padding:0.7em;'>
+⚠️ <strong>Atenção:</strong> as atividades plagiadas serão anuladas e a nota atribuída será zero.
+</div>
 
-## Uso de inteligência artificial  
+### Uso de inteligência artificial  
 
 Ferramentas de IA podem auxiliar na pesquisa, mas **não substituem a construção do conhecimento próprio**. O uso de IA para gerar respostas prejudica sua autonomia acadêmica e seu preparo para avaliações futuras, como o **Exame de Ordem** e o **ENADE**, onde tais ferramentas não estarão disponíveis.  
 
-> **A identificação do uso não autorizado de IA resultará na anulação da atividade.**
+<div class="warning" style='background-color: #fff3cd; color: #856404; border-left: solid #ffeeba 4px; border-radius: 4px; padding:0.7em;'>
+⚠️ <strong>Atenção:</strong> A identificação do uso não autorizado de IA resultará na anulação da atividade e atribuição de nota zero.
+</div>
 
-## Como garantir a originalidade do seu trabalho?
+### Como garantir a originalidade do seu trabalho?
 
 - Desenvolva suas respostas com base no material estudado e em sua própria reflexão;  
--️ Utilize fontes acadêmicas confiáveis e cite corretamente todas as referências;  
+
+- Utilize fontes acadêmicas confiáveis e cite corretamente todas as referências;  
+
 - Se tiver dúvidas sobre citação e integridade acadêmica, consulte o professor antes de entregar o trabalho.  
 
-## Conscientização e compromisso  
+### Conscientização e compromisso  
 
 A universidade valoriza a **produção autoral e o pensamento crítico**. O objetivo das atividades acadêmicas é fortalecer suas habilidades de argumentação, escrita e análise, que serão essenciais para sua trajetória profissional.  
 
  **Seja responsável pelo seu aprendizado!** Trabalhos autênticos refletem seu crescimento e garantem que você esteja verdadeiramente preparado para os desafios da carreira jurídica.  
 
-### 📬 Dúvidas? Entre em contato!  
+#### 📬 Dúvidas? Entre em contato!  
 
 Todo contato pode ser estabelecido através e-mail [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com) ou durante os horários das aulas.
 
-# Sobre o professor
+## Sobre o professor
 
 Possui graduação em Direito pela Universidade de São Paulo (2015), graduação em Filosofia pela Pontifícia Universidade Católica de São Paulo (2012) e mestrado em Economia Política Mundial pela Universidade Federal do ABC (2020). No momento, está no doutorado também por este mesmo programa. É pós-graduado em Processo Civil pela Fundação Getulio Vargas (2019). Atualmente é Professor de Direito na Universidade Zumbi dos Palmares, Analista de Políticas Públicas e Gestão Governamental na Secretaria Municipal de Mobilidade Urbana e Trânsito da Prefeitura de São Paulo e professor voluntário na Uneafro. Constrói o projeto "Novo Bandung: grupo de estudos sobre descolonização e emergência do Sul: África, Ásia e América Latina" na UFABC, bem como a Agrarian South Network, em Harare, Zimbábue, desenvolvendo pesquisa sobre a formação econômica e social do Brasil e da China. Foi coordenador de direito econômico e economia política da Comissão de Graduação, Pós-Graduação e Pesquisa da OAB/SP. Tem experiência nas áreas de Economia Política Mundial, Planejamento de Transportes, Filosofia e Direito, atuando principalmente nos seguintes temas: história econômica, teoria geral do direito, formação econômica e social do Brasil, história da África, desenvolvimento econômico e geopolítica na Ásia, segurança viária e planejamento cicloviário. Advogado em São Paulo.
 
-## Perfis acadêmicos e redes sociais
+### Perfis acadêmicos e redes sociais
 
 ![](images/lattes.png){ width=2.5% } [Lattes](http://lattes.cnpq.br/3169916414077985)  
 <i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0003-3564-6269)  
