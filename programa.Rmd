@@ -232,12 +232,12 @@ knitr::opts_chunk$set(echo = FALSE)
 [**Notas de aula**](notas_14.html)  
 **Bibliografia:** @barroso_pratica_2024, pp. 89-105
 
-### 19/05 - aula 14.1: ação popular
-
-### 21/05 - aula 14.2: ação popular
+### 19/05 - aula 14: ação popular
 
 [**PAP 2.4:** AP - oficina de peça profissional](pap24.html)  
 **Prazo:** 01/06
+
+### 21/05 - aplicação do simulado
 
 ## Semana 15
 
