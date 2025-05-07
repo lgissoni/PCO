@@ -1,0 +1,27 @@
+---
+title: "PAP 2.3"
+description: |
+  Mandado de segurança
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: pco.bib
+csl: abnt.csl
+---
+
+**Prazo: 11/05**
+
+**(XXIII Exame de Ordem Unificado)** Edson, idoso aposentado por invalidez pelo regime geral de previdência social, recebe um salário mínimo por mês. Durante mais de três décadas, esteve exposto a agentes nocivos à saúde e foi acometido por doença que exige o uso contínuo de medicamento controlado, cuja ministração fora da forma exigida pode colocar em risco a sua vida.
+
+Em razão de sua situação pessoal, todo dia 5 comparece ao posto de saúde existente na localidade em que reside, retirando a quantidade necessária do medicamento para os próximos 30 dias. No último dia 5, foi informado, pelo Diretor do referido posto, que a central de distribuição não entregara o medicamento, já que o Município, em razão da crise financeira, não pagava os fornecedores havia cerca de seis meses.
+
+Inconformado com a informação recebida, Edson formulou, logo no dia seguinte, requerimento endereçado ao Secretário Municipal de Saúde, autoridade responsável pela administração das dotações orçamentárias destinadas à área de saúde e pela aquisição dos medicamentos encaminhados à central de distribuição, órgão por ele dirigido. Na ocasião, esclareceu que a ausência do medicamento poderia colocar em risco sua própria vida. Em resposta escrita, o Secretário reconheceu que Edson tinha necessidade do medicamento, o que fora documentado pelos médicos do posto de saúde, e informou que estavam sendo adotadas as providências necessárias à solução da questão, mas que tal somente ocorreria dali a 160 (cento e sessenta) dias, quando o governador do Estado prometera repassar receitas a serem aplicadas à saúde municipal. Nesse meio-tempo, sugeriu que Edson procurasse o serviço de emergência sempre que o seu estado de saúde apresentasse alguma piora.
+
+Edson, de posse de toda a prova documental que por si só basta para demonstrar os fatos narrados, em especial a resposta do Secretário Municipal de Saúde, procura você, uma semana depois, para contratar seus serviços como advogado(a), solicitando o ajuizamento da medida judicial que ofereça resultados mais céleres, sem necessidade de longa instrução probatória, para que consiga obter o medicamento de que necessita.
+
+Levando em consideração as informações expostas, ciente da desnecessidade da dilação probatória, elabore a medida judicial adequada, com todos os fundamentos jurídicos que conferem sustentação ao direito de Edson. (Valor: 1,00)
+
+*Obs.: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.*

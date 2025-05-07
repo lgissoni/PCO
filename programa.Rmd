@@ -220,7 +220,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### 07/05 - aula 12.2: mandado de segurança coletivo
 
-[**PAP 2.3:** MS - oficina de peça profissional](pap23.html)  
+[**PAP 2.3:** MS - oficina de peça profissional](pap_23.html)  
 **Prazo:** 11/05
 
 ## Semana 13
