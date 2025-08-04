@@ -21,11 +21,11 @@ Este é o site da disciplina "processo constitucional", do 6º semestre do bacha
 
 ## Informações básicas
 
-- **Período:** primeiro semestre, 2025
+- **Período:** segundo semestre, 2025
 - **Sala:** a definir
 - **Horários:**
-  - segundas, 21h00-22h35
-  - quartas, 19h00-20h40
+  - segundas, 19h00-20h40
+  - sextas, 19h00-20h40
 - **Professor:** Luccas Gissoni
 
 ## Apresentação
