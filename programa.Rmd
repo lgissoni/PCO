@@ -54,52 +54,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Semana 3
 
-[**Notas de aula**](notas_3.html)  
-**Bibliografia:** @dimoulis_curso_2016, cap. 1
-
-### 25.08.25 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade
-
-  1. Definição
-      a. Conteúdo
-      a. Forma
-      a. Razão
-  1. Quem deve garantir a supremacia da constituição?
-      a. O Poder Legislativo
-      a. O Poder Executivo
-      a. O Poder Judiciário
-          i. Controle difuso de constitucionalidade
-          i. Controle concentrado de constitucionalidade
-
-### 29.08.25 - PAP 1.1
-          
-[**PAP 1.1:** Marbury vs. Madison e a emergência do controle de constitucionalidade](pap_11.html)  
-**Prazo:** 05/03
-
-## Semana 4
-
-### 01.09.25 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
-
-[**Notas de aula**](notas_4.html)  
-**Bibliografia:** @dimoulis_curso_2016, cap. 1
-
-  1. Modelos de controle de constitucionalidade
-      a. Quanto ao npumero de fiscais da constitucionalidade
-          i. Sistema difuso (universal)
-          i. Sistema concentrado
-          i. Sistemas mistos?
-      a. Quanto ao tipo de fiscalização
-          i. Concreto
-          i. Abstrato
-  1. Formas de inconstitucionalidade
-      a. Quanto à natureza da norma violada
-          i. Inconstitucionalidade formal
-          i. Inconstitucionalidade material
-      a. Quanto ao momento de ocorrência da inconstitucionalidade
-          i. Inconstitucionalidade originária
-          i. Inconstitucionalidade superveniente
-      
-
-### 05.09.25 - aula 4.2: processo constitucional
+### 25.08.25 - aula 3.1: processo legislativo
 
 [**Notas de aula**](notas_4_extra.html)  
 **Bibliografia:** @brasil_constituicao_1988; @mendes_curso_2024; @moraes_direito_2023 
@@ -115,62 +70,55 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Votação
   1. Sanção e veto
   1. Promulgação e publicação
-  
-## Semana acadêmica
 
-### 08.09.25 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
+### 29.08.25 - aula 3.2: a supremacia da constituição e o controle de constitucionalidade
 
-### 12.09.25 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
+[**Notas de aula**](notas_3.html)  
+**Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## Semana 5
+  1. Definição
+      a. Conteúdo
+      a. Forma
+      a. Razão
+  1. Quem deve garantir a supremacia da constituição?
+      a. O Poder Legislativo
+      a. O Poder Executivo
+      a. O Poder Judiciário
+          i. Controle difuso de constitucionalidade
+          i. Controle concentrado de constitucionalidade
 
-[**Notas de aula**](notas_5.html)  
-**Bibliografia:** @barroso_pratica_2024, pp. 128-160
+PAP 1.1
+          
+[**PAP 1.1:** Marbury vs. Madison e a emergência do controle de constitucionalidade](pap_11.html)  
+**Prazo:** 05.09.25
 
-### 15.09.25 - aula 5.1: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
+## Semana 4
 
-### 19.09.25 - aula 5.2: ação direta de inconstitucionalidade e ação direta de inconstitucionalidade por omissão
+### 01.09.25 - aula 4.1: inconstitucionalidade e controle de constitucionalidade
 
-[**PAP 1.2:** ADIn - oficina de peça profissional](pap_12.html)  
-**Prazo:** 23/03
+[**Notas de aula**](notas_4.html)  
+**Bibliografia:** @dimoulis_curso_2016, cap. 1
 
-## Semana 6
+  1. Modelos de controle de constitucionalidade
+      a. Quanto ao número de fiscais da constitucionalidade
+          i. Sistema difuso (universal)
+          i. Sistema concentrado
+          i. Sistemas mistos?
+      a. Quanto ao tipo de fiscalização
+          i. Concreto
+          i. Abstrato
+  1. Formas de inconstitucionalidade
+      a. Quanto à natureza da norma violada
+          i. Inconstitucionalidade formal
+          i. Inconstitucionalidade material
+      a. Quanto ao momento de ocorrência da inconstitucionalidade
+          i. Inconstitucionalidade originária
+          i. Inconstitucionalidade superveniente
 
-[**Notas de aula**](notas_6.html)  
-**Bibliografia:** @barroso_pratica_2024, pp. 149-172
-
-### 22.09.25 - aula 6.1: ação declaratória de constitucionalidade
-
-### 26.09.25 - aula 6.2: ação declaratória de constitucionalidade
-
-[**PAP 1.3:** ADC - oficina de peça profissional](pap_13.html)  
-**Prazo:** 06/04
-
-## Semana 7
-
-### 29.09.25
-
-### 03.10.25 - PAT-1
-
-## Semana 8
-
-**Bibliografia:** @barroso_pratica_2024, pp. 183-194
-
-### 06.10.25 - aula 8.1: arguição de Descumprimento de Preceito Fundamental
-
-### 10.10.25 - aula 8.2: arguição de Descumprimento de Preceito Fundamental
-
-[**PAP 1.4:** ADPF - oficina de peça profissional](pap_14.html)  
-**Prazo:** 16/04
-
-## Semana 9
+### 05.09.25 - aula 4.2: métodos de interpretação constitucional
 
 [**Notas de aula**](notas_9.html)  
 **Bibliografia:** @dimoulis_curso_2016, cap. 5
-
-### 13.10.25 - aula 9.1: correção da PAT-1
-
-### 17.10.25 - aula 9.2: métodos de interpretação constitucional
   
   1.  Introdução  
   1.  Métodos clássicos de interpretação  
@@ -186,51 +134,108 @@ knitr::opts_chunk$set(echo = FALSE)
       a.  Apelo ao legislador
   1.  Mutação constitucional  
       a.  Caso emblemático: Reclamação 4.335
-  1.  Considerações finais 
+  1.  Considerações finais
+      
+## Semana acadêmica
+
+### 08.09.25 - semana acadêmica
+
+### 12.09.25 - semana acadêmica
+
+## Semana 5
+
+[**Notas de aula**](notas_5.html)  
+**Bibliografia:** @barroso_pratica_2024, pp. 128-160
+
+### 15.09.25 - aula 5.1: ação direta de inconstitucionalidade e ação declaratória de constitucionalidade
+
+### 19.09.25 - aula 5.2: ação direta de inconstitucionalidade e ação declaratória de constitucionalidade
+
+[**PAP 1.2:** ADIn - oficina de peça profissional](pap_12.html)  
+**Prazo:** 21.09.2025
+
+## Semana 6
+
+[**Notas de aula**](notas_6.html)  
+**Bibliografia:** @barroso_pratica_2024, pp. 149-172
+
+### 22.09.25 - aula 6.1: ação direta de inconstitucionalidade por omissão
+
+### 26.09.25 - aula 6.2: ação direta de inconstitucionalidade por omissão
+
+[**PAP 1.3:** ADI-O - oficina de peça profissional](pap_13.html)  
+**Prazo:** 28.09.2025
+
+## Semana 7
+
+### 29.09.25 - revisão
+
+### 03.10.25 - PAT-1
+
+## Semana 8
+
+**Bibliografia:** @barroso_pratica_2024, pp. 183-194
+
+### 06.10.25 - aula 8.1: correção da PAT-1
+
+### 10.10.25 - aula 8.2: arguição de Descumprimento de Preceito Fundamental
+
+[**PAP 1.4:** ADPF - oficina de peça profissional](pap_14.html)  
+**Prazo:**12.10.2025
+
+## Semana 9
+
+[**Notas de aula**](notas_10.html) 
+**Bibliografia:** @barroso_pratica_2024, pp. 195-207
+
+### 13.10.25 - aula 9.1: reclamação constitucional e súmula vinculante
+
+### 17.10.25 - aula 9.2: reclamação constitucional e súmula vinculante
+
+[**PAP 2.1:** RC - oficina de peça profissional](pap_21.html)  
+**Prazo:** 19.10.25
 
 **PAP 2.1:** RC - oficina de peça profissional
 
 ## Semana 10
 
-[**Notas de aula**](notas_10.html) 
-**Bibliografia:** @barroso_pratica_2024, pp. 195-207
-
-### 20.10.25
-
-### 24.10.25 - aula 10.1: reclamação constitucional e súmula vinculante
-
-[**PAP 2.1:** RC - oficina de peça profissional](pap_21.html)  
-**Prazo:** 27/04
-
-## Semana 11
-
 [**Notas de aula**](notas_11.html)  
 **Bibliografia:** @barroso_pratica_2024, pp. 21-30
 
-### 27.10.25 - aula 11.1: *habeas corpus*
+### 20.10.25 - aula 10.1: introdução aos remédios constitucionais e *habeas corpus*
 
-### 31.10.25 - aula 11.2: *habeas corpus*
+### 24.10.25 - aula 10.2: *habeas corpus*
 
 [**PAP 2.2:** HC - oficina de peça profissional](pap_22.html)  
-**Prazo:** 04/05
+**Prazo:** 26.10.25
 
-## Semana 12
+## Semana 11
 
 [**Notas de aula**](notas_12.html)  
 **Bibliografia:** @barroso_pratica_2024, pp. 61-88
 
-### 03.11.25 - aula 12.1: mandado de segurança individual
+### 27.10.25 - aula 11.1: mandado de segurança
 
-### 07.11.25 - aula 12.2: mandado de segurança coletivo
+### 31.10.25 - aula 11.2: mandado de segurança
 
 [**PAP 2.3:** MS - oficina de peça profissional](pap_23.html)  
-**Prazo:** 11/05
+**Prazo:** 02.11.25
+
+## Semana 12
+
+### 03.11.25 - aula 12.1: mandado de injunção
+
+### 07.11.25 - aula 12.2: *habeas data*
+
 
 ## Semana 13
 
-### 10.11.25
+### 10.11.25 - aula 13.1: ação popular
 
-### 14.11.25
+### 14.11.25 - aula 13.2: ação popular
+
+[**PAP 2.4:** AP - oficina de peça profissional](pap24.html)  
+**Prazo:** 16.11.25
 
 ## Semana institucional
 
@@ -243,10 +248,7 @@ knitr::opts_chunk$set(echo = FALSE)
 [**Notas de aula**](notas_14.html)  
 **Bibliografia:** @barroso_pratica_2024, pp. 89-105
 
-### 24.11.25 - aula 14: ação popular
-
-[**PAP 2.4:** AP - oficina de peça profissional](pap24.html)  
-**Prazo:** 01/06
+### 24.11.25 - aula 14: revisão
 
 ### 28.11.25 - **Dia de avaliação PAT2**
 
