@@ -1,7 +1,6 @@
 ---
 title: "Processo Constitucional"
-description: |
-  Bacharelado em direito - Universidade Zumbi dos Palmares
+description: "Bacharelado em direito - Universidade Zumbi dos Palmares\n"
 site: distill::distill_website
 bibliography: PCO.bib
 csl: abnt.csl
@@ -111,7 +110,7 @@ As avaliações serão avaliadas com base nos seguintes critérios:
 - Precisão conceitual e fundamentação jurídica;  
 - Originalidade da análise e uso de referências adequadas.  
 
-#### Critérios de Avaliação Adicionais
+##### Critérios de Avaliação Adicionais
 
 Além dos critérios já mencionados, as avaliações escritas que envolvem a redação de peças processuais serão analisadas conforme os seguintes parâmetros:
 
@@ -119,6 +118,40 @@ Além dos critérios já mencionados, as avaliações escritas que envolvem a re
 - Domínio da **terminologia jurídica** e uso correto da norma culta;
 - Correção na **fundamentação jurídica** com base na Constituição Federal e na jurisprudência dos tribunais superiores;
 - **Capacidade argumentativa** e **coerência** na construção da peça.
+
+#### Fórmula de cálculo da nota
+
+A média para aprovação no curso é de **6 pontos**. Caso não a alcance mediante a realização das avaliações ordinárias (PAP, PAT e, caso necessário, SUB), podem ocorrer as seguintes situações:
+
+- Se o/a estudante obtiver, no mínimo **3 pontos**, terá a oportunidade de avaliação extraordinária através do **exame** 
+
+- Se o/a estudante obtiver média inferior a **3 pontos**, estará automaticamente reprovado/a
+
+##### Nota bimestral
+
+A nota bimestral é simplesmente a soma das notas da PAP e da PAT:
+
+$$\text{Nota Bimestral} = \text{Nota PAP} + \text{Nota PAT} $$
+
+##### Média semestral
+
+A média do curso é a média aritmética simples das notas dos dois bimestres: 
+
+$$\text{Média Semestral} = \frac{\text{Nota Bimestre 1} + \text{Nota Bimestre 2}}{2} $$
+**Situações:**
+
+- Se a **Média Semestral** for, no mínimo, **6 pontos**, o estudante está aprovado/a
+- Se a **Média Semestral** for, no mínimo, **3 pontos**, mas inferior a **6**, o estudante terá a oportunidade de avaliação extraordinária através do **exame**
+- Se a **Média Semestral** for inferior a **3 pontos**, o estudante estará automaticamente reprovado/a 
+
+##### Nota final
+
+A nota final, caso o estudante faça o exame, é a média aritmética simples entre a Média Final do semestre e a nota do Exame: 
+
+$$\text{Nota Final} = \frac{\text{Média Semestral} + \text{Nota Exame}}{2} $$
+
+**Observação:** A média para aprovação no exame é de **5 pontos**.
+
 
 ## Plágio e uso indevido de IA em atividades acadêmicas
 

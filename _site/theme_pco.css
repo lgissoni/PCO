@@ -119,14 +119,18 @@ h3 {
 
 h4 {
     color: rgb(249, 83, 85) !important; 
+    font-size: 1em !important;
 }
 
 h5 {
     color: rgb(249, 83, 85) !important; 
+    font-size: 1em !important;
 }
 
 h6 {
     color: rgb(249, 83, 85) !important; 
+    font-size: 1em !important;
+    font-style: italic;
 }
 
 /*-- Abaixo altero a cor dos negritos --*/
