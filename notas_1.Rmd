@@ -7,11 +7,12 @@ author:
     affiliation_url: https://zumbidospalmares.edu.br/
 date: "`r Sys.Date()`"
 output: distill::distill_article
-bibliography: bibliografia.bib
+bibliography: pco.bib
 csl: abnt.csl
 ---
+# O conceito de processo
 
-# Introdução"
+## Introdução
 
 > Utilizado no vocabulário científico, o termo processo indica uma
 > sequência de atos e acontecimentos que estão relacionados e levam a
