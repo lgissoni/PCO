@@ -7,11 +7,11 @@ author:
     affiliation_url: https://zumbidospalmares.edu.br/
 date: "`r Sys.Date()`"
 output: distill::distill_article
-bibliography: bibliografia.bib
+bibliography: pco.bib
 csl: abnt.csl
 ---
 
-# Processo legal
+# Aula 2.1 - Processo legal
 
 No direito, "processo\" é uma sequência de atos que, aplicando normas
 jurídicas existentes, visa produzir novas normas jurídicas.
@@ -214,7 +214,7 @@ passa a ser de conhecimento fundamental a qualquer operador do direito.
 > currículo de alguns cursos de graduação em direito, aumentando também
 > os cursos de pós-graduação e as pesquisas sobre o tema [@dimoulis_curso_2016, p. 15].
 
-# Direito processual
+# Aula 2.2 Direito processual
 
 ## Introdução
 
