@@ -227,6 +227,8 @@ Em contraste, o **direito processual** estabelece as regras e procedimentos para
 - **Direito material**: O Código Civil prevê que quem causa dano a outra pessoa deve indenizá-la.
 - **Direito processual**: O Código de Processo Civil estabelece as regras para a vítima entrar com uma ação judicial e obter essa indenização.
 
+---
+
 ### Jurisdição, ação e processo
 
 > A jurisdição, a ação e o processo formam a chamada “trilogia estrutural de conceitos básicos do direito processual” – denominação de Ramiro Podetti.
@@ -239,6 +241,8 @@ Em contraste, o **direito processual** estabelece as regras e procedimentos para
 
 > Assim, o direito processual é fundamentalmente o ramo do direito que se propõe a tratar da jurisdição, da ação e do processo, e dos seus variados desdobramentos, como as partes, a petição inicial, a citação, a contestação, a audiência, a sentença, a execução e os recursos [@montans_de_sa_processo_2012, n.p.].
 
+---
+
 ### Espécies de direito processual
 
 O direito processual subdivide-se nas seguintes espécies:
@@ -248,6 +252,8 @@ O direito processual subdivide-se nas seguintes espécies:
 - O **direito processual penal**, ou processo penal, destina-se às lides penais. É um instrumento de efetivação do direito penal.
 
 - O **direito processual do trabalho**, ou processo do trabalho, destina-se às lides trabalhistas. É um instrumento de efetivação do direito do trabalho [@montans_de_sa_processo_2012, n.p.].
+
+---
 
 <div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
 <span>
@@ -264,9 +270,13 @@ A teoria da lide foi desenvolvida por <b>Carnelutti</b>, que a definiu como o co
 </p></span>
 </div>
 
+---
+
 ## Eficácia da norma processual
 
 A eficácia das normas processuais refere-se à sua aplicabilidade no tempo e no espaço. No Brasil, vigora o princípio do **tempus regit actum**, segundo o qual a norma processual nova se aplica imediatamente aos processos em curso, respeitando os atos já praticados.
+
+---
 
 ## Interpretação da Norma Processual
 
@@ -277,7 +287,11 @@ A interpretação das normas processuais deve seguir os métodos tradicionais de
 - **Teleológica**: consideração da finalidade da norma.
 - **Histórica**: análise do contexto de criação da norma (@autor_ano).
 
+---
+
 ## Função Jurisdicional
+
+---
 
 ### Jurisdição
 
@@ -295,7 +309,11 @@ e com aptidão para tornar-se indiscutível (a decisão jurisdicional so-
 mente écontrolada pela própria jurisdição e apenas ela pode formar
 a coisa julgada) [@borba_dialogos_2020, pp. 853-854].
 
+---
+
 #### Características
+
+---
 
 ##### Inércia
 
@@ -307,6 +325,8 @@ Há, no entanto, exceções previstas em lei. Veja, por exemplo:
 
 > Art. 712. Verificado o desaparecimento dos autos, eletrônicos ou não, pode o juiz, de ofício, qualquer das partes ou o Ministério Público, se for o caso, promover-lhes a restauração [@brasil_cpc_2015]. 
 
+---
+
 ##### Imparcialidade
 
 > A atividade jurisdicional tem que ser
@@ -316,17 +336,25 @@ tenha algum tipo de interesse OBJETIVO (hipóteses de IMPE-
 DIMENTO, art. 144) ou SUBJETIVO (hipóteses de SUSPEIÇÃO,
 art. 145) na solução da controvérsia [@borba_dialogos_2020, p. 855].
 
+---
+
 ##### Substitutividade
 
 A vontade das partes é **substituída** pela decisão judicial, que passa a determinar qual deve ser a solução para o problema apresentado.
+
+---
 
 ##### Definitividade
 
 A decisão jurisdicional é **imutável** e **indiscutível**, em nome de sua segurança e autoridade.
 
+---
+
 ##### Unicidade e indivisibilidade
 
 A jurisdição é **una** e **indivisível**.
+
+---
 
 #### Princípios
 
@@ -339,7 +367,11 @@ A jurisdição, como função estatal, é regida por princípios fundamentais qu
 - **Territorialidade**: 0 órgão julgador exerce poder jurisdicional nos limites da sua área de atuação
 - **Juiz natural**: Ninguém será processado senão pela autoridade competente, sendo proibido juízo ou tribunal de exceção
 
+---
+
 #### Classificação
+
+---
 
 ##### Contenciosa x voluntária
 
@@ -350,9 +382,13 @@ nal. Trata-se da jurisdição voluntária. São os casos da ho-
 mologação de separação e divórcio consensual, interdição,
 etc [@@borba_dialogos_2020, p. 860]
 
+---
+
 ##### Cível x criminal
 
 A jurisdição será cível por exclusão: sempre que não for criminal, será cível.
+
+---
 
 ##### Comum x especial
 
@@ -370,6 +406,8 @@ São jurisdições comuns:
 
 2. Justiça estadual.
 
+---
+
 ### Ação
 
 O direito de ação é a faculdade de provocar o Judiciário para a solução de um conflito. Ele é regido por condições como:
@@ -377,6 +415,8 @@ O direito de ação é a faculdade de provocar o Judiciário para a solução de
 1. **Legitimidade das partes**
 2. **Interesse processual**
 3. **Possibilidade jurídica do pedido**.
+
+---
 
 ### Competência
 

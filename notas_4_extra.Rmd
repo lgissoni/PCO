@@ -7,11 +7,13 @@ author:
     affiliation_url: https://zumbidospalmares.edu.br/
 date: "`r Sys.Date()`"
 output: distill::distill_article
-bibliography: bibliografia.bib
+bibliography: pco.bib
 csl: abnt.csl
 ---
 
-# Introdução
+# Processo legislativo, parte 1
+
+## Introdução
 
 É função típica do Poder Legislativo editar **atos normativos
 primários**, isto é, aqueles que instituem direitos e criam obrigações.
@@ -27,7 +29,7 @@ primários**, isto é, aqueles que instituem direitos e criam obrigações.
 > Parágrafo único. Lei complementar disporá sobre a elaboração, redação,
 > alteração e consolidação das leis [@brasil_constituicao_1988].
 
-# A iniciativa
+## A iniciativa
 
 > O processo legislativo tem início quando alguém ou algum ente toma a
 > iniciativa de apresentar uma proposta de criação de novo direito
@@ -37,7 +39,7 @@ Em regra, o processo legislativo tem início na Câmara dos Deputados, a
 menos que resulte de iniciativa de senador ou de comissão do Senado
 Federal.
 
-## Iniciativa comum
+### Iniciativa comum
 
 > Art. 61. A iniciativa das leis complementares e ordinárias cabe a
 > qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal
@@ -54,7 +56,7 @@ Federal.
 > constituinte não tenha restringido o âmbito da sua titularidade
 > [@mendes_curso_2024 p. 156].
 
-## Iniciativa reservada
+### Iniciativa reservada
 
 > Em algumas hipóteses, a Constituição reserva a possibilidade de dar
 > início ao processo legislativo a apenas algumas autoridades ou órgãos.
@@ -65,11 +67,11 @@ Federal.
 > oportunidade da deflagração do debate legislativo em torno do assunto
 > reservado [@mendes_curso_2024 p. 156].
 
-### Iniciativa privativa de órgãos do Judiciário
+#### Iniciativa privativa de órgãos do Judiciário
 
 É de competência privativa:
 
-#### Do Supremo Tribunal Federal
+##### Do Supremo Tribunal Federal
 
 Propor lei complementar sobre o Estatuto da Magistratura.
 
@@ -77,7 +79,7 @@ Propor lei complementar sobre o Estatuto da Magistratura.
 > disporá sobre o Estatuto da Magistratura, observados os seguintes
 > princípios\... [@brasil_constituicao_1988]
 
-#### Dos tribunais
+##### Dos tribunais
 
 Propor a criação de novas varas judiciárias em sua própria estrutura.
 
@@ -87,7 +89,7 @@ Propor a criação de novas varas judiciárias em sua própria estrutura.
 > d) propor a criação de novas varas judiciárias\...
 > [@brasil_constituicao_1988]
 
-#### Do Supremo Tribunal Federal, dos Tribunais Superiores e dos Tribunais de Justiça
+##### Do Supremo Tribunal Federal, dos Tribunais Superiores e dos Tribunais de Justiça
 
 Propor a estruturação e organização dos tribunais inferiores.
 
@@ -105,7 +107,7 @@ Propor a estruturação e organização dos tribunais inferiores.
 > d) a alteração da organização e da divisão judiciárias\...
 > [@brasil_constituicao_1988]
 
-### Iniciativa privativa do Ministério Público
+#### Iniciativa privativa do Ministério Público
 
 Compete ao Ministério Público a iniciativa para propor ao Poder
 Legislativo a criação e extinção de seus cargos e serviços auxiliares,
@@ -124,13 +126,13 @@ bem assim a política remuneratória e os planos de carreira.
 > disporá sobre sua organização e funcionamento\...
 > [@brasil_constituicao_1988]
 
-### Iniciativa privativa da Câmara dos Deputados, do Senado e do Tribunal de Contas da União
+#### Iniciativa privativa da Câmara dos Deputados, do Senado e do Tribunal de Contas da União
 
 A Câmara dos Deputados e o Senado Federal têm a iniciativa privativa
 para leis que fixem a remuneração dos servidores incluídos na sua
 organização.
 
-#### Câmara dos Deputados
+##### Câmara dos Deputados
 
 > Art. 51. Compete privativamente à Câmara dos Deputados:\
 > (\...)\
@@ -140,7 +142,7 @@ organização.
 > remuneração, observados os parâmetros estabelecidos na lei de
 > diretrizes orçamentárias\... [@brasil_constituicao_1988]
 
-#### Senado Federal
+##### Senado Federal
 
 > Art. 52. Compete privativamente ao Senado Federal:\
 > (\...)\
@@ -150,7 +152,7 @@ organização.
 > remuneração, observados os parâmetros estabelecidos na lei de
 > diretrizes orçamentárias\... [@brasil_constituicao_1988]
 
-#### Tribunal de Contas da União
+##### Tribunal de Contas da União
 
 > Para preservar a independência orgânica do Tribunal de Contas da
 > União, o constituinte estendeu-lhe o exercício das atribuições
@@ -161,12 +163,12 @@ organização.
 > remuneração de servidores, e fixação de subsídios dos membros da Corte
 > [@mendes_curso_2024 p. 1057].
 
-### Iniciativa privativa do Presidente da República
+#### Iniciativa privativa do Presidente da República
 
 A Constituição reservou um extenso rol de matérias à iniciativa
 privativa do Presidente da República. A lógica é a seguinte:
 
-#### Temas relacionados ao regime jurídico de servidores públicos, civis e militares
+##### Temas relacionados ao regime jurídico de servidores públicos, civis e militares
 
 > Art. 61. (\...)\
 > § 1º São de iniciativa privativa do Presidente da República as leis
@@ -198,7 +200,7 @@ funcionamento da Administração Federal, que não impliquem aumento de
 despesa, passaram a ser objeto de decreto do Presidente da República\"
 [@mendes_curso_2024 p. 1057]
 
-#### Leis orçamentárias
+##### Leis orçamentárias
 
 > Art. 84. Compete privativamente ao Presidente da República:\
 > (\...)\
@@ -223,7 +225,7 @@ apresentação da proposta é obrigatória.
 > constituir matéria de direito estrito, não se presume e nem comporta
 > interpretação ampliativa" [@mendes_curso_2024 p. 1058].
 
-# Discussão
+## Discussão
 
 Na fase de deliberação parlamentar, "projeto de lei seguirá, na
 respectiva Casa Legislativa, para a fase da instrução, nas comissões
@@ -264,7 +266,7 @@ Temáticas\" [@moraes_direito_2023 p. 766].
 > a fim de se apurar a viabilidade da emenda parlamentar, mesmo que não
 > importe aumento de despesa [@mendes_curso_2024 p. 1060]
 
-# Votação
+## Votação
 
 Após o período de debates, o projeto segue para votação. Para aprovação,
 deverá ser atingido o quorum mínimo exigido para a matéria pela
@@ -296,7 +298,7 @@ projeto for reijeitado pela Casa Revisora, será arquivado.
 > legislativo (Deliberação Principal) prevalecerá nesta hipótese
 > [@moraes_direito_2023 p. 768].
 
-#### Regime de urgência
+### Regime de urgência
 
 > Art. 64. A discussão e votação dos projetos de lei de iniciativa do
 > Presidente da República, do Supremo Tribunal Federal e dos Tribunais
@@ -315,14 +317,24 @@ projeto for reijeitado pela Casa Revisora, será arquivado.
 > § 4º Os prazos do § 2º não correm nos períodos de recesso do Congresso
 > Nacional, nem se aplicam aos projetos de código.
 
-# Sanção e veto
+# Processo legislativo, parte 2
+
+## Sanção e veto
 
 O Presidente da República não participa do processo legislativo apenas
-quando propõe projetos d sua iniciativa, mas também quando, terminada a
+quando propõe projetos de sua iniciativa, mas também quando, terminada a
 fase de votação, é chamado a sancionar ou vetar o projeto aprovado pelo
 Legislativo.
 
-## Sanção
+Após aprovação, o projeto segue para **sanção ou veto** pelo Presidente.
+
+- **Sanção expressa**: concordância formal.
+- **Sanção tácita**: silêncio por 15 dias úteis.
+- **Veto**: deve ser **expresso**, **fundamentado** e pode ser:
+  - **Jurídico** (inconstitucionalidade);
+  - **Político** (contrariedade ao interesse público).
+
+### Sanção
 
 Concordando com o projeto, o Presidente pode sancioná-lo
 **expressamente**, ou **tacitamente**, quando não o veta no prazo
@@ -352,7 +364,7 @@ constitucional.
 > deflagrar o processo legislativo, "ficando atendida a exigência
 > constitucional da iniciativa" [@mendes_curso_2024 p. 1062]
 
-## Veto
+### Veto
 
 O veto deve obrigatoriamente ser expresso e fundamentado:
 
@@ -382,7 +394,16 @@ Não há veto ou sanção na emenda à Constituição, em decretos
 legislativos, em resoluções, leis delegadas ou em lei resultante da
 conversão, sem alterações, de medida provisória.
 
-# Promulgação e publicação
+#### Regras do veto:
+- Prazo: 15 dias úteis.
+- Pode ser **total** ou **parcial** (sobre artigo, parágrafo, inciso ou alínea).
+- Congresso pode **rejeitar** veto com maioria absoluta de cada Casa.
+
+<div class="warning">
+<strong>Súmula 5 do STF:</strong> Sanção não convalida vício de iniciativa (entendimento atual).
+</div>
+
+## Promulgação e publicação
 
 > Com a promulgação se atesta a existência da lei, que passou a existir
 > com a sanção ou com a rejeição do veto, e se ordena a sua aplicação. O
@@ -406,3 +427,11 @@ aumentando significativamente os salários dos professores federais. O
 projeto vai à votação e é aprovado, retornando para você. Sabendo que o
 Presidente não deseja esse aumento salarial, o que você pode fazer para
 atendê-lo?
+
+**Perguntas:**  
+1. Qual vício ocorreu na apresentação do primeiro projeto pelo deputado?  
+2. A sanção presidencial sana esse vício?  
+3. O que diz a Constituição sobre emendas parlamentares em projetos de iniciativa privativa?  
+4. Qual instrumento jurídico o Presidente pode usar para excluir as emendas?  
+
+Fundamente suas respostas com dispositivos constitucionais.
