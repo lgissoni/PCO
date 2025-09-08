@@ -13,7 +13,7 @@ csl: abnt.csl
 
 # Definição
 
-O século XIX foi marcado pelo triumfo do *constitucionalismo* - a
+O século XIX foi marcado pelo triunfo do *constitucionalismo* - a
 proposta e reivindicação *política* de limitar o poder monárquico e do
 Estado através da criação de uma constituição que:
 
@@ -25,7 +25,7 @@ Estado através da criação de uma constituição que:
 
 O constituicionalismo foi a expressão político-jurídica do movimento
 revolucionário mais amplo dirigido pela burguesia contra a nobreza e o
-antigo regime. Por isso, a maioria dos constitucionalista considerava
+antigo regime. Por isso, a maioria dos constitucionalistas considerava
 mais importantes os "direitos de liberdade\", que limitavam o arbítrio
 real sobre os cidadão e, principalmente, sobre a propriedade privada.
 
@@ -35,7 +35,7 @@ real sobre os cidadão e, principalmente, sobre a propriedade privada.
 organização política do Estado de forma clara e taxativa. Expressa um
 projeto político elaborado e imposto pelos detentores do poder\"
 [@dimoulis_curso_2016 p. 19]. Esse conteúdo político varia de acordo com
-o país e o momento histórico, mas na maioria dos casos objetica garantir
+o país e o momento histórico, mas na maioria dos casos objetiva garantir
 o modo de produção capitalista e o regime político da democracia
 representativa, em sua versão liberal, com a delimitação da competência
 dos poderes estatais.
