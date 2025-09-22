@@ -11,9 +11,13 @@ bibliography: PCO.bib
 csl: abnt.csl
 ---
 
-Quando falamos em Ação Direta de Inconstitucionalidade (ADI ou ADIn), há a Ação Direta de Inconstitucionalidade genérica (ADI genérica ou ADI apenas) e a Ação Direta de Inconstitucionalidade por Omissão (ADIO ou ADO).
-
 # Ação Direta de Inconstitucionalidade: teoria
+
+## 1. Introdução
+
+A Ação Direta de Inconstitucionalidade (ADI) é o principal instrumento do **controle concentrado de constitucionalidade** no Brasil. Trata-se de um processo **objetivo**, voltado à tutela da supremacia da Constituição, **sem partes propriamente ditas**, buscando a declaração de inconstitucionalidade de leis ou atos normativos federais ou estaduais que contrariem o texto constitucional.
+
+Segundo Barroso, a ADI “é cabível para a declaração de inconstitucionalidade de lei ou ato normativo federal ou estadual que viole a Constituição, sendo julgada pelo Supremo Tribunal Federal, que atua como verdadeiro guardião da Carta Magna” [@barroso_pratica_2024].
 
 > Regulamentada pela Lei n. 9.868/99, a ADI genérica tem como objetivo afastar do ordenamento jurídico lei ou ato normativo federal ou estadual que estejam eivados de vícios de inconstitucionalidade. Diferentemente do que se observa no controle difuso, aqui a análise se dará de forma abstrata, direta, genérica, objetiva, o que lhe garante também essas adjetivações (controle abstrato, controle direto, controle objetivo etc.)[^1].
 <br><br>
@@ -21,25 +25,167 @@ O objeto, nessa ação, será a análise de compatibilidade da lei ou ato normat
 
 [^1]: "Não há a finalidade de que sejam analisadas questões relativas às relações entre sujeitos que discutem bens da vida (relações subjetivas), mas sim o abstrato contido no mandamento normativo" [@barroso_pratica_2024, p. 128].
 
-## Cabimento
+## 2. Fundamentos Constitucionais e Legais
+
+A ADI está prevista no **art. 102, I, “a”, da Constituição Federal** e é regulada pela **Lei nº 9.868/1999**. O fundamento central é a proteção da **supremacia constitucional** e a preservação da unidade do ordenamento jurídico.
+
+**Art. 102, I, “a” da CF:**  
+
+> Art. 102 - Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:  
+> I – processar e julgar, originariamente:  
+> a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal.
+
+## 3. Objeto da ADI
+
+Segundo Padilha , o objeto é “declarar a inconstitucionalidade abstrata de lei ou ato normativo (…) de natureza federal, estadual ou distrital no exercício da competência estadual” [@padilha_como_2014].  
+Incluem-se medidas provisórias, leis delegadas e até emendas constitucionais, desde que violem normas constitucionais estruturantes.
+
+### 3.1 Cabimento
 
 Caberá ADI genérica contra **lei ou ato normativo federal ou estadual** em face da Constituição Federal (sendo o **STF** competente para julgá-la) e contra **lei ou ato normativo estadual ou municipal** em face da Constitução Estadual (sendo o respectivo TJ competente para julgá-la)
 
-<div class="warning" style='background-color: rgb(255, 219, 214); color: rgb(185, 13, 40); border-left: solid rgb(249, 83, 85) 4px; border-radius: 4px; padding:0.7em;'>
-<span>
-<p style='margin-top:1em; text-align:center'>
-<b>Atenção</b></p>
-<p style='margin-left:1em;'>
-Leis Municipais não poderão ser objeto de ADI em face da Constituição Federal, mas poderão ser objeto de ADI em face da Constituição Estadual (art. 125, § 2º, da CF), sendo o Tribunal de Justiça respectivo o competente para enfrentar a questão.
-<br><br>
+<div class="warning">
 
+<p>
+<b>Atenção</b></p>
+<p>
+Leis Municipais não poderão ser objeto de ADI em face da Constituição Federal, mas poderão ser objeto de ADI em face da Constituição Estadual (art. 125, § 2º, da CF), sendo o Tribunal de Justiça respectivo o competente para enfrentar a questão.</p>
+<br><br>
+<p>
 > Art. 125 [...]
 § 2º Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão [@brasil_constituicao_1988]. 
 
-</p></span>
-</div><br>
+</p>
+</div>
 
 A possibilidade de controle é definida pela circunstância da norma estar **em vigência** (existe e é válida) e não **em vigor**, ou seja, pode estar no período de *vacatio legis*.
 
-# Ação Direta de Inconstitucionalidade: prática
+## 4. Competência
+
+A competência para processar e julgar a ADI é originária do **Supremo Tribunal Federal**:
+
+<div class="complementar">
+**Endereçamento típico:**  
+“Excelentíssimo Senhor Ministro Presidente do Supremo Tribunal Federal”.
+</div>
+
+## 5. Legitimidade Ativa
+
+O **art. 103 da CF** estabelece os legitimados à propositura da ADI.  
+
+<div class="complementar">
+**Art. 103 da CF:**  
+“Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:  
+I – o Presidente da República;  
+II – a Mesa do Senado Federal;  
+III – a Mesa da Câmara dos Deputados;  
+IV – a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal;  
+V – o Governador de Estado ou do Distrito Federal;  
+VI – o Procurador-Geral da República;  
+VII – o Conselho Federal da Ordem dos Advogados do Brasil;  
+VIII – partido político com representação no Congresso Nacional;  
+IX – confederação sindical ou entidade de classe de âmbito nacional.”
+</div>
+
+Os legitimados marcados com (*) precisam demonstrar **pertinência temática** (Padilha, @padilha_como_2014).  
+> Exemplo: uma confederação sindical só pode propor ADI em matéria de interesse direto da categoria.
+
+## 6. Petição Inicial e Requisitos
+
+A Lei 9.868/99 detalha os requisitos da petição inicial da ADI:
+
+<div class="complementar">
+**Art. 3º da Lei 9.868/99:**  
+“A petição indicará:  
+I – o dispositivo da lei ou do ato normativo impugnado e os fundamentos jurídicos do pedido em relação a cada uma das impugnações;  
+II – o pedido, com suas especificações.”  
+Parágrafo único. A petição inicial (…) será apresentada em duas vias, devendo conter cópias da lei ou do ato normativo impugnado e dos documentos necessários para comprovar a impugnação.”
+</div>
+
+> Segundo Padilha, a clareza na indicação dos dispositivos e fundamentos jurídicos é essencial para evitar indeferimento liminar.
+
+## 7. Procedimento
+
+Após protocolada a ADI:
+
+- O relator pedirá informações ao órgão que editou o ato questionado (**Art. 6º**).  
+- O Advogado-Geral da União será ouvido em quinze dias (**Art. 8º**).  
+- Em seguida, o Procurador-Geral da República manifesta-se, também em quinze dias (**Art. 8º**).  
+
+<div class="warning">
+**Para saber mais – Amicus curiae**  
+O STF admite manifestação de terceiros em ADI, mesmo que a Lei 9.868/99 vete formalmente a intervenção (Art. 7º). O relator pode admitir manifestações relevantes (ADI 4.071).
+</div>
+
+## 8. Medida Cautelar
+
+A Lei 9.868/99 prevê a concessão de medida cautelar:
+
+<div class="complementar">
+**Art. 10 da Lei 9.868/99:**  
+“Salvo no período de recesso, a medida cautelar na ação direta será concedida por decisão da maioria absoluta dos membros do Tribunal (…)”.
+</div>
+
+- Possibilidade de efeito **ex nunc** ou **ex tunc** conforme decisão do STF.  
+- Possibilidade de efeito **repristinatório** (Art. 11, §2º).  
+
+<div class="warning">
+**Para saber mais – Jurisprudência do STF**  
+ADI 1946/DF (Lei de Imprensa): STF suspendeu dispositivos antes do julgamento final, reconhecendo risco de lesão irreparável.
+</div>
+
+## 9. Julgamento e Quórum
+
+A decisão em ADI exige quórum qualificado:
+
+<div class="complementar">
+**Art. 22 da Lei 9.868/99:**  
+“A decisão sobre a constitucionalidade (…) somente será tomada se presentes na sessão pelo menos oito Ministros.”  
+**Art. 23:** É necessário voto de seis Ministros no mesmo sentido para proclamar constitucionalidade ou inconstitucionalidade.
+</div>
+
+> Efeitos **erga omnes** e **vinculantes** (CF, art. 102, §2º).
+
+## 10. Efeito Dúplice
+
+A ADI possui caráter ambivalente: se julgada improcedente, confirma-se a constitucionalidade; se procedente, declara-se a inconstitucionalidade (Padilha, @padilha_como_2014).
+
+<div class="complementar">
+**Art. 24 da Lei 9.868/99:**  
+“Proclamada a constitucionalidade, julgar-se-á improcedente a ação direta ou procedente eventual ação declaratória; e, proclamada a inconstitucionalidade, julgar-se-á procedente a ação direta ou improcedente eventual ação declaratória.”
+</div>
+
+## 11. Modulação dos Efeitos
+
+<div class="complementar">
+**Art. 27 da Lei 9.868/99:**  
+“Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado.”
+</div>
+
+> Segundo Barroso, a modulação é instrumento essencial de ponderação entre a supremacia constitucional e a segurança jurídica.
+
+<div class="warning">
+**Para saber mais – Jurisprudência do STF**  
+ADI 2.258/DF: o STF modulou os efeitos da decisão para preservar situações consolidadas e evitar grave insegurança jurídica.
+</div>
+
+## 12. Técnicas de Decisão
+
+O STF pode aplicar:
+
+- Interpretação conforme a Constituição  
+- Declaração parcial de inconstitucionalidade sem redução de texto  
+- Efeitos erga omnes e vinculantes após publicação do acórdão (Art. 28 da Lei 9.868/99)
+
+## 13. Conclusão
+
+A ADI é instrumento central do **controle concentrado** no Brasil. Seu desenho processual, inspirado no modelo austríaco mas adaptado à realidade constitucional brasileira, equilibra supremacia da Constituição, segurança jurídica e ampla participação democrática (amicus curiae, audiências públicas).
+
+---
+
+# 14. Para a próxima aula
+
+Elaborar **atividade baseada nos textos dos autores**:  
+- Identificar vícios em uma petição inicial de ADI.  
+- Discutir a pertinência temática e os efeitos da decisão.  
 
