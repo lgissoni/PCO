@@ -55,7 +55,7 @@ O curso contará com **aulas expositivas**, momentos de reflexão individual e *
 #### Bibliografia básica
 
 @brasil_constituicao_1988  
-[@barroso_pratica_2024](images/lamounier.pdf)  
+[@barroso_pratica_2024](lamounier.pdf)  
 @dimoulis_curso_2016
 
 #### Bibliografia complementar
