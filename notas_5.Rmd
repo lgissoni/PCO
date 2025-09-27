@@ -185,7 +185,4 @@ A ADI é instrumento central do **controle concentrado** no Brasil. Seu desenho 
 
 # 14. Para a próxima aula
 
-Elaborar **atividade baseada nos textos dos autores**:  
-- Identificar vícios em uma petição inicial de ADI.  
-- Discutir a pertinência temática e os efeitos da decisão.  
-
+Fazer [**exercício 1**](ex_1_adi.html)  

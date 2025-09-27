@@ -34,22 +34,14 @@ navbar:
           href: notas_10.html
         - text: "Semana 11"
           href: notas_11.html
-    - text: "PAPs"
+    - text: "Exercícios"
       menu:
-        - text: "PAP 1.1"
-          href: pap_11.html
-        - text: "PAP 1.2"
-          href: pap_12.html
-        - text: "PAP 1.3"
-          href: pap_13.html
-        - text: "PAP 1.4"
-          href: pap_14.html
-        - text: "PAP 2.1"
-          href: pap_21.html
-        - text: "PAP 2.2"
-          href: pap_22.html
-        - text: "PAP 2.3"
-          href: pap_23.html
+        - text: "1 - Ação direta de inconstitucionalidade"
+          href: ex_1_adi.html
+    - text: "Gabaritos"
+      menu:
+        - text: "1 - Ação direta de inconstitucionalidade"
+          href: gab_1_adi.html
     - icon: fab fa-github
       href: https://github.com/lgissoni
 output:
