@@ -4,6 +4,8 @@ description: "Bacharelado em direito - Universidade Zumbi dos Palmares\n"
 site: distill::distill_website
 bibliography: PCO.bib
 csl: abnt.csl
+resource_files:
+  - resources/lamounier.pdf
 ---
 
 ```{r setup, include=FALSE}
