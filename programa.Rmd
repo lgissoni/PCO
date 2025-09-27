@@ -11,6 +11,8 @@ csl: abnt.csl
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+[**Manual de prática constitucional**](resources/lamounier.pdf) 
+
 ## Semana 1
 
 [**Notas de aula**](notas_1.html)  
@@ -146,8 +148,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### 19.09.25 - aula 5.2: ação direta de inconstitucionalidade e ação declaratória de constitucionalidade
 
-[**Exercício 1** ação direta de inconstitucionalide](ex_1_adi.html)  
-[**Gabarito exercício 1** ação direta de inconstitucionalide](gab_1_adi.html) 
+[**Exercício 1** - ação direta de inconstitucionalide](ex_1_adi.html)  
+[**Gabarito exercício 1** - ação direta de inconstitucionalide](gab_1_adi.html) 
 
 ## Semana 6
 

@@ -185,4 +185,4 @@ A ADI é instrumento central do **controle concentrado** no Brasil. Seu desenho 
 
 # 14. Para a próxima aula
 
-Fazer [**exercício 1**](ex_1_adi.html)  
+Fazer [**exercício 1**](ex_1_adi.html), consultando o [**manual de prática constitucional de Lamounier et al.**](resources/lamounier.pdf) 
