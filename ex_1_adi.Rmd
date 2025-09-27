@@ -1,0 +1,27 @@
+---
+title: "Exercício 1"
+description: |
+  Ação direta de inconstitucionalidade
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: pco.bib
+csl: abnt.csl
+---
+
+**(OAB/2ª FASE – XXXV)** O Estado Alfa, com o declarado objetivo de uniformizar a atividade e zelar pela qualidade do serviço de transporte coletivo municipal, de modo a proteger os interesses do consumidor, promulgou a Lei nº XX, que entrará em vigor dentro de 30 (trinta) dias.  
+
+De acordo com o Art. 1º desse diploma normativo, o serviço de transporte coletivo municipal prestado em cada Município situado no território do Estado deverá atender ao extenso rol de especificações previstas nos incisos desse preceito, que variam desde o tamanho e o conforto dos veículos até o número mínimo de linhas e de veículos em circulação nos finais de semana.  
+
+O Art. 2º dispôs sobre as normas gerais para a licitação do serviço, que poderiam ser suplementadas pelos Municípios, de modo a atender às peculiaridades locais.  
+
+Por fim, o Art. 3º determinou que o Art. 1º da Lei nº XX deveria ser imediatamente aplicado aos contratos de concessão em curso, realizando-se as adaptações que se fizessem necessárias na prestação do serviço.  
+
+O Partido Político Beta, com representação na Câmara dos Deputados e que defende fortemente o liberalismo econômico, fez severas críticas à Lei estadual nº XX, pois, ao seu ver, além de ser flagrantemente inconstitucional, sua implementação poderia levar à ruína econômica das sociedades empresárias que se dedicam à exploração dessa atividade, que teriam seus custos potencializados e seriam obrigadas a paralisar o seu funcionamento. Com isso, o efeito seria contrário àquele preconizado pelos idealizadores da lei, pois o usuário do serviço, ao invés de ser beneficiado, seria severamente prejudicado.  
+
+**Considerando a narrativa acima, na condição de advogado(a) do Partido Político Beta, elabore a peça processual cabível de controle concentrado de constitucionalidade, de modo que seja realizado o cotejo da Lei estadual nº XX com a Constituição da República, perante o órgão constitucional diretamente incumbido de sua guarda. (Valor: 5,00).**  
+
+*Obs.:* a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.

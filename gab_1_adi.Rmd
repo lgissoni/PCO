@@ -1,0 +1,66 @@
+---
+title: "Gabarito - exercício 1"
+description: |
+  Ação direta de inconstitucionalidade
+author: 
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: pco.bib
+csl: abnt.csl
+---
+
+# Gabarito Comentado – Exercício 1 (ADI)
+
+A peça adequada é a **petição inicial de Ação Direta de Inconstitucionalidade (ADI)**.  
+
+A petição deve ser **endereçada ao Ministro Presidente do Supremo Tribunal Federal**, órgão jurisdicional competente para processar e julgar a referida ação, conforme o art. 102, I, “a”, da CRFB/88 c/c art. 1º da Lei nº 9.868/99.  
+
+A ação deve ser proposta pelo **Partido Político Beta**, cuja legitimidade decorre do art. 103, VIII, da CRFB/88 ou do art. 2º, VIII, da Lei nº 9.868/99.  
+
+Deve-se indicar que o ato normativo foi editado com o concurso do Governador e da Assembleia Legislativa do Estado Alfa.  
+
+Deve ser informado o teor do ato normativo estadual impugnado, em especial os arts. 1º, 2º e 3º da Lei estadual nº XX.  
+
+Deve ser justificado o **cabimento da ADI**, pois se está diante de ato normativo estadual dissonante da Constituição da República, conforme previsto no art. 102, I, “a”, CRFB/88.  
+
+O examinando deve informar as normas constitucionais violadas, demonstrando e justificando, a saber:  
+
+- **(i)** Pelos arts. 1º e 3º da Lei estadual nº XX: violação ao art. 30, I, CRFB/88 (competência dos Municípios para legislar sobre assuntos de interesse local).  
+- **(ii)** Pelos arts. 1º e 3º da Lei estadual nº XX: violação ao art. 30, V, CRFB/88 (competência dos Municípios para organizar e prestar os serviços públicos de interesse local, incluindo transporte coletivo).  
+- **(iii)** Pelo art. 2º da Lei estadual nº XX: violação ao art. 22, XXVII, CRFB/88 (competência privativa da União para legislar sobre normas gerais de licitação).  
+- **(iv)** Os três fundamentos acima caracterizam a **inconstitucionalidade formal**.  
+- **(v)** Pelo art. 3º da Lei estadual nº XX: violação ao art. 5º, XXXVI, CRFB/88 (a lei não prejudicará o ato jurídico perfeito).  
+- **(vi)** Este último fundamento caracteriza a **inconstitucionalidade material**.  
+
+Além dos fundamentos de mérito, deve ser indicado o **embasamento da medida cautelar** a ser pleiteada, já que, além da patente inconstitucionalidade, há risco na demora, pois a aplicação da Lei estadual nº XX pode inviabilizar a continuidade das sociedades empresárias que exploram a atividade, com custos potencializados e prejuízo aos usuários do serviço.  
+
+Deve ser formulado **pedido de medida cautelar**, com fundamento no art. 10 da Lei 9.868/99, com o objetivo de suspender a eficácia da Lei estadual nº XX.  
+
+O pedido principal deve ser a **declaração de inconstitucionalidade da Lei estadual nº XX**.  
+
+Por fim, deve haver o **fechamento da petição** com local, data, assinatura do(a) advogado(a) e número da OAB.  
+
+## Distribuição de Pontos
+
+| Item | Conteúdo Avaliado | Pontuação |
+|-------|------------------|-----------|
+| 1 | Endereçamento ao Ministro Presidente do STF | 0,00/0,10 |
+| 2 | Indicação do Autor (Partido Político Beta) | 0,00/0,10 |
+| 3 | Legitimidade ativa (art. 103, VIII, CRFB/88 ou art. 2º, VIII, Lei 9.868/99) | 0,00/0,10 |
+| 4 | Indicação do Governador/Assembleia como autores do ato normativo | 0,00/0,20/0,30 |
+| 5 | Ato normativo impugnado (Lei estadual nº XX) | 0,00/0,20 |
+| 6 | Cabimento da ADI (ato estadual dissonante da Constituição – art. 102, I, “a”) | 0,00/0,20/0,30 |
+| 7 | Violação art. 30, I ou V, CRFB/88 (competência municipal – transporte coletivo) | 0,00/0,20/0,40/0,60 |
+| 8 | Violação art. 30, V, CRFB/88 (organização e prestação dos serviços) | 0,00/0,20/0,40/0,60 |
+| 9 | Violação art. 22, XXVII, CRFB/88 (normas gerais de licitação) | 0,00/0,20/0,40/0,60 |
+|10 | Inconstitucionalidade formal (arts. 1º, 2º e 3º) | 0,00/0,10 |
+|11 | Violação art. 5º, XXXVI, CRFB/88 (ato jurídico perfeito) | 0,00/0,20/0,40/0,60 |
+|12 | Inconstitucionalidade material (art. 3º) | 0,00/0,10 |
+|13 | Patente inconstitucionalidade (fundamento para cautelar) | 0,00/0,20 |
+|14 | Risco na demora (justificativa da cautelar) | 0,00/0,10/0,20/0,30 |
+|15 | Pedido cautelar (fundamento no art. 10 da Lei 9.868/99) | 0,00/0,30/0,40 |
+|16 | Pedido principal (declaração de inconstitucionalidade) | 0,00/0,30 |
+|17 | Fechamento (local, data, advogado, OAB) | 0,00/0,10 |
