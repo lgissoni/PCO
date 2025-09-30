@@ -1,8 +1,0 @@
-# netlify.toml
-[build]
-  command = "Rscript -e 'distill::build_site()'"
-  publish = "_site"
-
-[build.environment]
-  # Esta variável diz ao Netlify para usar a imagem de build que inclui o R.
-  NETLIFY_BUILD_IMAGE = "netlify/build:focal"
